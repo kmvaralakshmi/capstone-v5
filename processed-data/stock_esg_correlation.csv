@@ -1,0 +1,51 @@
+Company_Code,Company_Name,Stock_Ticker,Return_1M_Pct,Return_3M_Pct,Return_6M_Pct,Return_1Y_Pct,Return_3Y_Pct,FY_Return_Pct,Volatility_Pct,Max_Drawdown_Pct,Stock_Performance_Score,Data_Points,Window_End,Data_Source,Coverage,Error
+TCS,Tata Consultancy Services,TCS.NS,1.32,0.38,-13.31,-27.43,-8.65,-7.93,21.01,-23.51,5.14,5775.0,2025-11-11,static NIFTY/SENSEX csv,price_data,
+INFY,Infosys,INFY.NS,2.48,7.46,-2.44,-17.73,-3.47,5.03,23.49,-21.46,6.29,7110.0,2025-11-11,static NIFTY/SENSEX csv,price_data,
+WIPRO,Wipro,WIPRO.NS,-1.4,-0.01,-3.93,-15.71,21.9,8.16,29.03,-18.82,4.29,7110.0,2025-11-11,static NIFTY/SENSEX csv,price_data,
+HCLTECH,HCL Technologies,HCLTECH.NS,5.04,4.73,-3.06,-15.92,42.86,2.3,23.67,-23.07,4.29,6411.0,2025-11-11,static NIFTY/SENSEX csv,price_data,
+TECHM,Tech Mahindra,TECHM.NS,-2.96,-6.71,-10.46,-17.38,32.16,13.96,26.87,-22.28,5.71,4740.0,2025-11-11,static NIFTY/SENSEX csv,price_data,
+LTIM,LTIMindtree,LTIM.NS,,,,,,,,,,,,,no_price_history,no price data available
+MPHASIS,Mphasis,MPHASIS.NS,,,,,,,,,,,,,no_price_history,no price data available
+PERSISTENT,Persistent Systems,PERSISTENT.NS,,,,,,,,,,,,,no_price_history,no price data available
+COFORGE,Coforge,COFORGE.NS,,,,,,,,,,,,,no_price_history,no price data available
+LTTS,L&T Technology Services,LTTS.NS,,,,,,,,,,,,,no_price_history,no price data available
+TATAELXSI,Tata Elxsi,TATAELXSI.NS,,,,,,,,,,,,,no_price_history,no price data available
+OFSS,Oracle Financial Services Software,OFSS.NS,,,,,,,,,,,,,no_price_history,no price data available
+KPITTECH,KPIT Technologies,KPITTECH.NS,,,,,,,,,,,,,no_price_history,no price data available
+CYIENT,Cyient,CYIENT.NS,,,,,,,,,,,,,no_price_history,no price data available
+BSOFT,Birlasoft,BSOFT.NS,,,,,,,,,,,,,no_price_history,no price data available
+ZENSARTECH,Zensar Technologies,ZENSARTECH.NS,,,,,,,,,,,,,no_price_history,no price data available
+TATATECH,Tata Technologies,TATATECH.NS,,,,,,,,,,,,,no_price_history,no price data available
+HAPPSTMNDS,Happiest Minds Technologies,HAPPSTMNDS.NS,,,,,,,,,,,,,no_price_history,no price data available
+SONATSOFTW,Sonata Software,SONATSOFTW.NS,,,,,,,,,,,,,no_price_history,no price data available
+HEXAWARE,Hexaware Technologies,HEXAWARE.NS,,,,,,,,,,,,,no_price_history,no price data available
+MINDTREE,Mindtree (legacy symbol),LTIM.NS,,,,,,,,,,,,,no_price_history,no price data available
+NEWGEN,Newgen Software Technologies,NEWGEN.NS,,,,,,,,,,,,,no_price_history,no price data available
+TANLA,Tanla Platforms,TANLA.NS,,,,,,,,,,,,,no_price_history,no price data available
+INTELLECT,Intellect Design Arena,INTELLECT.NS,,,,,,,,,,,,,no_price_history,no price data available
+ROUTE,Route Mobile,ROUTE.NS,,,,,,,,,,,,,no_price_history,no price data available
+RATEGAIN,RateGain Travel Technologies,RATEGAIN.NS,,,,,,,,,,,,,no_price_history,no price data available
+ECLERX,eClerx Services,ECLERX.NS,,,,,,,,,,,,,no_price_history,no price data available
+DATAMATICS,Datamatics Global Services,DATAMATICS.NS,,,,,,,,,,,,,no_price_history,no price data available
+MASTEK,Mastek,MASTEK.NS,,,,,,,,,,,,,no_price_history,no price data available
+SONACOMS,Sona BLW Precision Forgings,SONACOMS.NS,,,,,,,,,,,,,no_price_history,no price data available
+HGS,Hinduja Global Solutions,HGS.NS,,,,,,,,,,,,,no_price_history,no price data available
+NIITLTD,NIIT,NIITLTD.NS,,,,,,,,,,,,,no_price_history,no price data available
+E2E,E2E Networks,E2E.NS,,,,,,,,,,,,,no_price_history,no price data available
+AFFLE,Affle India,AFFLE.NS,,,,,,,,,,,,,no_price_history,no price data available
+MPSLTD,MPS,MPSLTD.NS,,,,,,,,,,,,,no_price_history,no price data available
+SUBEXLTD,Subex,SUBEXLTD.NS,,,,,,,,,,,,,no_price_history,no price data available
+SIS,Security and Intelligence Services,SIS.NS,,,,,,,,,,,,,no_price_history,no price data available
+ZOMATO,Eternal (formerly Zomato),ETERNAL.NS,,,,,,,,,,,,,no_price_history,no price data available
+PAYTM,One 97 Communications,PAYTM.NS,,,,,,,,,,,,,no_price_history,no price data available
+POLICYBZR,PB Fintech,POLICYBZR.NS,,,,,,,,,,,,,no_price_history,no price data available
+DELHIVERY,Delhivery,DELHIVERY.NS,,,,,,,,,,,,,no_price_history,no price data available
+NAZARA,Nazara Technologies,NAZARA.NS,,,,,,,,,,,,,no_price_history,no price data available
+TATACOMM,Tata Communications,TATACOMM.NS,,,,,,,,,,,,,no_price_history,no price data available
+INDUSTOWER,Indus Towers,INDUSTOWER.NS,,,,,,,,,,,,,no_price_history,no price data available
+BHARTIARTL,Bharti Airtel,BHARTIARTL.NS,4.47,10.38,12.18,30.87,148.49,42.39,23.53,-13.89,8.29,5901.0,2025-11-11,static NIFTY/SENSEX csv,price_data,
+TEJASNET,Tejas Networks,TEJASNET.NS,,,,,,,,,,,,,no_price_history,no price data available
+REDINGTON,Redington,REDINGTON.NS,,,,,,,,,,,,,no_price_history,no price data available
+HCL-INFO,HCL Infosystems,HCL-INSYS.NS,,,,,,,,,,,,,no_price_history,no price data available
+MAZDOCK,Mazagon Dock Shipbuilders,MAZDOCK.NS,,,,,,,,,,,,,no_price_history,no price data available
+TITAN,Titan Company,TITAN.NS,7.89,9.34,6.99,18.89,44.97,-18.06,24.15,-21.28,2.0,7110.0,2025-11-11,static NIFTY/SENSEX csv,price_data,

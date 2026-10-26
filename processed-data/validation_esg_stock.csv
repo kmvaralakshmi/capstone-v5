@@ -1,0 +1,5 @@
+Analysis,n,status
+ESG vs FY_Return_Pct,7,"insufficient sample (n=7, need >= 10)"
+ESG vs Return_1Y_Pct,7,"insufficient sample (n=7, need >= 10)"
+ESG vs Volatility_Pct,7,"insufficient sample (n=7, need >= 10)"
+ESG vs Max_Drawdown_Pct,7,"insufficient sample (n=7, need >= 10)"

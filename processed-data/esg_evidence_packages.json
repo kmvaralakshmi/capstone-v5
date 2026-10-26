@@ -1,0 +1,8311 @@
+{
+ "TCS": {
+  "company": "Tata Consultancy Services",
+  "code": "TCS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 78.34,
+   "environmental": 77.78,
+   "social": 78.89,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 4.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Renewable Energy Percentage",
+    "value": 79.222,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 6.0
+   },
+   {
+    "id": "M2",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 4.723,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.087,
+    "score_0_100": 98.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 886.784,
+    "score_0_100": 97.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Employee Turnover Rate",
+    "value": 13.3,
+    "score_0_100": 89.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 35.21,
+    "score_0_100": 88.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 22.0
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 25.0,
+    "score_0_100": 75.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 58.847,
+    "score_0_100": 73.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 13.56,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 5.13,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 16.39,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 48.64,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -0.7,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.8,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": -7.93,
+   "Return_1Y_Pct": -27.43,
+   "Volatility_Pct": 21.01,
+   "Max_Drawdown_Pct": -23.51,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims",
+    "claim_offset"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Partly offset",
+     "evidence": "BRSR: Renewable Energy Percentage +5.1pp vs prior year | total energy rose +13.6% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction,"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Female Directors Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "INFY": {
+  "company": "Infosys",
+  "code": "INFY",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 71.73,
+   "environmental": 73.84,
+   "social": 79.05,
+   "governance": 62.59,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 13,
+   "rank": 20.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Renewable Energy Percentage",
+    "value": 68.871,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 161.0
+   },
+   {
+    "id": "M2",
+    "metric": "Waste Recycled Percentage",
+    "value": 96.63,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 6.043,
+    "score_0_100": 98.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.062,
+    "score_0_100": 98.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 730.061,
+    "score_0_100": 98.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 39.05,
+    "score_0_100": 97.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 159.0
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 14.1,
+    "score_0_100": 86.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Female Directors Percentage",
+    "value": 22.23,
+    "score_0_100": 67.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M9",
+    "metric": "Independent Directors Percentage",
+    "value": 31.0,
+    "score_0_100": 27.5,
+    "source": "BRSR_PDF",
+    "page": 95.0
+   },
+   {
+    "id": "M10",
+    "metric": "Water Recycled Percentage",
+    "value": 6.0,
+    "score_0_100": 12.0,
+    "source": "BRSR_PDF",
+    "page": 163.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 1.31,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 11.01,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -2.02,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -76.42,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 2.01,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 1.5,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": true,
+   "esg_articles": 1,
+   "negative_share_pct": 0.0,
+   "environmental_events": 1,
+   "social_events": 0,
+   "governance_events": 0,
+   "reliability": 0.167,
+   "headlines": [
+    "Global environment \u2018more stable\u2019 but not yet fully settled, says Infosys CEO Salil Parekh"
+   ]
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": 5.03,
+   "Return_1Y_Pct": -17.73,
+   "Volatility_Pct": 23.49,
+   "Max_Drawdown_Pct": -21.46,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bangalore",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +11.0pp vs prior year"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -2.0% vs prior year"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -76.4% vs prior year"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +2.0pp vs prior year"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 13 of 18 BRSR metrics were trusted"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Water Recycled Percentage",
+   "Independent Directors Percentage",
+   "Female Directors Percentage"
+  ]
+ },
+ "WIPRO": {
+  "company": "Wipro",
+  "code": "WIPRO",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 77.26,
+   "environmental": 67.89,
+   "social": 89.25,
+   "governance": 74.71,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 13,
+   "rank": 6.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Renewable Energy Percentage",
+    "value": 79.135,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 28.0
+   },
+   {
+    "id": "M2",
+    "metric": "Independent Directors Percentage",
+    "value": 92.2,
+    "score_0_100": 100.0,
+    "source": "BRSR_PDF",
+    "page": 14.0
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 5.803,
+    "score_0_100": 99.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 932.282,
+    "score_0_100": 97.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 37.14,
+    "score_0_100": 92.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 26.0
+   },
+   {
+    "id": "M6",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.453,
+    "score_0_100": 90.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 14.81,
+    "score_0_100": 84.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Female Directors Percentage",
+    "value": 22.23,
+    "score_0_100": 67.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 11.0
+   },
+   {
+    "id": "M9",
+    "metric": "Waste Recycled Percentage",
+    "value": 37.74,
+    "score_0_100": 47.2,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 12.0
+   },
+   {
+    "id": "M10",
+    "metric": "Water Recycled Percentage",
+    "value": 4.0,
+    "score_0_100": 8.0,
+    "source": "BRSR_PDF",
+    "page": 35.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 3.29,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 6.58,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 26.54,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 128.99,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -15.26,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.86,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": true,
+   "esg_articles": 1,
+   "negative_share_pct": 100.0,
+   "environmental_events": 1,
+   "social_events": 0,
+   "governance_events": 0,
+   "reliability": 0.167,
+   "headlines": [
+    "Clients adjusting to uncertainty, discretionary spend reviving only in pockets: Wipro Chairman Rishad Premji"
+   ]
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": 8.16,
+   "Return_1Y_Pct": -15.71,
+   "Volatility_Pct": 29.03,
+   "Max_Drawdown_Pct": -18.82,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bangalore",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +6.6pp vs prior year"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 13 of 18 BRSR metrics were trusted"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Water Recycled Percentage",
+   "Waste Recycled Percentage",
+   "Female Directors Percentage"
+  ]
+ },
+ "HCLTECH": {
+  "company": "HCL Technologies",
+  "code": "HCLTECH",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 70.32,
+   "environmental": 66.33,
+   "social": 74.31,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 12,
+   "rank": 23.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 92.084,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 67.0
+   },
+   {
+    "id": "M2",
+    "metric": "Female Directors Percentage",
+    "value": 50.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 3.733,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.13,
+    "score_0_100": 97.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1169.562,
+    "score_0_100": 95.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 12.99,
+    "score_0_100": 90.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 28.81,
+    "score_0_100": 72.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 46.0
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 34.384,
+    "score_0_100": 57.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 3.0
+   },
+   {
+    "id": "M9",
+    "metric": "Water Recycled Percentage",
+    "value": 6.0,
+    "score_0_100": 12.0,
+    "source": "BRSR_PDF",
+    "page": 49.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -4.51,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 15.36,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 13.06,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -25.18,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 12.66,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.57,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": 2.3,
+   "Return_1Y_Pct": -15.92,
+   "Volatility_Pct": 23.67,
+   "Max_Drawdown_Pct": -23.07,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -4.5% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +15.4pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -25.2% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +12.7pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 12 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Water Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "TECHM": {
+  "company": "Tech Mahindra",
+  "code": "TECHM",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 75.36,
+   "environmental": 71.71,
+   "social": 79.02,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 12,
+   "rank": 10.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 98.716,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 4.618,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Directors Percentage",
+    "value": 40.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1140.488,
+    "score_0_100": 95.6,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 11.8,
+    "score_0_100": 94.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 34.17,
+    "score_0_100": 85.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Water Recycled Percentage",
+    "value": 32.0,
+    "score_0_100": 64.0,
+    "source": "BRSR_PDF",
+    "page": 33.0
+   },
+   {
+    "id": "M9",
+    "metric": "Renewable Energy Percentage",
+    "value": 22.647,
+    "score_0_100": 37.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 32.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 14.8,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -0.31,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 14.13,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 72.77,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 2.08,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 1.8,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": 13.96,
+   "Return_1Y_Pct": -17.38,
+   "Volatility_Pct": 26.87,
+   "Max_Drawdown_Pct": -22.28,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Pune",
+   "avg_aqi": 175.0,
+   "category": "Moderate",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +2.1pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 12 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Water Recycled Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "LTIM": {
+  "company": "LTIMindtree",
+  "code": "LTIM",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 79.23,
+   "environmental": 82.64,
+   "social": 87.15,
+   "governance": 68.24,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 12,
+   "rank": 2.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 97.21,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 89.0
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 4.292,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 797.294,
+    "score_0_100": 97.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Renewable Energy Percentage",
+    "value": 56.765,
+    "score_0_100": 94.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 89.0
+   },
+   {
+    "id": "M6",
+    "metric": "Independent Directors Percentage",
+    "value": 55.0,
+    "score_0_100": 87.5,
+    "source": "BRSR_PDF",
+    "page": 89.0
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 14.35,
+    "score_0_100": 85.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Female Employee Percentage",
+    "value": 30.38,
+    "score_0_100": 76.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 89.0
+   },
+   {
+    "id": "M9",
+    "metric": "Female Directors Percentage",
+    "value": 9.1,
+    "score_0_100": 27.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 21.81,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 13.25,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 8.42,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 149.64,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 5.14,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -0.1,
+    "unit": "pp",
+    "direction": "stable"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "claim_offset"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Partly offset",
+     "evidence": "BRSR: Renewable Energy Percentage +13.2pp vs prior year | total energy rose +21.8% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +5.1pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 12 of 18 BRSR metrics were trusted",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Female Directors Percentage",
+   "Female Employee Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "MPHASIS": {
+  "company": "Mphasis",
+  "code": "MPHASIS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 75.74,
+   "environmental": 81.34,
+   "social": 70.15,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 13,
+   "rank": 9.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Recycled Percentage",
+    "value": 100.0,
+    "score_0_100": 100.0,
+    "source": "BRSR_PDF",
+    "page": 246.0
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 6.356,
+    "score_0_100": 98.6,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Waste Recycled Percentage",
+    "value": 73.64,
+    "score_0_100": 92.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Renewable Energy Percentage",
+    "value": 55.163,
+    "score_0_100": 91.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 246.0
+   },
+   {
+    "id": "M6",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 2095.043,
+    "score_0_100": 89.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 25.0,
+    "score_0_100": 75.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Female Employee Percentage",
+    "value": 26.75,
+    "score_0_100": 66.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 273.0
+   },
+   {
+    "id": "M9",
+    "metric": "Employee Turnover Rate",
+    "value": 26.93,
+    "score_0_100": 43.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 5.96,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 6.59,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": 22.07,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Waste Recycled Percentage",
+    "change": 6.11,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": 0.62,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bangalore",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +6.6pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +6.1pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 13 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Employee Turnover Rate",
+   "Female Employee Percentage",
+   "Female Directors Percentage"
+  ]
+ },
+ "PERSISTENT": {
+  "company": "Persistent Systems",
+  "code": "PERSISTENT",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 84.26,
+   "environmental": 79.84,
+   "social": 88.68,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 12,
+   "rank": 1.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 99.19,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 3.492,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 749.18,
+    "score_0_100": 98.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Renewable Energy Percentage",
+    "value": 56.966,
+    "score_0_100": 94.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 12.0
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 12.9,
+    "score_0_100": 90.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 30.28,
+    "score_0_100": 75.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 12.0
+   },
+   {
+    "id": "M8",
+    "metric": "Female Directors Percentage",
+    "value": 22.23,
+    "score_0_100": 67.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M9",
+    "metric": "Water Recycled Percentage",
+    "value": 5.0,
+    "score_0_100": 10.0,
+    "source": "BRSR_PDF",
+    "page": 12.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 0.34,
+    "unit": "%",
+    "direction": "stable"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 18.03,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -11.69,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -6.13,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 0.22,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 1.4,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Pune",
+   "avg_aqi": 175.0,
+   "category": "Moderate",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +18.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -11.7% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -6.1% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 12 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Water Recycled Percentage",
+   "Female Directors Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "COFORGE": {
+  "company": "Coforge",
+  "code": "COFORGE",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 72.15,
+   "environmental": 63.71,
+   "social": 80.58,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 18.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 97.402,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 5.102,
+    "score_0_100": 99.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 759.899,
+    "score_0_100": 98.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 28.7,
+    "score_0_100": 71.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 30.0
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 19.0,
+    "score_0_100": 70.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 12.139,
+    "score_0_100": 20.2,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 36.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 46.2,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 11.08,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 18.42,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 134.42,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 15.2,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -2.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "claim_offset"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Partly offset",
+     "evidence": "BRSR: Renewable Energy Percentage +11.1pp vs prior year | total energy rose +46.2% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +15.2pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -2.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Female Directors Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "LTTS": {
+  "company": "L&T Technology Services",
+  "code": "LTTS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 64.65,
+   "environmental": 65.7,
+   "social": 63.61,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 35.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1353.183,
+    "score_0_100": 94.1,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 10.677,
+    "score_0_100": 94.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Directors Percentage",
+    "value": 18.19,
+    "score_0_100": 55.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Employee Turnover Rate",
+    "value": 24.4,
+    "score_0_100": 52.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 20.14,
+    "score_0_100": 50.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 25.672,
+    "score_0_100": 42.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 14.456,
+    "score_0_100": 18.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 0.47,
+    "unit": "%",
+    "direction": "stable"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 2.74,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -19.58,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 2.64,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -5.76,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": true,
+   "esg_articles": 1,
+   "negative_share_pct": 0.0,
+   "environmental_events": 1,
+   "social_events": 0,
+   "governance_events": 0,
+   "reliability": 0.167,
+   "headlines": [
+    "L&T to build India\u2019s maiden green hydrogen plant at IOC's refinery"
+   ]
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +2.7pp vs prior year"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -19.6% vs prior year"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "TATAELXSI": {
+  "company": "Tata Elxsi",
+  "code": "TATAELXSI",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 75.83,
+   "environmental": 74.68,
+   "social": 76.98,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 8.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 6.156,
+    "score_0_100": 98.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.084,
+    "score_0_100": 98.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1162.195,
+    "score_0_100": 95.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Employee Turnover Rate",
+    "value": 13.3,
+    "score_0_100": 89.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 35.06,
+    "score_0_100": 87.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 43.0
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 50.719,
+    "score_0_100": 84.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 42.0
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 31.313,
+    "score_0_100": 39.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 3.98,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 10.84,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 9.39,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 14.68,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 28.55,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.9,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bangalore",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +10.8pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +28.6pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Female Directors Percentage",
+   "Renewable Energy Percentage"
+  ]
+ },
+ "OFSS": {
+  "company": "Oracle Financial Services Software",
+  "code": "OFSS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 78.15,
+   "environmental": 72.95,
+   "social": 91.77,
+   "governance": 69.97,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 12,
+   "rank": 5.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 3.996,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Employee Turnover Rate",
+    "value": 11.55,
+    "score_0_100": 94.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1470.789,
+    "score_0_100": 93.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 30.0,
+    "score_0_100": 90.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Waste Recycled Percentage",
+    "value": 68.032,
+    "score_0_100": 85.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 32.19,
+    "score_0_100": 80.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 15.0
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 17.201,
+    "score_0_100": 28.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 16.0
+   },
+   {
+    "id": "M9",
+    "metric": "Independent Directors Percentage",
+    "value": 30.0,
+    "score_0_100": 25.0,
+    "source": "BRSR_PDF",
+    "page": 3.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -7.23,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 3.93,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 14.21,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 18.57,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 19.95,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.59,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -7.2% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +3.9pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +19.9pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 12 of 18 BRSR metrics were trusted",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Independent Directors Percentage",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "KPITTECH": {
+  "company": "KPIT Technologies",
+  "code": "KPITTECH",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 79.15,
+   "environmental": 81.45,
+   "social": 76.86,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 3.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 765.85,
+    "score_0_100": 98.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Waste Recycled Percentage",
+    "value": 76.661,
+    "score_0_100": 95.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 54.0
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 32.23,
+    "score_0_100": 80.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 39.0
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 43.973,
+    "score_0_100": 73.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 41.0
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 25.0,
+    "score_0_100": 50.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Female Directors Percentage",
+    "value": 7.15,
+    "score_0_100": 21.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 20.38,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 7.39,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 28.12,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 449.86,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -23.26,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 2.0,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Pune",
+   "avg_aqi": 175.0,
+   "category": "Moderate",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "intensity_outlier",
+    "claim_offset"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Partly offset",
+     "evidence": "BRSR: Renewable Energy Percentage +7.4pp vs prior year | total energy rose +20.4% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction,"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Female Directors Percentage",
+   "Employee Turnover Rate",
+   "Renewable Energy Percentage"
+  ]
+ },
+ "CYIENT": {
+  "company": "Cyient",
+  "code": "CYIENT",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 67.35,
+   "environmental": 66.75,
+   "social": 67.94,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 27.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 6.897,
+    "score_0_100": 98.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1680.13,
+    "score_0_100": 91.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Waste Recycled Percentage",
+    "value": 68.83,
+    "score_0_100": 86.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 22.23,
+    "score_0_100": 67.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 25.0,
+    "score_0_100": 62.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 27.6,
+    "score_0_100": 41.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 23.587,
+    "score_0_100": 39.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -15.39,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -4.56,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -1.24,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 38.35,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 57.1,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 5.1,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Hyderabad",
+   "avg_aqi": 378.0,
+   "category": "Very Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -15.4% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -1.2% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +57.1pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Employee Turnover Rate",
+   "Female Employee Percentage"
+  ]
+ },
+ "BSOFT": {
+  "company": "Birlasoft",
+  "code": "BSOFT",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 72.06,
+   "environmental": 62.58,
+   "social": 81.54,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 19.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 3.22,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Directors Percentage",
+    "value": 42.86,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 751.521,
+    "score_0_100": 98.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Waste Recycled Percentage",
+    "value": 70.451,
+    "score_0_100": 88.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 25.0
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 15.3,
+    "score_0_100": 82.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 24.91,
+    "score_0_100": 62.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 16.0
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 8.954,
+    "score_0_100": 14.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 17.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 2.28,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -0.55,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 9.83,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -30.15,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 7.97,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 1.2,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -30.1% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +8.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Female Employee Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "ZENSARTECH": {
+  "company": "Zensar Technologies",
+  "code": "ZENSARTECH",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 68.35,
+   "environmental": 86.34,
+   "social": 75.04,
+   "governance": 44.39,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 13,
+   "rank": 24.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 1.884,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Waste Recycled Percentage",
+    "value": 100.007,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 589.338,
+    "score_0_100": 99.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Renewable Energy Percentage",
+    "value": 53.28,
+    "score_0_100": 88.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 36.0
+   },
+   {
+    "id": "M6",
+    "metric": "Water Recycled Percentage",
+    "value": 40.0,
+    "score_0_100": 80.0,
+    "source": "BRSR_PDF",
+    "page": 15.0
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 29.92,
+    "score_0_100": 74.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 32.0
+   },
+   {
+    "id": "M8",
+    "metric": "Employee Turnover Rate",
+    "value": 24.9,
+    "score_0_100": 50.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M9",
+    "metric": "Female Directors Percentage",
+    "value": 11.12,
+    "score_0_100": 33.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M10",
+    "metric": "Independent Directors Percentage",
+    "value": 24.24,
+    "score_0_100": 10.6,
+    "source": "BRSR_PDF",
+    "page": 31.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -10.48,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 21.79,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -6.5,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -49.26,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 0.01,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.2,
+    "unit": "pp",
+    "direction": "stable"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Pune",
+   "avg_aqi": 175.0,
+   "category": "Moderate",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -10.5% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +21.8pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -6.5% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -49.3% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 13 of 18 BRSR metrics were trusted",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Independent Directors Percentage",
+   "Female Directors Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "TATATECH": {
+  "company": "Tata Technologies",
+  "code": "TATATECH",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 65.26,
+   "environmental": 64.71,
+   "social": 65.81,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 32.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 9.351,
+    "score_0_100": 95.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1214.46,
+    "score_0_100": 95.1,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.336,
+    "score_0_100": 93.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Directors Percentage",
+    "value": 28.58,
+    "score_0_100": 86.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Employee Turnover Rate",
+    "value": 16.6,
+    "score_0_100": 78.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 15.89,
+    "score_0_100": 39.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 15.0
+   },
+   {
+    "id": "M7",
+    "metric": "Waste Recycled Percentage",
+    "value": 8.588,
+    "score_0_100": 10.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.175,
+    "score_0_100": 0.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 16.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 16.29,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -0.02,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 31.25,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 6.01,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -3.17,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -0.6,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": true,
+   "esg_articles": 2,
+   "negative_share_pct": 0.0,
+   "environmental_events": 2,
+   "social_events": 0,
+   "governance_events": 0,
+   "reliability": 0.286,
+   "headlines": [
+    "NTPC, NHPC, SJVN ordered to mandate India-made solar cells in renewable power bids",
+    "Stocks of IREDA, Tata Tech, 4 other F&O entrants extend losses for 2nd day, fall up to 7%"
+   ]
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Pune",
+   "avg_aqi": 175.0,
+   "category": "Moderate",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -0.6pp vs prior year"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Waste Recycled Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "HAPPSTMNDS": {
+  "company": "Happiest Minds Technologies",
+  "code": "HAPPSTMNDS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 71.23,
+   "environmental": 60.29,
+   "social": 82.17,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 22.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1009.358,
+    "score_0_100": 96.5,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 14.658,
+    "score_0_100": 89.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Employee Turnover Rate",
+    "value": 16.63,
+    "score_0_100": 77.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 25.0,
+    "score_0_100": 75.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 27.45,
+    "score_0_100": 68.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 9.869,
+    "score_0_100": 16.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -0.4,
+    "unit": "%",
+    "direction": "stable"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -0.08,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 678.11,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 69.72,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": 3.62,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bangalore",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "SONATSOFTW": {
+  "company": "Sonata Software",
+  "code": "SONATSOFTW",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 77.21,
+   "environmental": 72.43,
+   "social": 81.98,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 7.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Renewable Energy Percentage",
+    "value": 77.653,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 1.136,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 518.875,
+    "score_0_100": 99.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 30.38,
+    "score_0_100": 76.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 19.0,
+    "score_0_100": 70.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 14.29,
+    "score_0_100": 43.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -12.04,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 27.21,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -7.01,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 20.85,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": -6.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bangalore",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -12.0% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +27.2pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -7.0% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -6.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Female Directors Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "HEXAWARE": {
+  "company": "Hexaware Technologies",
+  "code": "HEXAWARE",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": null,
+   "environmental": 62.19,
+   "social": null,
+   "governance": null,
+   "risk_level": "Insufficient evidence",
+   "evidence_quality": "Insufficient",
+   "usable_metrics_of_18": 7,
+   "rank": null
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Renewable Energy Percentage",
+    "value": 70.0,
+    "score_0_100": 100.0,
+    "source": "BRSR_PDF",
+    "page": 106.0
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 165.571,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.822,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Employee Percentage",
+    "value": 40.0,
+    "score_0_100": 100.0,
+    "source": "BRSR_PDF",
+    "page": 106.0
+   },
+   {
+    "id": "M5",
+    "metric": "Waste Recycled Percentage",
+    "value": 1.0,
+    "score_0_100": 1.2,
+    "source": "BRSR_PDF",
+    "page": 126.0
+   }
+  ],
+  "trends": [],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Navi Mumbai",
+   "avg_aqi": 379.0,
+   "category": "Very Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims",
+    "disclosure_gap"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 7 of 18 BRSR metrics were trusted",
+    "social pillar has no reliable BRSR evidence",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": true,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Female Employee Percentage",
+   "Water Intensity (KL/employee)"
+  ]
+ },
+ "MINDTREE": {
+  "company": "Mindtree (legacy symbol)",
+  "code": "MINDTREE",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": null,
+   "environmental": null,
+   "social": null,
+   "governance": null,
+   "risk_level": "Insufficient evidence",
+   "evidence_quality": "Insufficient",
+   "usable_metrics_of_18": 0,
+   "rank": null
+  },
+  "metrics": [],
+  "trends": [],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bengaluru",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Insufficient evidence",
+   "signals": [
+    "disclosure_gap"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 0 of 18 BRSR metrics were trusted",
+    "environmental pillar has no reliable BRSR evidence",
+    "social pillar has no reliable BRSR evidence",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": true,
+  "weak_metrics": []
+ },
+ "NEWGEN": {
+  "company": "Newgen Software Technologies",
+  "code": "NEWGEN",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 74.17,
+   "environmental": 73.03,
+   "social": 75.32,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 13.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 94.131,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 5.957,
+    "score_0_100": 99.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 941.965,
+    "score_0_100": 97.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 28.58,
+    "score_0_100": 86.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 21.0,
+    "score_0_100": 63.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 25.05,
+    "score_0_100": 62.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 22.0
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 6.559,
+    "score_0_100": 10.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 6.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 5.78,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 5.94,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -37.0,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 254.67,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -5.11,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 4.0,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "New Delhi",
+   "avg_aqi": 256.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +5.9pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -37.0% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Female Employee Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "TANLA": {
+  "company": "Tanla Platforms",
+  "code": "TANLA",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 54.04,
+   "environmental": 50.79,
+   "social": 57.29,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 43.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 8.124,
+    "score_0_100": 96.7,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1841.031,
+    "score_0_100": 90.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Employee Percentage",
+    "value": 20.27,
+    "score_0_100": 50.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 14.29,
+    "score_0_100": 43.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 33.64,
+    "score_0_100": 21.2,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.053,
+    "score_0_100": 0.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 6.0
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -12.12,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 0.02,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 20.47,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 1.69,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": 1.94,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Hyderabad",
+   "avg_aqi": 378.0,
+   "category": "Very Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -12.1% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "INTELLECT": {
+  "company": "Intellect Design Arena",
+  "code": "INTELLECT",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 74.99,
+   "environmental": 77.07,
+   "social": 72.91,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 11.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 5.832,
+    "score_0_100": 99.1,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1116.028,
+    "score_0_100": 95.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Waste Recycled Percentage",
+    "value": 75.2,
+    "score_0_100": 94.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 8.0
+   },
+   {
+    "id": "M4",
+    "metric": "Employee Turnover Rate",
+    "value": 15.86,
+    "score_0_100": 80.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 1.405,
+    "score_0_100": 71.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 26.54,
+    "score_0_100": 66.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 24.0
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 28.647,
+    "score_0_100": 47.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 26.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -1.16,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -1.28,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -39.1,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 411.21,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -6.72,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 1.35,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Chennai",
+   "avg_aqi": 250.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -1.2% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -39.1% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Female Directors Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "ROUTE": {
+  "company": "Route Mobile",
+  "code": "ROUTE",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 65.75,
+   "environmental": 58.33,
+   "social": 73.16,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 30.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Employee Turnover Rate",
+    "value": 9.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 726.731,
+    "score_0_100": 98.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 7.158,
+    "score_0_100": 97.7,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 21.16,
+    "score_0_100": 52.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 23.0
+   },
+   {
+    "id": "M6",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 8.27,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": -3.39,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": 23.06,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Employee Turnover Rate",
+    "change": -9.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -3.4% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -9.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Female Directors Percentage"
+  ]
+ },
+ "RATEGAIN": {
+  "company": "RateGain Travel Technologies",
+  "code": "RATEGAIN",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 68.23,
+   "environmental": 57.71,
+   "social": 78.74,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 25.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 81.818,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 353.25,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Directors Percentage",
+    "value": 33.34,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Employee Turnover Rate",
+    "value": 16.1,
+    "score_0_100": 79.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 40.797,
+    "score_0_100": 62.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 22.62,
+    "score_0_100": 56.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -0.73,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": 650.84,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": -49.63,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Waste Recycled Percentage",
+    "change": 79.9,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": 4.94,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -0.7% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -49.6% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +79.9pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Female Employee Percentage",
+   "Water Intensity (KL/employee)"
+  ]
+ },
+ "ECLERX": {
+  "company": "eClerx Services",
+  "code": "ECLERX",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 71.34,
+   "environmental": 77.21,
+   "social": 65.47,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 21.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Renewable Energy Percentage",
+    "value": 64.084,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 27.0
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 7.096,
+    "score_0_100": 97.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1073.797,
+    "score_0_100": 96.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 36.17,
+    "score_0_100": 90.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 23.0
+   },
+   {
+    "id": "M6",
+    "metric": "Waste Recycled Percentage",
+    "value": 42.697,
+    "score_0_100": 53.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 11.12,
+    "score_0_100": 33.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Employee Turnover Rate",
+    "value": 38.2,
+    "score_0_100": 6.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 6.85,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": -1.8,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 83.25,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 69.16,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -34.96,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -7.68,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -7.7pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Employee Turnover Rate",
+   "Female Directors Percentage",
+   "Waste Recycled Percentage"
+  ]
+ },
+ "DATAMATICS": {
+  "company": "Datamatics Global Services",
+  "code": "DATAMATICS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 72.49,
+   "environmental": 60.55,
+   "social": 84.44,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 17.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.046,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Employee Percentage",
+    "value": 39.99,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1200.27,
+    "score_0_100": 95.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 25.0,
+    "score_0_100": 75.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 24.0,
+    "score_0_100": 53.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Waste Recycled Percentage",
+    "value": 10.123,
+    "score_0_100": 12.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 9.01,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": -99.58,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": 33.73,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Waste Recycled Percentage",
+    "change": 7.56,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": -2.48,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -99.6% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +7.6pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -2.5pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Waste Recycled Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "MASTEK": {
+  "company": "Mastek",
+  "code": "MASTEK",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 67.44,
+   "environmental": 53.08,
+   "social": 81.81,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 10,
+   "rank": 26.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 3.945,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Female Employee Percentage",
+    "value": 30.57,
+    "score_0_100": 76.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Employee Turnover Rate",
+    "value": 19.3,
+    "score_0_100": 69.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Waste Recycled Percentage",
+    "value": 12.468,
+    "score_0_100": 15.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 42.86,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": -0.91,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": 452.15,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Waste Recycled Percentage",
+    "change": -8.65,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": -6.87,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -0.9% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -6.9pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 10 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Waste Recycled Percentage",
+   "Female Directors Percentage"
+  ]
+ },
+ "SONACOMS": {
+  "company": "Sona BLW Precision Forgings",
+  "code": "SONACOMS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 59.84,
+   "environmental": 48.43,
+   "social": 71.25,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 37.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 96.812,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 262.67,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Employee Turnover Rate",
+    "value": 12.0,
+    "score_0_100": 93.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 22.23,
+    "score_0_100": 67.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 8.17,
+    "score_0_100": 20.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 3.473,
+    "score_0_100": 5.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 99.425,
+    "score_0_100": 0.6,
+    "source": "derived",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 9.64,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 1.52,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 13.7,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 9.92,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 0.05,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -1.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Gurugram",
+   "avg_aqi": 456.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +1.5pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -1.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Water Intensity (KL/employee)",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "HGS": {
+  "company": "Hinduja Global Solutions",
+  "code": "HGS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 65.0,
+   "environmental": 58.89,
+   "social": 71.11,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 33.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Employee Percentage",
+    "value": 43.4,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1725.892,
+    "score_0_100": 91.5,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 10.0,
+    "score_0_100": 30.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 36.0,
+    "score_0_100": 13.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Waste Generated",
+    "change": -38.71,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Employee Turnover Rate",
+    "change": -2.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bengaluru",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -38.7% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -2.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "NIITLTD": {
+  "company": "NIIT",
+  "code": "NIITLTD",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 59.94,
+   "environmental": 46.78,
+   "social": 73.1,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 36.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 7.65,
+    "score_0_100": 97.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1432.237,
+    "score_0_100": 93.6,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Employee Percentage",
+    "value": 34.39,
+    "score_0_100": 86.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 20.0,
+    "score_0_100": 60.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 30.0,
+    "score_0_100": 33.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 6.237,
+    "score_0_100": 10.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 22.75,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 1.08,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -7.48,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Employee Turnover Rate",
+    "change": -12.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Gurugram",
+   "avg_aqi": 456.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "claim_offset"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Partly offset",
+     "evidence": "BRSR: Renewable Energy Percentage +1.1pp vs prior year | total energy rose +22.8% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction,"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -7.5% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -12.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "E2E": {
+  "company": "E2E Networks",
+  "code": "E2E",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": null,
+   "environmental": null,
+   "social": null,
+   "governance": null,
+   "risk_level": "Insufficient evidence",
+   "evidence_quality": "Insufficient",
+   "usable_metrics_of_18": 0,
+   "rank": null
+  },
+  "metrics": [],
+  "trends": [],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "New Delhi",
+   "avg_aqi": 256.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Insufficient evidence",
+   "signals": [
+    "disclosure_gap"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 0 of 18 BRSR metrics were trusted",
+    "environmental pillar has no reliable BRSR evidence",
+    "social pillar has no reliable BRSR evidence",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": true,
+  "weak_metrics": []
+ },
+ "AFFLE": {
+  "company": "Affle India",
+  "code": "AFFLE",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 72.67,
+   "environmental": 58.81,
+   "social": 72.45,
+   "governance": 86.33,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 10,
+   "rank": 15.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Female Employee Percentage",
+    "value": 37.61,
+    "score_0_100": 94.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Independent Directors Percentage",
+    "value": 55.6,
+    "score_0_100": 89.0,
+    "source": "BRSR_PDF",
+    "page": 9.0
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 25.0,
+    "score_0_100": 75.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 33.0,
+    "score_0_100": 23.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Employee Turnover Rate",
+    "change": -4.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -4.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 10 of 18 BRSR metrics were trusted",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Employee Turnover Rate",
+   "Female Directors Percentage"
+  ]
+ },
+ "MPSLTD": {
+  "company": "MPS",
+  "code": "MPSLTD",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 66.93,
+   "environmental": 49.05,
+   "social": 84.81,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 28.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.096,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Directors Percentage",
+    "value": 57.15,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1513.157,
+    "score_0_100": 93.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 34.3,
+    "score_0_100": 85.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 19.4,
+    "score_0_100": 68.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 38.16,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": 4.0,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": -100.0,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Employee Turnover Rate",
+    "change": 1.4,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -100.0% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "SUBEXLTD": {
+  "company": "Subex",
+  "code": "SUBEXLTD",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 72.56,
+   "environmental": 65.67,
+   "social": 79.46,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 16.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Directors Percentage",
+    "value": 50.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 10.285,
+    "score_0_100": 94.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 1679.918,
+    "score_0_100": 91.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 34.02,
+    "score_0_100": 85.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 35.688,
+    "score_0_100": 59.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 24.0,
+    "score_0_100": 53.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -4.92,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 8.36,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 35.42,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Employee Turnover Rate",
+    "change": -9.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bengaluru",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -4.9% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +8.4pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -9.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Employee Turnover Rate",
+   "Renewable Energy Percentage"
+  ]
+ },
+ "SIS": {
+  "company": "Security and Intelligence Services",
+  "code": "SIS",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 33.4,
+   "environmental": 29.17,
+   "social": 37.63,
+   "governance": null,
+   "risk_level": "High",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 10,
+   "rank": 45.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Directors Percentage",
+    "value": 27.28,
+    "score_0_100": 82.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Female Employee Percentage",
+    "value": 4.84,
+    "score_0_100": 12.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 19.0
+   },
+   {
+    "id": "M4",
+    "metric": "Employee Turnover Rate",
+    "value": 39.76,
+    "score_0_100": 0.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 65750001.836,
+    "score_0_100": 0.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 30.0
+   },
+   {
+    "id": "M7",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 499.36,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Waste Generated",
+    "change": 607340.0,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Waste Recycled Percentage",
+    "change": -0.0,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T4",
+    "metric": "Employee Turnover Rate",
+    "change": 1.06,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "New Delhi",
+   "avg_aqi": 256.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Medium",
+   "signals": [
+    "implausible_claims",
+    "intensity_outlier"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 10 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Water Intensity (KL/employee)"
+  ]
+ },
+ "ZOMATO": {
+  "company": "Eternal (formerly Zomato)",
+  "code": "ZOMATO",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 56.55,
+   "environmental": 53.96,
+   "social": 59.15,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 10,
+   "rank": 40.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.038,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Female Directors Percentage",
+    "value": 50.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Waste Recycled Percentage",
+    "value": 74.032,
+    "score_0_100": 92.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 29.08,
+    "score_0_100": 72.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Employee Turnover Rate",
+    "value": 44.33,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 15.15,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": 40.62,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": -58.58,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Waste Recycled Percentage",
+    "change": -4.19,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": 7.33,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Gurugram",
+   "avg_aqi": 456.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -58.6% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 10 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Employee Turnover Rate",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "PAYTM": {
+  "company": "One 97 Communications",
+  "code": "PAYTM",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 54.68,
+   "environmental": 62.42,
+   "social": 46.94,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 41.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 85.848,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 199.051,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 2.546,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 12.5,
+    "score_0_100": 37.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 7.08,
+    "score_0_100": 17.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 32.0
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 34.0
+   },
+   {
+    "id": "M8",
+    "metric": "Employee Turnover Rate",
+    "value": 97.47,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -24.36,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": 7.06,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": 5.41,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Waste Recycled Percentage",
+    "change": 0.38,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T5",
+    "metric": "Employee Turnover Rate",
+    "change": 14.89,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -24.4% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Employee Turnover Rate",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "POLICYBZR": {
+  "company": "PB Fintech",
+  "code": "POLICYBZR",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 57.63,
+   "environmental": 60.2,
+   "social": 55.07,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 38.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 100.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.463,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Directors Percentage",
+    "value": 33.34,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 614.858,
+    "score_0_100": 99.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 24.49,
+    "score_0_100": 61.2,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.823,
+    "score_0_100": 1.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Employee Turnover Rate",
+    "value": 89.57,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 53.18,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 0.29,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -31.05,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -32.83,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 0.0,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -1.43,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Gurugram",
+   "avg_aqi": 456.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -31.1% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -32.8% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -1.4pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Employee Turnover Rate",
+   "Renewable Energy Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "DELHIVERY": {
+  "company": "Delhivery",
+  "code": "DELHIVERY",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 22.31,
+   "environmental": 37.14,
+   "social": 7.48,
+   "governance": null,
+   "risk_level": "High",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 46.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 3.441,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Female Directors Percentage",
+    "value": 22.23,
+    "score_0_100": 67.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 10386.686,
+    "score_0_100": 31.8,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Employee Percentage",
+    "value": 8.3,
+    "score_0_100": 20.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Employee Turnover Rate",
+    "value": 39.49,
+    "score_0_100": 1.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.639,
+    "score_0_100": 1.1,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 5.254,
+    "score_0_100": 0.0,
+    "source": "derived",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 2.04,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 0.24,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 5.34,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 30.59,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -5.99,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 3.13,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Gurugram",
+   "avg_aqi": 456.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "intensity_outlier"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Safety Incidents per 1000 Employees",
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage"
+  ]
+ },
+ "NAZARA": {
+  "company": "Nazara Technologies",
+  "code": "NAZARA",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 57.11,
+   "environmental": 56.72,
+   "social": 57.5,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 39.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 3803.924,
+    "score_0_100": 77.2,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Employee Percentage",
+    "value": 15.88,
+    "score_0_100": 39.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 12.5,
+    "score_0_100": 37.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 30.16,
+    "score_0_100": 32.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 42.81,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Employee Turnover Rate",
+    "change": 9.89,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Renewable Energy Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "TATACOMM": {
+  "company": "Tata Communications",
+  "code": "TATACOMM",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 74.45,
+   "environmental": 64.03,
+   "social": 84.88,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 12.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 94.166,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 40.0
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.077,
+    "score_0_100": 98.5,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Employee Turnover Rate",
+    "value": 11.0,
+    "score_0_100": 96.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 12.353,
+    "score_0_100": 92.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 23.8,
+    "score_0_100": 59.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 56.0
+   },
+   {
+    "id": "M6",
+    "metric": "Renewable Energy Percentage",
+    "value": 33.912,
+    "score_0_100": 56.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 39.0
+   },
+   {
+    "id": "M7",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 14118.593,
+    "score_0_100": 6.1,
+    "source": "derived",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 2.11,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 7.19,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -28.63,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 31.68,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 1.86,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -0.6,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "intensity_outlier"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +7.2pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -28.6% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +1.9pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -0.6pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Energy Intensity (kWh/employee)",
+   "Female Directors Percentage",
+   "Renewable Energy Percentage"
+  ]
+ },
+ "INDUSTOWER": {
+  "company": "Indus Towers",
+  "code": "INDUSTOWER",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 51.34,
+   "environmental": 47.54,
+   "social": 55.15,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 44.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 100.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 2636.741,
+    "score_0_100": 85.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Employee Turnover Rate",
+    "value": 19.17,
+    "score_0_100": 69.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 2.374,
+    "score_0_100": 52.5,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 16.25,
+    "score_0_100": 40.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Directors Percentage",
+    "value": 9.1,
+    "score_0_100": 27.6,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 88.307,
+    "score_0_100": 12.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 1.025,
+    "score_0_100": 1.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 6.47,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 0.8,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -29.27,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -3.93,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -0.06,
+    "unit": "pp",
+    "direction": "stable"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 0.3,
+    "unit": "pp",
+    "direction": "stable"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Gurugram",
+   "avg_aqi": 456.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +0.8pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -29.3% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -3.9% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Water Intensity (KL/employee)",
+   "Female Directors Percentage"
+  ]
+ },
+ "BHARTIARTL": {
+  "company": "Bharti Airtel",
+  "code": "BHARTIARTL",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 65.31,
+   "environmental": 64.8,
+   "social": 65.82,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 12,
+   "rank": 31.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 98.368,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 13.0
+   },
+   {
+    "id": "M2",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 198.345,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 5.349,
+    "score_0_100": 99.6,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Female Directors Percentage",
+    "value": 30.0,
+    "score_0_100": 90.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 1.104,
+    "score_0_100": 77.9,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 18.0,
+    "score_0_100": 73.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 19.58,
+    "score_0_100": 48.9,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 10.0
+   },
+   {
+    "id": "M8",
+    "metric": "Water Recycled Percentage",
+    "value": 4.0,
+    "score_0_100": 8.0,
+    "source": "BRSR_PDF",
+    "page": 12.0
+   },
+   {
+    "id": "M9",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.804,
+    "score_0_100": 1.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 11.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 3.64,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 0.58,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -3.05,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": -26.34,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -0.65,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -1.0,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": 42.39,
+   "Return_1Y_Pct": 30.87,
+   "Volatility_Pct": 23.53,
+   "Max_Drawdown_Pct": -13.89,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "New Delhi",
+   "avg_aqi": 256.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "implausible_claims"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +0.6pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -3.0% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Waste Generated",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Waste Generated -26.3% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -1.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 12 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Water Recycled Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "TEJASNET": {
+  "company": "Tejas Networks",
+  "code": "TEJASNET",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 66.5,
+   "environmental": 54.77,
+   "social": 78.23,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 29.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Employee Turnover Rate",
+    "value": 10.3,
+    "score_0_100": 99.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 5.0
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 12.316,
+    "score_0_100": 92.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 5716.043,
+    "score_0_100": 64.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Employee Percentage",
+    "value": 14.27,
+    "score_0_100": 35.7,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 22.0
+   },
+   {
+    "id": "M7",
+    "metric": "Waste Recycled Percentage",
+    "value": 1.837,
+    "score_0_100": 2.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 48.54,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Total Water Consumption",
+    "change": 209.8,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Waste Generated",
+    "change": 1506.86,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Employee Turnover Rate",
+    "change": 3.7,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bengaluru",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Waste Recycled Percentage",
+   "Female Employee Percentage"
+  ]
+ },
+ "REDINGTON": {
+  "company": "Redington",
+  "code": "REDINGTON",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 72.91,
+   "environmental": 71.7,
+   "social": 74.11,
+   "governance": null,
+   "risk_level": "Low",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 14.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Waste Recycled Percentage",
+    "value": 99.619,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 5.0
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 6.386,
+    "score_0_100": 98.5,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 2047.071,
+    "score_0_100": 89.3,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Directors Percentage",
+    "value": 25.0,
+    "score_0_100": 75.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Employee Turnover Rate",
+    "value": 21.0,
+    "score_0_100": 63.3,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Female Employee Percentage",
+    "value": 23.6,
+    "score_0_100": 59.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 11.0
+   },
+   {
+    "id": "M8",
+    "metric": "Renewable Energy Percentage",
+    "value": 3.466,
+    "score_0_100": 5.8,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": 7.0
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": -2.42,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 2.07,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": -3.21,
+    "unit": "%",
+    "direction": "improving"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 96.71,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": 0.7,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 3.0,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Chennai",
+   "avg_aqi": 250.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "nan"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Total Energy Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Energy Consumption -2.4% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +2.1pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Total Water Consumption",
+     "verdict": "Supported",
+     "evidence": "BRSR: Total Water Consumption -3.2% vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Waste Recycled Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Waste Recycled Percentage +0.7pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Renewable Energy Percentage",
+   "Female Employee Percentage",
+   "Employee Turnover Rate"
+  ]
+ },
+ "HCL-INFO": {
+  "company": "HCL Infosystems",
+  "code": "HCL-INFO",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": null,
+   "environmental": null,
+   "social": null,
+   "governance": null,
+   "risk_level": "Insufficient evidence",
+   "evidence_quality": "Insufficient",
+   "usable_metrics_of_18": 0,
+   "rank": null
+  },
+  "metrics": [],
+  "trends": [],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Noida",
+   "avg_aqi": 418.0,
+   "category": "Severe",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Insufficient evidence",
+   "signals": [
+    "disclosure_gap"
+   ],
+   "claims": []
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 0 of 18 BRSR metrics were trusted",
+    "environmental pillar has no reliable BRSR evidence",
+    "social pillar has no reliable BRSR evidence",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data",
+    "no ESG news found"
+   ]
+  },
+  "withheld": true,
+  "weak_metrics": []
+ },
+ "MAZDOCK": {
+  "company": "Mazagon Dock Shipbuilders",
+  "code": "MAZDOCK",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 54.22,
+   "environmental": 40.83,
+   "social": 67.6,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 42.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.0,
+    "score_0_100": 100.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Employee Turnover Rate",
+    "value": 0.73,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Renewable Energy Percentage",
+    "value": 28.519,
+    "score_0_100": 47.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 79.4,
+    "score_0_100": 21.7,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Female Employee Percentage",
+    "value": 7.59,
+    "score_0_100": 19.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Waste Recycled Percentage",
+    "value": 0.921,
+    "score_0_100": 1.2,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 16382.714,
+    "score_0_100": 0.0,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Female Directors Percentage",
+    "value": 0.0,
+    "score_0_100": 0.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 2.28,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 19.6,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 9.06,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 155.48,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -4.65,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": -0.97,
+    "unit": "pp",
+    "direction": "improving"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": true,
+   "esg_articles": 1,
+   "negative_share_pct": 0.0,
+   "environmental_events": 0,
+   "social_events": 1,
+   "governance_events": 0,
+   "reliability": 0.167,
+   "headlines": [
+    "MSCI August rejig: Swiggy, Mazagon Dock among likely additions, $850 million inflows seen"
+   ]
+  },
+  "market": {
+   "id": "K1",
+   "available": false
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Mumbai",
+   "avg_aqi": 257.0,
+   "category": "Poor",
+   "match": "exact",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "intensity_outlier"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Supported",
+     "evidence": "BRSR: Renewable Energy Percentage +19.6pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    },
+    {
+     "claim": "Improved Employee Turnover Rate",
+     "verdict": "Supported",
+     "evidence": "BRSR: Employee Turnover Rate -1.0pp vs prior year | external news: no environmental coverage found (no contradiction, no corroboration)"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no market data"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Female Directors Percentage",
+   "Energy Intensity (kWh/employee)",
+   "Waste Recycled Percentage"
+  ]
+ },
+ "TITAN": {
+  "company": "Titan Company",
+  "code": "TITAN",
+  "scale": "0-100",
+  "scores": {
+   "id": "S1",
+   "master": 64.74,
+   "environmental": 55.71,
+   "social": 73.77,
+   "governance": null,
+   "risk_level": "Medium",
+   "evidence_quality": "Partial",
+   "usable_metrics_of_18": 11,
+   "rank": 34.0
+  },
+  "metrics": [
+   {
+    "id": "M1",
+    "metric": "Employee Turnover Rate",
+    "value": 10.0,
+    "score_0_100": 100.0,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M2",
+    "metric": "Safety Incidents per 1000 Employees",
+    "value": 0.529,
+    "score_0_100": 89.4,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M3",
+    "metric": "Female Employee Percentage",
+    "value": 25.82,
+    "score_0_100": 64.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M4",
+    "metric": "Water Intensity (KL/employee)",
+    "value": 39.703,
+    "score_0_100": 63.5,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M5",
+    "metric": "Renewable Energy Percentage",
+    "value": 30.713,
+    "score_0_100": 51.2,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M6",
+    "metric": "Female Directors Percentage",
+    "value": 16.67,
+    "score_0_100": 50.5,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   },
+   {
+    "id": "M7",
+    "metric": "Energy Intensity (kWh/employee)",
+    "value": 8753.326,
+    "score_0_100": 43.1,
+    "source": "derived",
+    "page": null
+   },
+   {
+    "id": "M8",
+    "metric": "Waste Recycled Percentage",
+    "value": 13.104,
+    "score_0_100": 16.4,
+    "source": "XBRL_TAXONOMY_EXACT",
+    "page": null
+   }
+  ],
+  "trends": [
+   {
+    "id": "T1",
+    "metric": "Total Energy Consumption",
+    "change": 13.49,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T2",
+    "metric": "Renewable Energy Percentage",
+    "change": 1.2,
+    "unit": "pp",
+    "direction": "improving"
+   },
+   {
+    "id": "T3",
+    "metric": "Total Water Consumption",
+    "change": 8.43,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T4",
+    "metric": "Total Waste Generated",
+    "change": 37.3,
+    "unit": "%",
+    "direction": "worsening"
+   },
+   {
+    "id": "T5",
+    "metric": "Waste Recycled Percentage",
+    "change": -47.41,
+    "unit": "pp",
+    "direction": "worsening"
+   },
+   {
+    "id": "T6",
+    "metric": "Employee Turnover Rate",
+    "change": 2.27,
+    "unit": "pp",
+    "direction": "worsening"
+   }
+  ],
+  "news": {
+   "id": "N1",
+   "available": false
+  },
+  "market": {
+   "id": "K1",
+   "available": true,
+   "FY_Return_Pct": -18.06,
+   "Return_1Y_Pct": 18.89,
+   "Volatility_Pct": 24.15,
+   "Max_Drawdown_Pct": -21.28,
+   "source": "static NIFTY/SENSEX csv"
+  },
+  "air_quality": {
+   "id": "A1",
+   "available": true,
+   "location": "Bengaluru",
+   "avg_aqi": 251.0,
+   "category": "Poor",
+   "match": "alias",
+   "note": "context only; not proof of company performance"
+  },
+  "consistency": {
+   "id": "G1",
+   "level": "Low",
+   "signals": [
+    "claim_offset"
+   ],
+   "claims": [
+    {
+     "claim": "Improved Renewable Energy Percentage",
+     "verdict": "Partly offset",
+     "evidence": "BRSR: Renewable Energy Percentage +1.2pp vs prior year | total energy rose +13.5% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction,"
+    }
+   ]
+  },
+  "limitations": {
+   "id": "L1",
+   "items": [
+    "only 11 of 18 BRSR metrics were trusted",
+    "governance pillar has no reliable BRSR evidence",
+    "no ESG news found"
+   ]
+  },
+  "withheld": false,
+  "weak_metrics": [
+   "Waste Recycled Percentage",
+   "Energy Intensity (kWh/employee)",
+   "Female Directors Percentage"
+  ]
+ }
+}

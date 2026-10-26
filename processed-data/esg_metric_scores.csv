@@ -1,0 +1,383 @@
+Company_Code,Metric,Pillar,Value,Score_0_10,Score_0_100,Source,Page
+TCS,Renewable Energy Percentage,E,79.2218337070129,10.0,100.0,XBRL_TAXONOMY_EXACT,6.0
+TCS,Waste Recycled Percentage,E,58.84703996794551,7.36,73.6,XBRL_TAXONOMY_EXACT,
+TCS,Energy Intensity (kWh/employee),E,886.7844357197279,9.73,97.3,derived,
+TCS,Water Intensity (KL/employee),E,4.72349209429931,10.0,100.0,derived,
+TCS,Female Employee Percentage,S,35.21,8.8,88.0,XBRL_TAXONOMY_EXACT,22.0
+TCS,Employee Turnover Rate,S,13.3,8.9,89.0,XBRL_TAXONOMY_EXACT,
+TCS,Safety Incidents per 1000 Employees,S,0.08717406357785384,9.83,98.3,derived,
+TCS,Female Directors Percentage,G,25.0,7.58,75.8,XBRL_TAXONOMY_EXACT,
+INFY,Renewable Energy Percentage,E,68.87095294872971,10.0,100.0,XBRL_TAXONOMY_EXACT,161.0
+INFY,Water Recycled Percentage,E,6.0,1.2,12.0,BRSR_PDF,163.0
+INFY,Waste Recycled Percentage,E,96.6304726269208,10.0,100.0,XBRL_TAXONOMY_EXACT,
+INFY,Energy Intensity (kWh/employee),E,730.0609641776222,9.84,98.4,derived,
+INFY,Water Intensity (KL/employee),E,6.043442384834568,9.89,98.9,derived,
+INFY,Female Employee Percentage,S,39.05,9.76,97.6,XBRL_TAXONOMY_EXACT,159.0
+INFY,Employee Turnover Rate,S,14.099999999999998,8.63,86.3,XBRL_TAXONOMY_EXACT,
+INFY,Safety Incidents per 1000 Employees,S,0.06180889924531334,9.88,98.8,derived,
+INFY,Independent Directors Percentage,G,31.0,2.75,27.5,BRSR_PDF,95.0
+INFY,Female Directors Percentage,G,22.23,6.74,67.4,XBRL_TAXONOMY_EXACT,
+WIPRO,Renewable Energy Percentage,E,79.1353745264561,10.0,100.0,XBRL_TAXONOMY_EXACT,28.0
+WIPRO,Water Recycled Percentage,E,4.0,0.8,8.0,BRSR_PDF,35.0
+WIPRO,Waste Recycled Percentage,E,37.74002954209749,4.72,47.2,XBRL_TAXONOMY_EXACT,12.0
+WIPRO,Energy Intensity (kWh/employee),E,932.2821300438809,9.7,97.0,derived,
+WIPRO,Water Intensity (KL/employee),E,5.803357389505828,9.92,99.2,derived,
+WIPRO,Female Employee Percentage,S,37.14,9.29,92.8,XBRL_TAXONOMY_EXACT,26.0
+WIPRO,Employee Turnover Rate,S,14.81,8.4,84.0,XBRL_TAXONOMY_EXACT,
+WIPRO,Safety Incidents per 1000 Employees,S,0.452717637346542,9.09,90.9,derived,
+WIPRO,Independent Directors Percentage,G,92.2,10.0,100.0,BRSR_PDF,14.0
+WIPRO,Female Directors Percentage,G,22.23,6.74,67.4,XBRL_TAXONOMY_EXACT,11.0
+HCLTECH,Renewable Energy Percentage,E,34.38365442446115,5.73,57.3,XBRL_TAXONOMY_EXACT,3.0
+HCLTECH,Water Recycled Percentage,E,6.0,1.2,12.0,BRSR_PDF,49.0
+HCLTECH,Waste Recycled Percentage,E,92.0837932124614,10.0,100.0,XBRL_TAXONOMY_EXACT,67.0
+HCLTECH,Energy Intensity (kWh/employee),E,1169.562271854703,9.54,95.4,derived,
+HCLTECH,Water Intensity (KL/employee),E,3.7329383672007874,10.0,100.0,derived,
+HCLTECH,Female Employee Percentage,S,28.81,7.2,72.0,XBRL_TAXONOMY_EXACT,46.0
+HCLTECH,Employee Turnover Rate,S,12.989999999999998,9.0,90.0,XBRL_TAXONOMY_EXACT,
+HCLTECH,Safety Incidents per 1000 Employees,S,0.12980037597350283,9.74,97.4,derived,
+HCLTECH,Female Directors Percentage,G,50.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+TECHM,Renewable Energy Percentage,E,22.647435410439947,3.77,37.7,XBRL_TAXONOMY_EXACT,32.0
+TECHM,Water Recycled Percentage,E,32.0,6.4,64.0,BRSR_PDF,33.0
+TECHM,Waste Recycled Percentage,E,98.71628209294768,10.0,100.0,XBRL_TAXONOMY_EXACT,
+TECHM,Energy Intensity (kWh/employee),E,1140.4877953940672,9.56,95.6,derived,
+TECHM,Water Intensity (KL/employee),E,4.618333586926752,10.0,100.0,derived,
+TECHM,Female Employee Percentage,S,34.17,8.54,85.4,XBRL_TAXONOMY_EXACT,
+TECHM,Employee Turnover Rate,S,11.8,9.4,94.0,XBRL_TAXONOMY_EXACT,
+TECHM,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+TECHM,Female Directors Percentage,G,40.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+LTIM,Renewable Energy Percentage,E,56.76514465892232,9.46,94.6,XBRL_TAXONOMY_EXACT,89.0
+LTIM,Waste Recycled Percentage,E,97.21026111741656,10.0,100.0,XBRL_TAXONOMY_EXACT,89.0
+LTIM,Energy Intensity (kWh/employee),E,797.2944120891503,9.79,97.9,derived,
+LTIM,Water Intensity (KL/employee),E,4.2918500243158935,10.0,100.0,derived,
+LTIM,Female Employee Percentage,S,30.380000000000003,7.6,76.0,XBRL_TAXONOMY_EXACT,89.0
+LTIM,Employee Turnover Rate,S,14.35,8.55,85.5,XBRL_TAXONOMY_EXACT,
+LTIM,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+LTIM,Independent Directors Percentage,G,55.0,8.75,87.5,BRSR_PDF,89.0
+LTIM,Female Directors Percentage,G,9.1,2.76,27.6,XBRL_TAXONOMY_EXACT,
+MPHASIS,Renewable Energy Percentage,E,55.163415489198215,9.19,91.9,XBRL_TAXONOMY_EXACT,246.0
+MPHASIS,Water Recycled Percentage,E,100.0,10.0,100.0,BRSR_PDF,246.0
+MPHASIS,Waste Recycled Percentage,E,73.63961204696274,9.2,92.0,XBRL_TAXONOMY_EXACT,
+MPHASIS,Energy Intensity (kWh/employee),E,2095.0426096485266,8.9,89.0,derived,
+MPHASIS,Water Intensity (KL/employee),E,6.356426766647648,9.86,98.6,derived,
+MPHASIS,Female Employee Percentage,S,26.75,6.69,66.9,XBRL_TAXONOMY_EXACT,273.0
+MPHASIS,Employee Turnover Rate,S,26.93,4.36,43.6,XBRL_TAXONOMY_EXACT,
+MPHASIS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+MPHASIS,Female Directors Percentage,G,25.0,7.58,75.8,XBRL_TAXONOMY_EXACT,
+PERSISTENT,Renewable Energy Percentage,E,56.9655785742684,9.49,94.9,XBRL_TAXONOMY_EXACT,12.0
+PERSISTENT,Water Recycled Percentage,E,5.0,1.0,10.0,BRSR_PDF,12.0
+PERSISTENT,Waste Recycled Percentage,E,99.18978639823226,10.0,100.0,XBRL_TAXONOMY_EXACT,
+PERSISTENT,Energy Intensity (kWh/employee),E,749.1804898796568,9.83,98.3,derived,
+PERSISTENT,Water Intensity (KL/employee),E,3.4917279891916237,10.0,100.0,derived,
+PERSISTENT,Female Employee Percentage,S,30.28,7.57,75.7,XBRL_TAXONOMY_EXACT,12.0
+PERSISTENT,Employee Turnover Rate,S,12.9,9.03,90.3,XBRL_TAXONOMY_EXACT,
+PERSISTENT,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+PERSISTENT,Female Directors Percentage,G,22.23,6.74,67.4,XBRL_TAXONOMY_EXACT,
+COFORGE,Renewable Energy Percentage,E,12.139198424814872,2.02,20.2,XBRL_TAXONOMY_EXACT,36.0
+COFORGE,Waste Recycled Percentage,E,97.40202242017462,10.0,100.0,XBRL_TAXONOMY_EXACT,
+COFORGE,Energy Intensity (kWh/employee),E,759.898950472721,9.82,98.2,derived,
+COFORGE,Water Intensity (KL/employee),E,5.102341920374707,9.99,99.9,derived,
+COFORGE,Female Employee Percentage,S,28.7,7.17,71.8,XBRL_TAXONOMY_EXACT,30.0
+COFORGE,Employee Turnover Rate,S,19.0,7.0,70.0,XBRL_TAXONOMY_EXACT,
+COFORGE,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+COFORGE,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+LTTS,Renewable Energy Percentage,E,25.672100901041617,4.28,42.8,XBRL_TAXONOMY_EXACT,
+LTTS,Waste Recycled Percentage,E,14.456311117119553,1.81,18.1,XBRL_TAXONOMY_EXACT,
+LTTS,Energy Intensity (kWh/employee),E,1353.1825291146197,9.41,94.1,derived,
+LTTS,Water Intensity (KL/employee),E,10.677239870648659,9.4,94.0,derived,
+LTTS,Female Employee Percentage,S,20.14,5.04,50.4,XBRL_TAXONOMY_EXACT,
+LTTS,Employee Turnover Rate,S,24.4,5.2,52.0,XBRL_TAXONOMY_EXACT,
+LTTS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+LTTS,Female Directors Percentage,G,18.19,5.51,55.1,XBRL_TAXONOMY_EXACT,
+TATAELXSI,Renewable Energy Percentage,E,50.719190223788,8.45,84.5,XBRL_TAXONOMY_EXACT,42.0
+TATAELXSI,Waste Recycled Percentage,E,31.312910284463893,3.91,39.1,XBRL_TAXONOMY_EXACT,
+TATAELXSI,Energy Intensity (kWh/employee),E,1162.1945674062936,9.54,95.4,derived,
+TATAELXSI,Water Intensity (KL/employee),E,6.155850663993986,9.88,98.8,derived,
+TATAELXSI,Female Employee Percentage,S,35.06,8.77,87.7,XBRL_TAXONOMY_EXACT,43.0
+TATAELXSI,Employee Turnover Rate,S,13.3,8.9,89.0,XBRL_TAXONOMY_EXACT,
+TATAELXSI,Safety Incidents per 1000 Employees,S,0.08352125615969264,9.83,98.3,derived,
+TATAELXSI,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+OFSS,Renewable Energy Percentage,E,17.20074183627955,2.87,28.7,XBRL_TAXONOMY_EXACT,16.0
+OFSS,Waste Recycled Percentage,E,68.03205699020482,8.5,85.0,XBRL_TAXONOMY_EXACT,
+OFSS,Energy Intensity (kWh/employee),E,1470.7893101305158,9.33,93.3,derived,
+OFSS,Water Intensity (KL/employee),E,3.9961466749533874,10.0,100.0,derived,
+OFSS,Female Employee Percentage,S,32.190000000000005,8.05,80.5,XBRL_TAXONOMY_EXACT,15.0
+OFSS,Employee Turnover Rate,S,11.55,9.48,94.8,XBRL_TAXONOMY_EXACT,
+OFSS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+OFSS,Independent Directors Percentage,G,30.0,2.5,25.0,BRSR_PDF,3.0
+OFSS,Female Directors Percentage,G,30.0,9.09,90.9,XBRL_TAXONOMY_EXACT,
+KPITTECH,Renewable Energy Percentage,E,43.97288762227528,7.33,73.3,XBRL_TAXONOMY_EXACT,41.0
+KPITTECH,Waste Recycled Percentage,E,76.66126181398543,9.58,95.8,XBRL_TAXONOMY_EXACT,54.0
+KPITTECH,Energy Intensity (kWh/employee),E,765.8502630895921,9.82,98.2,derived,
+KPITTECH,Water Intensity (KL/employee),E,0.000304735612656615,10.0,100.0,derived,
+KPITTECH,Female Employee Percentage,S,32.23,8.06,80.6,XBRL_TAXONOMY_EXACT,39.0
+KPITTECH,Employee Turnover Rate,S,25.0,5.0,50.0,XBRL_TAXONOMY_EXACT,
+KPITTECH,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+KPITTECH,Female Directors Percentage,G,7.15,2.17,21.7,XBRL_TAXONOMY_EXACT,
+CYIENT,Renewable Energy Percentage,E,23.586533110740124,3.93,39.3,XBRL_TAXONOMY_EXACT,
+CYIENT,Waste Recycled Percentage,E,68.83039186359557,8.6,86.0,XBRL_TAXONOMY_EXACT,
+CYIENT,Energy Intensity (kWh/employee),E,1680.1301469763266,9.19,91.9,derived,
+CYIENT,Water Intensity (KL/employee),E,6.896751935375295,9.8,98.0,derived,
+CYIENT,Female Employee Percentage,S,25.0,6.25,62.5,XBRL_TAXONOMY_EXACT,
+CYIENT,Employee Turnover Rate,S,27.6,4.13,41.3,XBRL_TAXONOMY_EXACT,
+CYIENT,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+CYIENT,Female Directors Percentage,G,22.23,6.74,67.4,XBRL_TAXONOMY_EXACT,
+BSOFT,Renewable Energy Percentage,E,8.953500220780544,1.49,14.9,XBRL_TAXONOMY_EXACT,17.0
+BSOFT,Waste Recycled Percentage,E,70.45053868756122,8.81,88.1,XBRL_TAXONOMY_EXACT,25.0
+BSOFT,Energy Intensity (kWh/employee),E,751.5213706630726,9.83,98.3,derived,
+BSOFT,Water Intensity (KL/employee),E,3.2198125344605772,10.0,100.0,derived,
+BSOFT,Female Employee Percentage,S,24.91,6.23,62.3,XBRL_TAXONOMY_EXACT,16.0
+BSOFT,Employee Turnover Rate,S,15.3,8.23,82.3,XBRL_TAXONOMY_EXACT,
+BSOFT,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+BSOFT,Female Directors Percentage,G,42.86,10.0,100.0,XBRL_TAXONOMY_EXACT,
+ZENSARTECH,Renewable Energy Percentage,E,53.28002048846272,8.88,88.8,XBRL_TAXONOMY_EXACT,36.0
+ZENSARTECH,Water Recycled Percentage,E,40.0,8.0,80.0,BRSR_PDF,15.0
+ZENSARTECH,Waste Recycled Percentage,E,100.00661725780836,10.0,100.0,XBRL_TAXONOMY_EXACT,
+ZENSARTECH,Energy Intensity (kWh/employee),E,589.338067390699,9.94,99.4,derived,
+ZENSARTECH,Water Intensity (KL/employee),E,1.8838365914786968,10.0,100.0,derived,
+ZENSARTECH,Female Employee Percentage,S,29.92,7.48,74.8,XBRL_TAXONOMY_EXACT,32.0
+ZENSARTECH,Employee Turnover Rate,S,24.9,5.03,50.3,XBRL_TAXONOMY_EXACT,
+ZENSARTECH,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+ZENSARTECH,Independent Directors Percentage,G,24.24,1.06,10.6,BRSR_PDF,31.0
+ZENSARTECH,Female Directors Percentage,G,11.12,3.37,33.7,XBRL_TAXONOMY_EXACT,
+TATATECH,Renewable Energy Percentage,E,0.1751750311305025,0.03,0.3,XBRL_TAXONOMY_EXACT,16.0
+TATATECH,Waste Recycled Percentage,E,8.587833490075733,1.07,10.7,XBRL_TAXONOMY_EXACT,
+TATATECH,Energy Intensity (kWh/employee),E,1214.4604759108574,9.51,95.1,derived,
+TATATECH,Water Intensity (KL/employee),E,9.350557839107458,9.54,95.4,derived,
+TATATECH,Female Employee Percentage,S,15.89,3.97,39.7,XBRL_TAXONOMY_EXACT,15.0
+TATATECH,Employee Turnover Rate,S,16.6,7.8,78.0,XBRL_TAXONOMY_EXACT,
+TATATECH,Safety Incidents per 1000 Employees,S,0.3355423202751447,9.33,93.3,derived,
+TATATECH,Female Directors Percentage,G,28.58,8.66,86.6,XBRL_TAXONOMY_EXACT,
+HAPPSTMNDS,Renewable Energy Percentage,E,9.869095836987396,1.64,16.4,XBRL_TAXONOMY_EXACT,
+HAPPSTMNDS,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+HAPPSTMNDS,Energy Intensity (kWh/employee),E,1009.3583708555055,9.65,96.5,derived,
+HAPPSTMNDS,Water Intensity (KL/employee),E,14.657920589439215,8.98,89.8,derived,
+HAPPSTMNDS,Female Employee Percentage,S,27.450000000000003,6.86,68.6,XBRL_TAXONOMY_EXACT,
+HAPPSTMNDS,Employee Turnover Rate,S,16.63,7.79,77.9,XBRL_TAXONOMY_EXACT,
+HAPPSTMNDS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+HAPPSTMNDS,Female Directors Percentage,G,25.0,7.58,75.8,XBRL_TAXONOMY_EXACT,
+SONATSOFTW,Renewable Energy Percentage,E,77.65328562681412,10.0,100.0,XBRL_TAXONOMY_EXACT,
+SONATSOFTW,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+SONATSOFTW,Energy Intensity (kWh/employee),E,518.875030315629,9.99,99.9,derived,
+SONATSOFTW,Water Intensity (KL/employee),E,1.1361085126286248,10.0,100.0,derived,
+SONATSOFTW,Female Employee Percentage,S,30.380000000000003,7.6,76.0,XBRL_TAXONOMY_EXACT,
+SONATSOFTW,Employee Turnover Rate,S,19.0,7.0,70.0,XBRL_TAXONOMY_EXACT,
+SONATSOFTW,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+SONATSOFTW,Female Directors Percentage,G,14.29,4.33,43.3,XBRL_TAXONOMY_EXACT,
+HEXAWARE,Renewable Energy Percentage,E,70.0,10.0,100.0,BRSR_PDF,106.0
+HEXAWARE,Waste Recycled Percentage,E,1.0,0.12,1.2,BRSR_PDF,126.0
+HEXAWARE,Energy Intensity (kWh/employee),E,165.57107641741987,10.0,100.0,derived,
+HEXAWARE,Water Intensity (KL/employee),E,0.8216926869350862,10.0,100.0,derived,
+HEXAWARE,Female Employee Percentage,S,40.0,10.0,100.0,BRSR_PDF,106.0
+NEWGEN,Renewable Energy Percentage,E,6.55922580682835,1.09,10.9,XBRL_TAXONOMY_EXACT,6.0
+NEWGEN,Waste Recycled Percentage,E,94.13145539906102,10.0,100.0,XBRL_TAXONOMY_EXACT,
+NEWGEN,Energy Intensity (kWh/employee),E,941.9650715071507,9.7,97.0,derived,
+NEWGEN,Water Intensity (KL/employee),E,5.956579207920792,9.9,99.0,derived,
+NEWGEN,Female Employee Percentage,S,25.05,6.26,62.6,XBRL_TAXONOMY_EXACT,22.0
+NEWGEN,Employee Turnover Rate,S,21.0,6.33,63.3,XBRL_TAXONOMY_EXACT,
+NEWGEN,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+NEWGEN,Female Directors Percentage,G,28.58,8.66,86.6,XBRL_TAXONOMY_EXACT,
+TANLA,Renewable Energy Percentage,E,0.0526260553729529,0.01,0.1,XBRL_TAXONOMY_EXACT,6.0
+TANLA,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+TANLA,Energy Intensity (kWh/employee),E,1841.0310259856628,9.08,90.8,derived,
+TANLA,Water Intensity (KL/employee),E,8.124395161290321,9.67,96.7,derived,
+TANLA,Female Employee Percentage,S,20.27,5.07,50.7,XBRL_TAXONOMY_EXACT,
+TANLA,Employee Turnover Rate,S,33.64,2.12,21.2,XBRL_TAXONOMY_EXACT,
+TANLA,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+TANLA,Female Directors Percentage,G,14.29,4.33,43.3,XBRL_TAXONOMY_EXACT,
+INTELLECT,Renewable Energy Percentage,E,28.646878627709626,4.77,47.7,XBRL_TAXONOMY_EXACT,26.0
+INTELLECT,Waste Recycled Percentage,E,75.20032158649339,9.4,94.0,XBRL_TAXONOMY_EXACT,8.0
+INTELLECT,Energy Intensity (kWh/employee),E,1116.0275582484485,9.58,95.8,derived,
+INTELLECT,Water Intensity (KL/employee),E,5.832404285212505,9.91,99.1,derived,
+INTELLECT,Female Employee Percentage,S,26.540000000000003,6.64,66.4,XBRL_TAXONOMY_EXACT,24.0
+INTELLECT,Employee Turnover Rate,S,15.86,8.05,80.5,XBRL_TAXONOMY_EXACT,
+INTELLECT,Safety Incidents per 1000 Employees,S,1.4049877063575693,7.19,71.9,derived,
+INTELLECT,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+ROUTE,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+ROUTE,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+ROUTE,Energy Intensity (kWh/employee),E,726.7307692307693,9.84,98.4,derived,
+ROUTE,Water Intensity (KL/employee),E,7.158038461538461,9.77,97.7,derived,
+ROUTE,Female Employee Percentage,S,21.16,5.29,52.9,XBRL_TAXONOMY_EXACT,23.0
+ROUTE,Employee Turnover Rate,S,9.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+ROUTE,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+ROUTE,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+RATEGAIN,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+RATEGAIN,Waste Recycled Percentage,E,81.81818181818183,10.0,100.0,XBRL_TAXONOMY_EXACT,
+RATEGAIN,Energy Intensity (kWh/employee),E,353.2498735457763,10.0,100.0,derived,
+RATEGAIN,Water Intensity (KL/employee),E,40.79666160849772,6.23,62.3,derived,
+RATEGAIN,Female Employee Percentage,S,22.62,5.66,56.6,XBRL_TAXONOMY_EXACT,
+RATEGAIN,Employee Turnover Rate,S,16.1,7.97,79.7,XBRL_TAXONOMY_EXACT,
+RATEGAIN,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+RATEGAIN,Female Directors Percentage,G,33.34,10.0,100.0,XBRL_TAXONOMY_EXACT,
+ECLERX,Renewable Energy Percentage,E,64.08426424262642,10.0,100.0,XBRL_TAXONOMY_EXACT,27.0
+ECLERX,Waste Recycled Percentage,E,42.697421434327154,5.34,53.4,XBRL_TAXONOMY_EXACT,
+ECLERX,Energy Intensity (kWh/employee),E,1073.7969251470602,9.6,96.0,derived,
+ECLERX,Water Intensity (KL/employee),E,7.096145978234187,9.78,97.8,derived,
+ECLERX,Female Employee Percentage,S,36.17,9.04,90.4,XBRL_TAXONOMY_EXACT,23.0
+ECLERX,Employee Turnover Rate,S,38.2,0.6,6.0,XBRL_TAXONOMY_EXACT,
+ECLERX,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+ECLERX,Female Directors Percentage,G,11.12,3.37,33.7,XBRL_TAXONOMY_EXACT,
+DATAMATICS,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+DATAMATICS,Waste Recycled Percentage,E,10.122637716123844,1.27,12.7,XBRL_TAXONOMY_EXACT,
+DATAMATICS,Energy Intensity (kWh/employee),E,1200.2703882842939,9.52,95.2,derived,
+DATAMATICS,Water Intensity (KL/employee),E,0.04563280935106812,10.0,100.0,derived,
+DATAMATICS,Female Employee Percentage,S,39.99,10.0,100.0,XBRL_TAXONOMY_EXACT,
+DATAMATICS,Employee Turnover Rate,S,24.0,5.33,53.3,XBRL_TAXONOMY_EXACT,
+DATAMATICS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+DATAMATICS,Female Directors Percentage,G,25.0,7.58,75.8,XBRL_TAXONOMY_EXACT,
+MASTEK,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+MASTEK,Waste Recycled Percentage,E,12.467532467532466,1.56,15.6,XBRL_TAXONOMY_EXACT,
+MASTEK,Water Intensity (KL/employee),E,3.944958448753463,10.0,100.0,derived,
+MASTEK,Female Employee Percentage,S,30.570000000000004,7.64,76.4,XBRL_TAXONOMY_EXACT,
+MASTEK,Employee Turnover Rate,S,19.3,6.9,69.0,XBRL_TAXONOMY_EXACT,
+MASTEK,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+MASTEK,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+SONACOMS,Renewable Energy Percentage,E,3.473205463824065,0.58,5.8,XBRL_TAXONOMY_EXACT,
+SONACOMS,Waste Recycled Percentage,E,96.8122338002333,10.0,100.0,XBRL_TAXONOMY_EXACT,
+SONACOMS,Energy Intensity (kWh/employee),E,262.67023411371235,10.0,100.0,derived,
+SONACOMS,Water Intensity (KL/employee),E,99.4247491638796,0.06,0.6,derived,
+SONACOMS,Female Employee Percentage,S,8.17,2.04,20.4,XBRL_TAXONOMY_EXACT,
+SONACOMS,Employee Turnover Rate,S,12.0,9.33,93.3,XBRL_TAXONOMY_EXACT,
+SONACOMS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+SONACOMS,Female Directors Percentage,G,22.23,6.74,67.4,XBRL_TAXONOMY_EXACT,
+HGS,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+HGS,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+HGS,Energy Intensity (kWh/employee),E,1725.892455377231,9.15,91.5,derived,
+HGS,Water Intensity (KL/employee),E,0.0,10.0,100.0,derived,
+HGS,Female Employee Percentage,S,43.4,10.0,100.0,XBRL_TAXONOMY_EXACT,
+HGS,Employee Turnover Rate,S,36.0,1.33,13.3,XBRL_TAXONOMY_EXACT,
+HGS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+HGS,Female Directors Percentage,G,10.0,3.03,30.3,XBRL_TAXONOMY_EXACT,
+NIITLTD,Renewable Energy Percentage,E,6.237010610280445,1.04,10.4,XBRL_TAXONOMY_EXACT,
+NIITLTD,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL,
+NIITLTD,Energy Intensity (kWh/employee),E,1432.236683538202,9.36,93.6,derived,
+NIITLTD,Water Intensity (KL/employee),E,7.6496746203904555,9.72,97.2,derived,
+NIITLTD,Female Employee Percentage,S,34.39,8.6,86.0,XBRL_TAXONOMY_EXACT,
+NIITLTD,Employee Turnover Rate,S,30.0,3.33,33.3,XBRL_TAXONOMY_EXACT,
+NIITLTD,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+NIITLTD,Female Directors Percentage,G,20.0,6.06,60.6,XBRL_TAXONOMY_EXACT,
+AFFLE,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL,
+AFFLE,Water Intensity (KL/employee),E,0.0,10.0,100.0,derived,
+AFFLE,Female Employee Percentage,S,37.61,9.4,94.0,XBRL_TAXONOMY_EXACT,
+AFFLE,Employee Turnover Rate,S,33.0,2.33,23.3,XBRL_TAXONOMY_EXACT,
+AFFLE,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+AFFLE,Independent Directors Percentage,G,55.6,8.9,89.0,BRSR_PDF,9.0
+AFFLE,Female Directors Percentage,G,25.0,7.58,75.8,XBRL_TAXONOMY_EXACT,
+MPSLTD,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+MPSLTD,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL,
+MPSLTD,Energy Intensity (kWh/employee),E,1513.157191597813,9.3,93.0,derived,
+MPSLTD,Water Intensity (KL/employee),E,0.09618941916389197,10.0,100.0,derived,
+MPSLTD,Female Employee Percentage,S,34.300000000000004,8.58,85.8,XBRL_TAXONOMY_EXACT,
+MPSLTD,Employee Turnover Rate,S,19.4,6.87,68.7,XBRL_TAXONOMY_EXACT,
+MPSLTD,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+MPSLTD,Female Directors Percentage,G,57.15,10.0,100.0,XBRL_TAXONOMY_EXACT,
+SUBEXLTD,Renewable Energy Percentage,E,35.68776735606923,5.95,59.5,XBRL_TAXONOMY_EXACT,
+SUBEXLTD,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL,
+SUBEXLTD,Energy Intensity (kWh/employee),E,1679.9182489451475,9.19,91.9,derived,
+SUBEXLTD,Water Intensity (KL/employee),E,10.284810126582279,9.44,94.4,derived,
+SUBEXLTD,Female Employee Percentage,S,34.02,8.51,85.1,XBRL_TAXONOMY_EXACT,
+SUBEXLTD,Employee Turnover Rate,S,24.0,5.33,53.3,XBRL_TAXONOMY_EXACT,
+SUBEXLTD,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+SUBEXLTD,Female Directors Percentage,G,50.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+SIS,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,30.0
+SIS,Waste Recycled Percentage,E,3.687607006453313e-07,0.0,0.0,XBRL_TAXONOMY_EXACT,
+SIS,Water Intensity (KL/employee),E,65750001.835872956,0.0,0.0,derived,
+SIS,Female Employee Percentage,S,4.84,1.21,12.1,XBRL_TAXONOMY_EXACT,19.0
+SIS,Employee Turnover Rate,S,39.76,0.08,0.8,XBRL_TAXONOMY_EXACT,
+SIS,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+SIS,Female Directors Percentage,G,27.28,8.27,82.7,XBRL_TAXONOMY_EXACT,
+ZOMATO,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+ZOMATO,Waste Recycled Percentage,E,74.03225806451613,9.25,92.5,XBRL_TAXONOMY_EXACT,
+ZOMATO,Water Intensity (KL/employee),E,0.037699550919889906,10.0,100.0,derived,
+ZOMATO,Female Employee Percentage,S,29.08,7.27,72.7,XBRL_TAXONOMY_EXACT,
+ZOMATO,Employee Turnover Rate,S,44.330000000000005,0.0,0.0,XBRL_TAXONOMY_EXACT,
+ZOMATO,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+ZOMATO,Female Directors Percentage,G,50.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+PAYTM,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,34.0
+PAYTM,Waste Recycled Percentage,E,85.84790316664628,10.0,100.0,XBRL_TAXONOMY_EXACT,
+PAYTM,Energy Intensity (kWh/employee),E,199.05101437409027,10.0,100.0,derived,
+PAYTM,Water Intensity (KL/employee),E,2.5462820687772925,10.0,100.0,derived,
+PAYTM,Female Employee Percentage,S,7.08,1.77,17.7,XBRL_TAXONOMY_EXACT,32.0
+PAYTM,Employee Turnover Rate,S,97.47,0.0,0.0,XBRL_TAXONOMY_EXACT,
+PAYTM,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+PAYTM,Female Directors Percentage,G,12.5,3.79,37.9,XBRL_TAXONOMY_EXACT,
+POLICYBZR,Renewable Energy Percentage,E,0.8234699038947901,0.14,1.4,XBRL_TAXONOMY_EXACT,
+POLICYBZR,Waste Recycled Percentage,E,100.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+POLICYBZR,Energy Intensity (kWh/employee),E,614.8581067968412,9.92,99.2,derived,
+POLICYBZR,Water Intensity (KL/employee),E,0.4632092794124233,10.0,100.0,derived,
+POLICYBZR,Female Employee Percentage,S,24.49,6.12,61.2,XBRL_TAXONOMY_EXACT,
+POLICYBZR,Employee Turnover Rate,S,89.57000000000001,0.0,0.0,XBRL_TAXONOMY_EXACT,
+POLICYBZR,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+POLICYBZR,Female Directors Percentage,G,33.34,10.0,100.0,XBRL_TAXONOMY_EXACT,
+DELHIVERY,Renewable Energy Percentage,E,0.6388135266822805,0.11,1.1,XBRL_TAXONOMY_EXACT,
+DELHIVERY,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+DELHIVERY,Energy Intensity (kWh/employee),E,10386.68573747887,3.18,31.8,derived,
+DELHIVERY,Water Intensity (KL/employee),E,3.441067854283427,10.0,100.0,derived,
+DELHIVERY,Female Employee Percentage,S,8.3,2.08,20.8,XBRL_TAXONOMY_EXACT,
+DELHIVERY,Employee Turnover Rate,S,39.49,0.17,1.7,XBRL_TAXONOMY_EXACT,
+DELHIVERY,Safety Incidents per 1000 Employees,S,5.254203362690152,0.0,0.0,derived,
+DELHIVERY,Female Directors Percentage,G,22.23,6.74,67.4,XBRL_TAXONOMY_EXACT,
+NAZARA,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+NAZARA,Waste Recycled Percentage,E,0.0,0.0,0.0,XBRL,
+NAZARA,Energy Intensity (kWh/employee),E,3803.9241622574955,7.72,77.2,derived,
+NAZARA,Water Intensity (KL/employee),E,0.0,10.0,100.0,derived,
+NAZARA,Female Employee Percentage,S,15.88,3.97,39.7,XBRL_TAXONOMY_EXACT,
+NAZARA,Employee Turnover Rate,S,30.16,3.28,32.8,XBRL_TAXONOMY_EXACT,
+NAZARA,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+NAZARA,Female Directors Percentage,G,12.5,3.79,37.9,XBRL_TAXONOMY_EXACT,
+TATACOMM,Renewable Energy Percentage,E,33.91159319539342,5.65,56.5,XBRL_TAXONOMY_EXACT,39.0
+TATACOMM,Waste Recycled Percentage,E,94.16575392479008,10.0,100.0,XBRL_TAXONOMY_EXACT,40.0
+TATACOMM,Energy Intensity (kWh/employee),E,14118.59260962503,0.61,6.1,derived,
+TATACOMM,Water Intensity (KL/employee),E,12.35333793209167,9.23,92.3,derived,
+TATACOMM,Female Employee Percentage,S,23.8,5.95,59.5,XBRL_TAXONOMY_EXACT,56.0
+TATACOMM,Employee Turnover Rate,S,11.0,9.67,96.7,XBRL_TAXONOMY_EXACT,
+TATACOMM,Safety Incidents per 1000 Employees,S,0.07664597225415805,9.85,98.5,derived,
+TATACOMM,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+INDUSTOWER,Renewable Energy Percentage,E,1.024688439813921,0.17,1.7,XBRL_TAXONOMY_EXACT,
+INDUSTOWER,Waste Recycled Percentage,E,100.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+INDUSTOWER,Energy Intensity (kWh/employee),E,2636.740672352648,8.53,85.3,derived,
+INDUSTOWER,Water Intensity (KL/employee),E,88.30704299657083,1.23,12.3,derived,
+INDUSTOWER,Female Employee Percentage,S,16.25,4.06,40.6,XBRL_TAXONOMY_EXACT,
+INDUSTOWER,Employee Turnover Rate,S,19.17,6.94,69.4,XBRL_TAXONOMY_EXACT,
+INDUSTOWER,Safety Incidents per 1000 Employees,S,2.374043787918755,5.25,52.5,derived,
+INDUSTOWER,Female Directors Percentage,G,9.1,2.76,27.6,XBRL_TAXONOMY_EXACT,
+BHARTIARTL,Renewable Energy Percentage,E,0.804456501339339,0.13,1.3,XBRL_TAXONOMY_EXACT,11.0
+BHARTIARTL,Water Recycled Percentage,E,4.0,0.8,8.0,BRSR_PDF,12.0
+BHARTIARTL,Waste Recycled Percentage,E,98.36764526738943,10.0,100.0,XBRL_TAXONOMY_EXACT,13.0
+BHARTIARTL,Energy Intensity (kWh/employee),E,198.3451776649746,10.0,100.0,derived,
+BHARTIARTL,Water Intensity (KL/employee),E,5.349223865224748,9.96,99.6,derived,
+BHARTIARTL,Female Employee Percentage,S,19.58,4.89,48.9,XBRL_TAXONOMY_EXACT,10.0
+BHARTIARTL,Employee Turnover Rate,S,18.0,7.33,73.3,XBRL_TAXONOMY_EXACT,
+BHARTIARTL,Safety Incidents per 1000 Employees,S,1.1035091591260207,7.79,77.9,derived,
+BHARTIARTL,Female Directors Percentage,G,30.0,9.09,90.9,XBRL_TAXONOMY_EXACT,
+TEJASNET,Renewable Energy Percentage,E,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+TEJASNET,Waste Recycled Percentage,E,1.8369100294135936,0.23,2.3,XBRL_TAXONOMY_EXACT,
+TEJASNET,Energy Intensity (kWh/employee),E,5716.0433661509605,6.4,64.0,derived,
+TEJASNET,Water Intensity (KL/employee),E,12.316033755274262,9.23,92.3,derived,
+TEJASNET,Female Employee Percentage,S,14.27,3.57,35.7,XBRL_TAXONOMY_EXACT,22.0
+TEJASNET,Employee Turnover Rate,S,10.3,9.9,99.0,XBRL_TAXONOMY_EXACT,5.0
+TEJASNET,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+TEJASNET,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,
+REDINGTON,Renewable Energy Percentage,E,3.4661897462101856,0.58,5.8,XBRL_TAXONOMY_EXACT,7.0
+REDINGTON,Waste Recycled Percentage,E,99.61917447956692,10.0,100.0,XBRL_TAXONOMY_EXACT,5.0
+REDINGTON,Energy Intensity (kWh/employee),E,2047.071129707113,8.93,89.3,derived,
+REDINGTON,Water Intensity (KL/employee),E,6.386192468619247,9.85,98.5,derived,
+REDINGTON,Female Employee Percentage,S,23.6,5.9,59.0,XBRL_TAXONOMY_EXACT,11.0
+REDINGTON,Employee Turnover Rate,S,21.0,6.33,63.3,XBRL_TAXONOMY_EXACT,
+REDINGTON,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+REDINGTON,Female Directors Percentage,G,25.0,7.58,75.8,XBRL_TAXONOMY_EXACT,
+MAZDOCK,Renewable Energy Percentage,E,28.518532099890944,4.75,47.5,XBRL_TAXONOMY_EXACT,
+MAZDOCK,Waste Recycled Percentage,E,0.9205305598241128,0.12,1.2,XBRL_TAXONOMY_EXACT,
+MAZDOCK,Energy Intensity (kWh/employee),E,16382.713706552706,0.0,0.0,derived,
+MAZDOCK,Water Intensity (KL/employee),E,79.39979487179488,2.17,21.7,derived,
+MAZDOCK,Female Employee Percentage,S,7.59,1.9,19.0,XBRL_TAXONOMY_EXACT,
+MAZDOCK,Employee Turnover Rate,S,0.73,10.0,100.0,XBRL_TAXONOMY_EXACT,
+MAZDOCK,Safety Incidents per 1000 Employees,S,0.0,10.0,100.0,derived,
+MAZDOCK,Female Directors Percentage,G,0.0,0.0,0.0,XBRL_TAXONOMY_EXACT,
+TITAN,Renewable Energy Percentage,E,30.71297528537064,5.12,51.2,XBRL_TAXONOMY_EXACT,
+TITAN,Waste Recycled Percentage,E,13.103904698874915,1.64,16.4,XBRL_TAXONOMY_EXACT,
+TITAN,Energy Intensity (kWh/employee),E,8753.32568975908,4.31,43.1,derived,
+TITAN,Water Intensity (KL/employee),E,39.70339992062442,6.35,63.5,derived,
+TITAN,Female Employee Percentage,S,25.82,6.46,64.5,XBRL_TAXONOMY_EXACT,
+TITAN,Employee Turnover Rate,S,10.0,10.0,100.0,XBRL_TAXONOMY_EXACT,
+TITAN,Safety Incidents per 1000 Employees,S,0.5291705252017462,8.94,89.4,derived,
+TITAN,Female Directors Percentage,G,16.669999999999998,5.05,50.5,XBRL_TAXONOMY_EXACT,

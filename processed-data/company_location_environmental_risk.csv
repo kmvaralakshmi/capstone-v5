@@ -1,0 +1,84 @@
+Company_Code,Company_Name,Location_Type,City,Area,Avg_AQI,Max_AQI,Min_AQI,Environmental_Risk_Score,Risk_Level,Data_Records,Analysis_Date,AQI_Source,Match_Method,Matched_City,Evidence_Confidence
+TCS,Tata Consultancy Services,Headquarters,Mumbai,Fort,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+TCS,Tata Consultancy Services,Major Office,Mumbai,Andheri East,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+TCS,Tata Consultancy Services,Major Office,Bangalore,Electronic City,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+TCS,Tata Consultancy Services,Major Office,Pune,Hinjewadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+TCS,Tata Consultancy Services,Major Office,Chennai,Sholinganallur,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+TCS,Tata Consultancy Services,Major Office,Hyderabad,Gachibowli,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+TCS,Tata Consultancy Services,Major Office,Noida,Sector 62,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+INFY,Infosys,Headquarters,Bangalore,Electronics City,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+INFY,Infosys,Major Office,Pune,Hinjewadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+INFY,Infosys,Major Office,Chennai,Mahindra World City,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+INFY,Infosys,Major Office,Hyderabad,HITEC City,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+INFY,Infosys,Major Office,Mysore,Infosys Campus,300.0,300.0,300.0,4.0,Poor,1,2026-10-12,CPCB real-time snapshot (computed AQI),alias,Mysuru,0.57
+INFY,Infosys,Major Office,Mumbai,Powai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+INFY,Infosys,Major Office,Noida,Sector 135,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+WIPRO,Wipro,Headquarters,Bangalore,Sarjapur Road,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+WIPRO,Wipro,Major Office,Bangalore,Electronic City,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+WIPRO,Wipro,Major Office,Mumbai,Goregaon East,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+WIPRO,Wipro,Major Office,Pune,Hinjewadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+WIPRO,Wipro,Major Office,Hyderabad,Madhapur,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+WIPRO,Wipro,Major Office,Chennai,Sholinganallur,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+WIPRO,Wipro,Major Office,Gurugram,Cyber City,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+WIPRO,Wipro,Major Office,Kochi,Infopark,317.98816568047334,317.98816568047334,317.98816568047334,3.6402366863905335,Very Poor,1,2026-10-12,CPCB real-time snapshot (computed AQI),proxy,Eloor,0.33
+HCLTECH,HCL Technologies,Headquarters,Noida,Sector 3,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+HCLTECH,HCL Technologies,Major Office,Noida,Sector 126,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+HCLTECH,HCL Technologies,Major Office,Bangalore,Nagawara,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+HCLTECH,HCL Technologies,Major Office,Chennai,Siruseri IT Park,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+HCLTECH,HCL Technologies,Major Office,Pune,Kharadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+HCLTECH,HCL Technologies,Major Office,Hyderabad,Madhapur,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+HCLTECH,HCL Technologies,Major Office,Mumbai,Andheri,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+HCLTECH,HCL Technologies,Major Office,Gurugram,Udyog Vihar,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+TECHM,Tech Mahindra,Headquarters,Pune,Shivajinagar,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+TECHM,Tech Mahindra,Major Office,Pune,Talawade,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+TECHM,Tech Mahindra,Major Office,Bangalore,Whitefield,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+TECHM,Tech Mahindra,Major Office,Hyderabad,HITEC City,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+TECHM,Tech Mahindra,Major Office,Chennai,Sholinganallur,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+TECHM,Tech Mahindra,Major Office,Mumbai,Mahape,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+TECHM,Tech Mahindra,Major Office,Gurugram,Sector 74,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+TECHM,Tech Mahindra,Major Office,Chandigarh,IT Park,473.716814159292,473.716814159292,473.716814159292,0.5256637168141598,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Chandigarh,0.6
+LTIM,LTIMindtree,Headquarters,Mumbai,Powai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+MPHASIS,Mphasis,Headquarters,Bangalore,Kadubeesanahalli,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+PERSISTENT,Persistent Systems,Headquarters,Pune,Hinjewadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+COFORGE,Coforge,Headquarters,Noida,Sector 62,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+LTTS,L&T Technology Services,Headquarters,Mumbai,Powai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+TATAELXSI,Tata Elxsi,Headquarters,Bangalore,Electronics City,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+OFSS,Oracle Financial Services Software,Headquarters,Mumbai,Goregaon East,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+KPITTECH,KPIT Technologies,Headquarters,Pune,Hinjewadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+CYIENT,Cyient,Headquarters,Hyderabad,Madhapur,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+BSOFT,Birlasoft,Headquarters,Noida,Sector 62,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+ZENSARTECH,Zensar Technologies,Headquarters,Pune,Kharadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+TATATECH,Tata Technologies,Headquarters,Pune,Hinjewadi,174.6994254352114,306.2721893491124,45.0,6.506011491295772,Moderate,6,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Pune,0.6
+HAPPSTMNDS,Happiest Minds Technologies,Headquarters,Bangalore,Bengaluru,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+SONATSOFTW,Sonata Software,Headquarters,Bangalore,Ulsoor,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Bangalore,0.95
+HEXAWARE,Hexaware Technologies,Headquarters,Navi Mumbai,Ghansoli,379.1702361627481,432.83185840707966,317.98816568047334,2.4165952767450385,Very Poor,5,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Navi Mumbai,0.6
+MINDTREE,Mindtree (legacy symbol),Headquarters,Bengaluru,Bengaluru,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Bangalore,0.9
+NEWGEN,Newgen Software Technologies,Headquarters,New Delhi,New Delhi,255.55410583941605,499.9,0.6,4.888917883211679,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Delhi,0.9
+TANLA,Tanla Platforms,Headquarters,Hyderabad,Hyderabad,377.50645808449104,473.716814159292,285.6521739130435,2.4498708383101784,Very Poor,11,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Hyderabad,0.6
+INTELLECT,Intellect Design Arena,Headquarters,Chennai,Chennai,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+ROUTE,Route Mobile,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+RATEGAIN,RateGain Travel Technologies,Headquarters,Noida,Noida,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+ECLERX,eClerx Services,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+DATAMATICS,Datamatics Global Services,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+MASTEK,Mastek,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+SONACOMS,Sona BLW Precision Forgings,Headquarters,Gurugram,Gurugram,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+HGS,Hinduja Global Solutions,Headquarters,Bengaluru,Bengaluru,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Bangalore,0.9
+NIITLTD,NIIT,Headquarters,Gurugram,Gurugram,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+E2E,E2E Networks,Headquarters,New Delhi,New Delhi,255.55410583941605,499.9,0.6,4.888917883211679,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Delhi,0.9
+AFFLE,Affle India,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+MPSLTD,MPS,Headquarters,Noida,Noida,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+SUBEXLTD,Subex,Headquarters,Bengaluru,Bengaluru,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Bangalore,0.9
+SIS,Security and Intelligence Services,Headquarters,New Delhi,New Delhi,255.55410583941605,499.9,0.6,4.888917883211679,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Delhi,0.9
+ZOMATO,Eternal (formerly Zomato),Headquarters,Gurugram,Gurugram,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+PAYTM,One 97 Communications,Headquarters,Noida,Noida,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+POLICYBZR,PB Fintech,Headquarters,Gurugram,Gurugram,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+DELHIVERY,Delhivery,Headquarters,Gurugram,Gurugram,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+NAZARA,Nazara Technologies,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+TATACOMM,Tata Communications,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+INDUSTOWER,Indus Towers,Headquarters,Gurugram,Gurugram,456.1946902654867,456.1946902654867,456.1946902654867,0.876106194690266,Severe,1,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Gurugram,0.6
+BHARTIARTL,Bharti Airtel,Headquarters,New Delhi,New Delhi,255.55410583941605,499.9,0.6,4.888917883211679,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Delhi,0.9
+TEJASNET,Tejas Networks,Headquarters,Bengaluru,Bengaluru,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Bangalore,0.9
+REDINGTON,Redington,Headquarters,Chennai,Chennai,250.08868613138688,499.8,0.4,4.998226277372262,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Chennai,0.95
+HCL-INFO,HCL Infosystems,Headquarters,Noida,Noida,417.94225969174914,482.4778761061947,347.27810650887574,1.6411548061650172,Severe,3,2026-10-12,CPCB real-time snapshot (computed AQI),exact,Noida,0.6
+MAZDOCK,Mazagon Dock Shipbuilders,Headquarters,Mumbai,Mumbai,257.13640510948903,499.6,0.0,4.857271897810219,Poor,1096,2026-10-12,CPCB city_day 3-yr,exact,Mumbai,0.95
+TITAN,Titan Company,Headquarters,Bengaluru,Bengaluru,250.93613138686132,499.8,0.1,4.981277372262774,Poor,1096,2026-10-12,CPCB city_day 3-yr,alias,Bangalore,0.9

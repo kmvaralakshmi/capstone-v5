@@ -1,0 +1,1102 @@
+[
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TCS",
+    "company_name": "Tata Consultancy Services",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0012104000197723508,
+      "metrics": 0,
+      "error": "No XBRL instance found for TCS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 7.681065899960231,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 7.6846357000176795
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "INFY",
+    "company_name": "Infosys",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "SUCCESS",
+      "time_sec": 0.8156583000090905,
+      "metrics": 16,
+      "error": null
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 47.280185999989044,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 16,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 7,
+    "company_total_time_sec": 48.09752599999774
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "WIPRO",
+    "company_name": "Wipro",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005154000245966017,
+      "metrics": 0,
+      "error": "No XBRL instance found for WIPRO in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 4.8757909999694675,
+      "metrics": 10,
+      "error": null
+    },
+    "final_metrics": 10,
+    "pdf_fallback_metrics": 10,
+    "discrepancies": 0,
+    "company_total_time_sec": 4.8769152000313625
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "HCLTECH",
+    "company_name": "HCL Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0006485999911092222,
+      "metrics": 0,
+      "error": "No XBRL instance found for HCLTECH in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 10.506605400005355,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 8,
+    "pdf_fallback_metrics": 8,
+    "discrepancies": 0,
+    "company_total_time_sec": 10.5082539000432
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TECHM",
+    "company_name": "Tech Mahindra",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.000506000011228025,
+      "metrics": 0,
+      "error": "No XBRL instance found for TECHM in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 6.986270599998534,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 6.987596500024665
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "LTIM",
+    "company_name": "LTIMindtree",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0013965999823994935,
+      "metrics": 0,
+      "error": "No XBRL instance found for LTIM in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 52.61579180002445,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 8,
+    "pdf_fallback_metrics": 8,
+    "discrepancies": 0,
+    "company_total_time_sec": 52.61836480000056
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "MPHASIS",
+    "company_name": "Mphasis",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005991999641992152,
+      "metrics": 0,
+      "error": "No XBRL instance found for MPHASIS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 54.48605060001137,
+      "metrics": 9,
+      "error": null
+    },
+    "final_metrics": 9,
+    "pdf_fallback_metrics": 9,
+    "discrepancies": 0,
+    "company_total_time_sec": 54.48787390004145
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "PERSISTENT",
+    "company_name": "Persistent Systems",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0017058999510481954,
+      "metrics": 0,
+      "error": "No XBRL instance found for PERSISTENT in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 11.052573400025722,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 11.056022499979008
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "COFORGE",
+    "company_name": "Coforge",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.001395899977069348,
+      "metrics": 0,
+      "error": "No XBRL instance found for COFORGE in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 9.07250120001845,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 9.075686900003348
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "LTTS",
+    "company_name": "L&T Technology Services",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0011609999928623438,
+      "metrics": 0,
+      "error": "No XBRL instance found for LTTS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 84.55957919999491,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 8,
+    "pdf_fallback_metrics": 8,
+    "discrepancies": 0,
+    "company_total_time_sec": 84.56249989999924
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TATAELXSI",
+    "company_name": "Tata Elxsi",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0013704000157304108,
+      "metrics": 0,
+      "error": "No XBRL instance found for TATAELXSI in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 17.062960400013253,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 17.065605800016783
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "OFSS",
+    "company_name": "Oracle Financial Services Software",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0012026000185869634,
+      "metrics": 0,
+      "error": "No XBRL instance found for OFSS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 4.4458883999614045,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 4.4485216999892145
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "KPITTECH",
+    "company_name": "KPIT Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.001193300005979836,
+      "metrics": 0,
+      "error": "No XBRL instance found for KPITTECH in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 18.46648040000582,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 18.468797000008635
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "CYIENT",
+    "company_name": "Cyient",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0020857000490650535,
+      "metrics": 0,
+      "error": "No XBRL instance found for CYIENT in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 69.81757690000813,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 69.82069280004362
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "BSOFT",
+    "company_name": "Birlasoft",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0007390999817289412,
+      "metrics": 0,
+      "error": "No XBRL instance found for BSOFT in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 8.796786099963356,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 8.798673300014343
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "ZENSARTECH",
+    "company_name": "Zensar Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0021866000024601817,
+      "metrics": 0,
+      "error": "No XBRL instance found for ZENSARTECH in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 7.179860700038262,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 8,
+    "pdf_fallback_metrics": 8,
+    "discrepancies": 0,
+    "company_total_time_sec": 7.183183800021652
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TATATECH",
+    "company_name": "Tata Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0029750000103376806,
+      "metrics": 0,
+      "error": "No XBRL instance found for TATATECH in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 4.646974599978421,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 4.651040100026876
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "HAPPSTMNDS",
+    "company_name": "Happiest Minds Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0006287000142037868,
+      "metrics": 0,
+      "error": "No XBRL instance found for HAPPSTMNDS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 10.09262160002254,
+      "metrics": 3,
+      "error": null
+    },
+    "final_metrics": 3,
+    "pdf_fallback_metrics": 3,
+    "discrepancies": 0,
+    "company_total_time_sec": 10.094578899967019
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "SONATSOFTW",
+    "company_name": "Sonata Software",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005946000455878675,
+      "metrics": 0,
+      "error": "No XBRL instance found for SONATSOFTW in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 659.3487156999763,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 659.3503146999865
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "HEXAWARE",
+    "company_name": "Hexaware Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0006163999787531793,
+      "metrics": 0,
+      "error": "No XBRL instance found for HEXAWARE in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 61.584514099988155,
+      "metrics": 9,
+      "error": null
+    },
+    "final_metrics": 9,
+    "pdf_fallback_metrics": 9,
+    "discrepancies": 0,
+    "company_total_time_sec": 61.58620920003159
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "MINDTREE",
+    "company_name": "Mindtree (legacy symbol)",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0007047000108286738,
+      "metrics": 0,
+      "error": "No XBRL instance found for MINDTREE in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00020239996956661344,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\MINDTREE_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.001713199948426336
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "NEWGEN",
+    "company_name": "Newgen Software Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00040740001713857055,
+      "metrics": 0,
+      "error": "No XBRL instance found for NEWGEN in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 2.9960107000079006,
+      "metrics": 3,
+      "error": null
+    },
+    "final_metrics": 3,
+    "pdf_fallback_metrics": 3,
+    "discrepancies": 0,
+    "company_total_time_sec": 2.9970785999903455
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TANLA",
+    "company_name": "Tanla Platforms",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005085000302642584,
+      "metrics": 0,
+      "error": "No XBRL instance found for TANLA in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 9.613335700007156,
+      "metrics": 5,
+      "error": null
+    },
+    "final_metrics": 5,
+    "pdf_fallback_metrics": 5,
+    "discrepancies": 0,
+    "company_total_time_sec": 9.614668900030665
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "INTELLECT",
+    "company_name": "Intellect Design Arena",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.000831299985293299,
+      "metrics": 0,
+      "error": "No XBRL instance found for INTELLECT in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 9.547045200015418,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 9.54950760002248
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "ROUTE",
+    "company_name": "Route Mobile",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.001019099960103631,
+      "metrics": 0,
+      "error": "No XBRL instance found for ROUTE in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 4.403520399995614,
+      "metrics": 4,
+      "error": null
+    },
+    "final_metrics": 4,
+    "pdf_fallback_metrics": 4,
+    "discrepancies": 0,
+    "company_total_time_sec": 4.405677399947308
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "RATEGAIN",
+    "company_name": "RateGain Travel Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0008410000009462237,
+      "metrics": 0,
+      "error": "No XBRL instance found for RATEGAIN in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 84.29979229997844,
+      "metrics": 1,
+      "error": null
+    },
+    "final_metrics": 1,
+    "pdf_fallback_metrics": 1,
+    "discrepancies": 0,
+    "company_total_time_sec": 84.30153160000918
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "ECLERX",
+    "company_name": "eClerx Services",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0008123000152409077,
+      "metrics": 0,
+      "error": "No XBRL instance found for ECLERX in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 8.042232099978719,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 8.044023099995684
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "DATAMATICS",
+    "company_name": "Datamatics Global Services",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.000694699992891401,
+      "metrics": 0,
+      "error": "No XBRL instance found for DATAMATICS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00017110002227127552,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\DATAMATICS_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0015842000138945878
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "MASTEK",
+    "company_name": "Mastek",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00045410002348944545,
+      "metrics": 0,
+      "error": "No XBRL instance found for MASTEK in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00012520002201199532,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\MASTEK_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.001531900023110211
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "SONACOMS",
+    "company_name": "Sona BLW Precision Forgings",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0013632000191137195,
+      "metrics": 0,
+      "error": "No XBRL instance found for SONACOMS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0003003000165335834,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\SONACOMS_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.003091300022788346
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "HGS",
+    "company_name": "Hinduja Global Solutions",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0022948000114411116,
+      "metrics": 0,
+      "error": "No XBRL instance found for HGS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0011369999847374856,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\HGS_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.005136299994774163
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "NIITLTD",
+    "company_name": "NIIT",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.000728400016669184,
+      "metrics": 0,
+      "error": "No XBRL instance found for NIITLTD in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0007590000168420374,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\NIITLTD_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0021724000107496977
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "E2E",
+    "company_name": "E2E Networks",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005342999938875437,
+      "metrics": 0,
+      "error": "No XBRL instance found for E2E in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00013760000001639128,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\E2E_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0013289999915286899
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "AFFLE",
+    "company_name": "Affle India",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005106999888084829,
+      "metrics": 0,
+      "error": "No XBRL instance found for AFFLE in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 2.8889913000166416,
+      "metrics": 2,
+      "error": null
+    },
+    "final_metrics": 2,
+    "pdf_fallback_metrics": 2,
+    "discrepancies": 0,
+    "company_total_time_sec": 2.8904789999942295
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "MPSLTD",
+    "company_name": "MPS",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005231999675743282,
+      "metrics": 0,
+      "error": "No XBRL instance found for MPSLTD in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00010810000821948051,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\MPSLTD_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0014285999932326376
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "SUBEXLTD",
+    "company_name": "Subex",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0004390999674797058,
+      "metrics": 0,
+      "error": "No XBRL instance found for SUBEXLTD in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 2.537883899989538,
+      "metrics": 1,
+      "error": null
+    },
+    "final_metrics": 1,
+    "pdf_fallback_metrics": 1,
+    "discrepancies": 0,
+    "company_total_time_sec": 2.5393548000138253
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "SIS",
+    "company_name": "Security and Intelligence Services",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0013497999752871692,
+      "metrics": 0,
+      "error": "No XBRL instance found for SIS in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 5.110594499972649,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 5.113138800021261
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "ZOMATO",
+    "company_name": "Eternal (formerly Zomato)",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.000628999958280474,
+      "metrics": 0,
+      "error": "No XBRL instance found for ZOMATO in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00014369998825713992,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\ZOMATO_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0017567999893799424
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "PAYTM",
+    "company_name": "One 97 Communications",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.000500100024510175,
+      "metrics": 0,
+      "error": "No XBRL instance found for PAYTM in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 8.345684800005984,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 8.347346099966671
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "POLICYBZR",
+    "company_name": "PB Fintech",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0006046000053174794,
+      "metrics": 0,
+      "error": "No XBRL instance found for POLICYBZR in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00010439998004585505,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\POLICYBZR_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0014343000366352499
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "DELHIVERY",
+    "company_name": "Delhivery",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0003741999971680343,
+      "metrics": 0,
+      "error": "No XBRL instance found for DELHIVERY in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00012400001287460327,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\DELHIVERY_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0011273000272922218
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "NAZARA",
+    "company_name": "Nazara Technologies",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00043650000588968396,
+      "metrics": 0,
+      "error": "No XBRL instance found for NAZARA in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00010350003140047193,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\NAZARA_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.001340300019364804
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TATACOMM",
+    "company_name": "Tata Communications",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0010083999950438738,
+      "metrics": 0,
+      "error": "No XBRL instance found for TATACOMM in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 12.025873100035824,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 12.028010800015181
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "INDUSTOWER",
+    "company_name": "Indus Towers",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.001043400028720498,
+      "metrics": 0,
+      "error": "No XBRL instance found for INDUSTOWER in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 55.87121230002958,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 8,
+    "pdf_fallback_metrics": 8,
+    "discrepancies": 0,
+    "company_total_time_sec": 55.87344750005286
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "BHARTIARTL",
+    "company_name": "Bharti Airtel",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005859999801032245,
+      "metrics": 0,
+      "error": "No XBRL instance found for BHARTIARTL in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 3.6969987000338733,
+      "metrics": 9,
+      "error": null
+    },
+    "final_metrics": 9,
+    "pdf_fallback_metrics": 9,
+    "discrepancies": 0,
+    "company_total_time_sec": 3.6982818000251427
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TEJASNET",
+    "company_name": "Tejas Networks",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0013658999814651906,
+      "metrics": 0,
+      "error": "No XBRL instance found for TEJASNET in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 5.531177299970295,
+      "metrics": 6,
+      "error": null
+    },
+    "final_metrics": 6,
+    "pdf_fallback_metrics": 6,
+    "discrepancies": 0,
+    "company_total_time_sec": 5.533940499997698
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "REDINGTON",
+    "company_name": "Redington",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0011480999528430402,
+      "metrics": 0,
+      "error": "No XBRL instance found for REDINGTON in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 9.488230100017972,
+      "metrics": 7,
+      "error": null
+    },
+    "final_metrics": 7,
+    "pdf_fallback_metrics": 7,
+    "discrepancies": 0,
+    "company_total_time_sec": 9.490742499998305
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "HCL-INFO",
+    "company_name": "HCL Infosystems",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0012366999872028828,
+      "metrics": 0,
+      "error": "No XBRL instance found for HCL-INFO in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0002960000419989228,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\HCL-INFO_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0030742999515496194
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "MAZDOCK",
+    "company_name": "Mazagon Dock Shipbuilders",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0005145000177435577,
+      "metrics": 0,
+      "error": "No XBRL instance found for MAZDOCK in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.00011029996676370502,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\MAZDOCK_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.0021484000026248395
+  },
+  {
+    "run_id": "20261007_230725_b23699",
+    "company_code": "TITAN",
+    "company_name": "Titan Company",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0012565000215545297,
+      "metrics": 0,
+      "error": "No XBRL instance found for TITAN in C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl"
+    },
+    "pdf": {
+      "status": "NOT_FOUND",
+      "time_sec": 0.0007526000263169408,
+      "metrics": 0,
+      "error": "PDF not found: C:\\Users\\mahes\\Downloads\\capstone-v5\\brsr-pdfs\\TITAN_BR_24-25.pdf"
+    },
+    "final_metrics": 0,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 0,
+    "company_total_time_sec": 0.002953600022010505
+  }
+]

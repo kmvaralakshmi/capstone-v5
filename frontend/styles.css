@@ -1,0 +1,29 @@
+:root{--bg:#f4f6fa;--card:#fff;--ink:#17203a;--muted:#6b7590;--line:#e3e8f1;--brand:#0f766e;--brand2:#134e4a;--good:#15803d;--warn:#b45309;--bad:#b91c1c;--blue:#1d4ed8}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1424;--card:#161e33;--ink:#e8edf8;--muted:#93a0bd;--line:#26314d;--brand:#2dd4bf;--brand2:#99f6e4;--good:#4ade80;--warn:#fbbf24;--bad:#f87171;--blue:#60a5fa}}
+*{box-sizing:border-box}body{margin:0;font:14px/1.5 system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink);display:flex;min-height:100vh}
+.side{width:230px;background:var(--brand2);color:#e6fffb;padding:18px 12px;position:sticky;top:0;height:100vh;display:flex;flex-direction:column}
+@media (prefers-color-scheme:dark){.side{background:#0a1020;border-right:1px solid var(--line)}}
+.brand{font-weight:700;font-size:18px;padding:4px 10px 14px}.brand span{font-weight:300;margin-left:4px;opacity:.8}
+#nav a{display:block;padding:8px 12px;border-radius:8px;color:inherit;text-decoration:none;margin:2px 0;opacity:.85}
+#nav a:hover{background:rgba(255,255,255,.08)}#nav a.on{background:rgba(255,255,255,.16);opacity:1;font-weight:600}
+.side-foot{margin-top:auto;font-size:12px;opacity:.75;padding:8px 10px}
+main{flex:1;min-width:0;padding:20px 28px}.top{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:16px;flex-wrap:wrap}
+.top h2{margin:0}.muted{color:var(--muted);margin:0}.top-actions{display:flex;gap:8px}
+input,select{padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font:inherit}
+button{padding:8px 14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);cursor:pointer;font:inherit}
+button.primary{background:var(--brand);color:#fff;border-color:var(--brand);font-weight:600}button:disabled{opacity:.5}
+.grid{display:grid;gap:14px}.g2{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}.g3{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}.g4{grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+.card h3{margin:0 0 10px;font-size:15px}.kpi{font-size:28px;font-weight:700}.kpi small{font-size:13px;color:var(--muted);font-weight:400}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}th{color:var(--muted);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.03em}
+.bar{height:8px;border-radius:5px;background:var(--line);overflow:hidden;min-width:70px}.bar>i{display:block;height:100%;background:var(--brand)}
+.badge{display:inline-block;padding:2px 9px;border-radius:99px;font-size:12px;font-weight:600;background:var(--line)}
+.b-good{background:#dcfce7;color:#166534}.b-warn{background:#fef3c7;color:#92400e}.b-bad{background:#fee2e2;color:#991b1b}.b-blue{background:#dbeafe;color:#1e40af}
+@media (prefers-color-scheme:dark){.b-good{background:#14532d;color:#bbf7d0}.b-warn{background:#78350f;color:#fde68a}.b-bad{background:#7f1d1d;color:#fecaca}.b-blue{background:#1e3a8a;color:#bfdbfe}}
+.ring{width:150px;height:150px}.ring text{fill:var(--ink)}.row{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.expl{white-space:pre-wrap;line-height:1.65}.cite{color:var(--blue);font-size:11px}
+.log{background:#0b1220;color:#b6c2dc;font:12px/1.5 ui-monospace,Consolas,monospace;padding:10px;border-radius:8px;max-height:260px;overflow:auto;white-space:pre-wrap}
+.step{display:flex;gap:10px;align-items:center;padding:5px 0}.dot{width:10px;height:10px;border-radius:50%;background:var(--line)}.dot.ok{background:var(--good)}.dot.run{background:var(--warn);animation:p 1s infinite}.dot.bad{background:var(--bad)}
+@keyframes p{50%{opacity:.3}}.empty{padding:30px;text-align:center;color:var(--muted)}a.lnk{color:var(--blue);cursor:pointer;text-decoration:underline}
+details{margin-top:6px}summary{cursor:pointer;color:var(--blue)}.warnbox{border-left:4px solid var(--warn);background:var(--card);padding:10px 14px;border-radius:8px;margin:10px 0}
+@media (max-width:800px){body{flex-direction:column}.side{width:100%;height:auto;position:static}#nav{display:flex;flex-wrap:wrap}}

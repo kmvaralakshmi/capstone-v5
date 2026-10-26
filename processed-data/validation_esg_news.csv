@@ -1,0 +1,4 @@
+Analysis,n,status
+ESG vs Shrunk_Sentiment,5,"insufficient sample (n=5, need >= 10)"
+ESG vs Negative_Share,5,"insufficient sample (n=5, need >= 10)"
+ESG vs Negative_Events,5,"insufficient sample (n=5, need >= 10)"

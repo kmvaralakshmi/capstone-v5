@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "time": "2026-10-12T07:12:25+00:00",
+    "from": "agent2",
+    "to": "all",
+    "topic": "environmental_coverage",
+    "severity": "info",
+    "payload": {
+      "companies_without_aqi": [],
+      "companies_using_proxy_cities": [
+        "WIPRO"
+      ],
+      "unresolved_cities": []
+    }
+  },
+  {
+    "id": 2,
+    "time": "2026-10-12T07:12:26+00:00",
+    "from": "agent3",
+    "to": "all",
+    "topic": "news_coverage",
+    "severity": "info",
+    "payload": {
+      "companies_below_5_articles": [
+        "TCS",
+        "INFY",
+        "WIPRO",
+        "HCLTECH",
+        "TECHM",
+        "LTIM",
+        "MPHASIS",
+        "PERSISTENT",
+        "COFORGE",
+        "LTTS",
+        "TATAELXSI",
+        "OFSS",
+        "KPITTECH",
+        "CYIENT",
+        "BSOFT",
+        "ZENSARTECH",
+        "TATATECH",
+        "HAPPSTMNDS",
+        "SONATSOFTW",
+        "HEXAWARE",
+        "MINDTREE",
+        "NEWGEN",
+        "TANLA",
+        "INTELLECT",
+        "ROUTE",
+        "RATEGAIN",
+        "ECLERX",
+        "DATAMATICS",
+        "MASTEK",
+        "SONACOMS",
+        "HGS",
+        "NIITLTD",
+        "E2E",
+        "AFFLE",
+        "MPSLTD",
+        "SUBEXLTD",
+        "SIS",
+        "ZOMATO",
+        "PAYTM",
+        "POLICYBZR",
+        "DELHIVERY",
+        "NAZARA",
+        "TATACOMM",
+        "INDUSTOWER",
+        "BHARTIARTL",
+        "TEJASNET",
+        "REDINGTON",
+        "HCL-INFO",
+        "MAZDOCK",
+        "TITAN"
+      ],
+      "extreme_share": 0.0
+    }
+  },
+  {
+    "id": 3,
+    "time": "2026-10-12T07:12:31+00:00",
+    "from": "agent1",
+    "to": "all",
+    "topic": "brsr_coverage",
+    "severity": "info",
+    "payload": {
+      "companies": 50,
+      "mean_metrics_per_company": 10.46,
+      "companies_below_9_metrics": [
+        "E2E",
+        "HCL-INFO",
+        "HEXAWARE",
+        "MINDTREE"
+      ],
+      "repairs": 2
+    }
+  },
+  {
+    "id": 4,
+    "time": "2026-10-12T07:12:31+00:00",
+    "from": "agent4",
+    "to": "all",
+    "topic": "market_coverage",
+    "severity": "warning",
+    "payload": {
+      "companies_without_prices": [
+        "LTIM",
+        "MPHASIS",
+        "PERSISTENT",
+        "COFORGE",
+        "LTTS",
+        "TATAELXSI",
+        "OFSS",
+        "KPITTECH",
+        "CYIENT",
+        "BSOFT",
+        "ZENSARTECH",
+        "TATATECH",
+        "HAPPSTMNDS",
+        "SONATSOFTW",
+        "HEXAWARE",
+        "MINDTREE",
+        "NEWGEN",
+        "TANLA",
+        "INTELLECT",
+        "ROUTE",
+        "RATEGAIN",
+        "ECLERX",
+        "DATAMATICS",
+        "MASTEK",
+        "SONACOMS",
+        "HGS",
+        "NIITLTD",
+        "E2E",
+        "AFFLE",
+        "MPSLTD",
+        "SUBEXLTD",
+        "SIS",
+        "ZOMATO",
+        "PAYTM",
+        "POLICYBZR",
+        "DELHIVERY",
+        "NAZARA",
+        "TATACOMM",
+        "INDUSTOWER",
+        "TEJASNET",
+        "REDINGTON",
+        "HCL-INFO",
+        "MAZDOCK"
+      ],
+      "covered": 7,
+      "dynamic": false
+    }
+  },
+  {
+    "id": 5,
+    "time": "2026-10-12T07:12:32+00:00",
+    "from": "agent5",
+    "to": "all",
+    "topic": "consistency_summary",
+    "severity": "info",
+    "payload": {
+      "insufficient_evidence": [
+        "MINDTREE",
+        "E2E",
+        "HCL-INFO"
+      ],
+      "high_risk": []
+    }
+  },
+  {
+    "id": 6,
+    "time": "2026-10-12T07:12:32+00:00",
+    "from": "agent6",
+    "to": "all",
+    "topic": "scoring_summary",
+    "severity": "info",
+    "payload": {
+      "scored": 46,
+      "withheld": 4,
+      "gate_counts": {
+        "Partial": 46,
+        "Insufficient": 4
+      }
+    }
+  }
+]

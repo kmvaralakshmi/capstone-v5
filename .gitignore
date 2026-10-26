@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded source documents and raw datasets are kept locally.
+brsr-pdfs/*.pdf
+brsr-pdfs/*.tmp
+brsr-pdfs/*.invalid.pdf
+raw-datasets/
+legacy-v1-outputs/
+
+# Runtime and generated debug logs.
+*.log
+pipeline.log
+
+# Local tooling and editor files.
+.env
+.vscode/
+*.egg-info/.env
+__pycache__/
+*.pyc
+processed-data/run_metrics/
+processed-data/evidence_*.json
+processed-data/explanation_*.json
+processed-data/v5_*.log
+pipeline.log
+
+# generated / cached (recreated by the pipeline)
+data/cache/
+data/runs/
+processed-data/agent1_cache/
+processed-data/agent_traces/

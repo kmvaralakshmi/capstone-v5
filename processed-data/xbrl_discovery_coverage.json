@@ -1,0 +1,34 @@
+[
+  {
+    "company_code": "AFFLE",
+    "company_name": "Affle India",
+    "status": "LOCAL_VALID",
+    "path": "raw-datasets\\xbrl\\AFFLE_BRSR_2024_25.xml",
+    "url": "",
+    "reporting_periods": "[[\"2022-04-01\", \"2023-03-31\"], [\"2023-04-01\", \"2024-03-31\"], [\"2024-04-01\", \"2025-03-31\"]]",
+    "xbrl_structure_valid": true,
+    "target_period_valid": true,
+    "context_count": 515,
+    "fact_count": 1484,
+    "entity_identifiers": "[\"L65990DL1994PLC408172\"]",
+    "unique_file_mapping": true,
+    "detail": "Valid XBRL; exact target duration context found: 2024-04-01 to 2025-03-31.",
+    "elapsed_sec": 0.28
+  },
+  {
+    "company_code": "ZOMATO",
+    "company_name": "Eternal (formerly Zomato)",
+    "status": "LOCAL_VALID",
+    "path": "raw-datasets\\xbrl\\ZOMATO_BRSR_2024_25.xml",
+    "url": "",
+    "reporting_periods": "[[\"2022-04-01\", \"2023-03-31\"], [\"2023-04-01\", \"2024-03-31\"], [\"2024-04-01\", \"2025-03-31\"]]",
+    "detail": "Valid XBRL; exact target duration context found: 2024-04-01 to 2025-03-31.",
+    "elapsed_sec": 0.24,
+    "xbrl_structure_valid": true,
+    "target_period_valid": true,
+    "context_count": 538,
+    "fact_count": 1869,
+    "entity_identifiers": "[\"L93030DL2010PLC198141\"]",
+    "unique_file_mapping": true
+  }
+]

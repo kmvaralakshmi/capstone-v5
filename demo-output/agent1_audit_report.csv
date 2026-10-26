@@ -1,0 +1,508 @@
+Company_Code,Metric_Name,Metric_Value,Final_Source,Validation_Status,Audit_Status,Audit_Note
+TCS,Total Energy Consumption,539.1463144444444,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 887 kWh/employee); previous=1537637748.0
+TCS,Renewable Energy Percentage,79.2218337070129,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0093
+TCS,Total Water Consumption,2871784.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+TCS,Total Waste Generated,9983.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=9983.0
+TCS,Waste Recycled Percentage,58.847039967945506,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TCS,Total Employees,607979.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TCS,Female Employee Percentage,35.21,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.06
+TCS,Employee Turnover Rate,13.3,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=13.200000000000001"
+TCS,Training Hours per Employee,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=1.0
+TCS,Health and Safety Incidents,53.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=53.0"
+TCS,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TCS,Female Directors Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+INFY,Total Energy Consumption,236.23166666666665,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 730 kWh/employee); previous=585702.0
+INFY,Renewable Energy Percentage,68.87095294872971,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+INFY,Total Water Consumption,1955525.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=277911.0
+INFY,Total Waste Generated,11689.77,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=11689.77
+INFY,Waste Recycled Percentage,96.6304726269208,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=10605.7
+INFY,Total Employees,323578.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+INFY,Female Employee Percentage,39.050000000000004,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=43.0
+INFY,Employee Turnover Rate,14.099999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=14.499999999999998"
+INFY,Health and Safety Incidents,20.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=20.0"
+INFY,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+INFY,Female Directors Percentage,22.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+WIPRO,Total Energy Consumption,210.04875759166666,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 932 kWh/employee); previous=598402335.63
+WIPRO,Renewable Energy Percentage,79.1353745264561,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=1.7148
+WIPRO,Total Water Consumption,1307531.24,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+WIPRO,Total Waste Generated,13540.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=13540.0
+WIPRO,Waste Recycled Percentage,37.74002954209749,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+WIPRO,Total Employees,225306.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+WIPRO,Female Employee Percentage,37.14,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=93.0
+WIPRO,Employee Turnover Rate,14.81,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=15.43"
+WIPRO,Health and Safety Incidents,102.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=102.0"
+WIPRO,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+WIPRO,Female Directors Percentage,22.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=37.0
+HCLTECH,Total Energy Consumption,261.30360277777777,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1170 kWh/employee); previous=323444.62
+HCLTECH,Renewable Energy Percentage,34.38365442446115,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+HCLTECH,Total Water Consumption,834013.09,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+HCLTECH,Total Waste Generated,1803.01,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=1803.01
+HCLTECH,Waste Recycled Percentage,92.08379321246139,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+HCLTECH,Total Employees,223420.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+HCLTECH,Female Employee Percentage,28.810000000000002,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.09
+HCLTECH,Employee Turnover Rate,12.989999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=13.059999999999999"
+HCLTECH,Health and Safety Incidents,29.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=29.0"
+HCLTECH,Board Size,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+HCLTECH,Female Directors Percentage,50.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TECHM,Total Energy Consumption,149.91027777777776,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1140 kWh/employee); previous=122223.0
+TECHM,Renewable Energy Percentage,22.647435410439947,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=12.3798
+TECHM,Total Water Consumption,607052.24,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+TECHM,Total Waste Generated,615.4,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=615.4
+TECHM,Waste Recycled Percentage,98.71628209294768,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TECHM,Total Employees,131444.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TECHM,Female Employee Percentage,34.17,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+TECHM,Employee Turnover Rate,11.799999999999999,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=12.3"
+TECHM,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+TECHM,Board Size,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TECHM,Independent Directors Percentage,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=3.0
+TECHM,Female Directors Percentage,40.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+LTIM,Total Energy Consumption,67.2175,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 797 kWh/employee); previous=137362.0
+LTIM,Renewable Energy Percentage,56.765144658922324,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+LTIM,Total Water Consumption,361833.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=1.0
+LTIM,Total Waste Generated,1827.09107,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=1827.09107
+LTIM,Waste Recycled Percentage,97.21026111741655,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+LTIM,Total Employees,84307.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+LTIM,Female Employee Percentage,30.380000000000003,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=40.0
+LTIM,Employee Turnover Rate,14.35,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=14.06"
+LTIM,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+LTIM,Board Size,11.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+LTIM,Female Directors Percentage,9.1,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+MPHASIS,Total Energy Consumption,25.704077777777776,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 2095 kWh/employee); previous=51045.29
+MPHASIS,Renewable Energy Percentage,55.163415489198215,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0661
+MPHASIS,Total Water Consumption,77987.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+MPHASIS,Total Waste Generated,195.9,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=195.9
+MPHASIS,Waste Recycled Percentage,73.63961204696274,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+MPHASIS,Total Employees,12269.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+MPHASIS,Female Employee Percentage,26.75,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.27
+MPHASIS,Employee Turnover Rate,26.93,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=27.150000000000002"
+MPHASIS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+MPHASIS,Board Size,12.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+MPHASIS,Independent Directors Percentage,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=6.0
+MPHASIS,Female Directors Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+PERSISTENT,Total Energy Consumption,16.63555277777778,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 749 kWh/employee); previous=34115.54
+PERSISTENT,Renewable Energy Percentage,56.9655785742684,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=36.6317
+PERSISTENT,Total Water Consumption,77533.82,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+PERSISTENT,Total Waste Generated,122.19,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=122.19
+PERSISTENT,Waste Recycled Percentage,99.18978639823226,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+PERSISTENT,Total Employees,22205.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+PERSISTENT,Female Employee Percentage,30.28,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=35.0
+PERSISTENT,Employee Turnover Rate,12.9,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=13.3"
+PERSISTENT,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+PERSISTENT,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+PERSISTENT,Female Directors Percentage,22.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+COFORGE,Total Energy Consumption,19.468611111111112,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 760 kWh/employee); previous=8508.0
+COFORGE,Renewable Energy Percentage,12.139198424814873,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+COFORGE,Total Water Consumption,130722.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+COFORGE,Total Waste Generated,56.467,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=56.467
+COFORGE,Waste Recycled Percentage,97.40202242017462,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+COFORGE,Total Employees,25620.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.9862
+COFORGE,Female Employee Percentage,28.7,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.11
+COFORGE,Employee Turnover Rate,19.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=20.0"
+COFORGE,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+COFORGE,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+COFORGE,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+LTTS,Total Energy Consumption,28.454722222222223,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1353 kWh/employee); previous=26297.73
+LTTS,Renewable Energy Percentage,25.672100901041617,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+LTTS,Total Water Consumption,224521.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=178317.0
+LTTS,Total Waste Generated,221.91,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=221.91
+LTTS,Waste Recycled Percentage,14.456311117119553,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+LTTS,Total Employees,21028.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.884
+LTTS,Female Employee Percentage,20.14,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+LTTS,Employee Turnover Rate,24.4,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=23.799999999999997"
+LTTS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+LTTS,Board Size,11.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+LTTS,Female Directors Percentage,18.19,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TATAELXSI,Total Energy Consumption,13.914955555555554,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1162 kWh/employee); previous=25407.19
+TATAELXSI,Renewable Energy Percentage,50.719190223788,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+TATAELXSI,Total Water Consumption,73704.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+TATAELXSI,Total Waste Generated,45.7,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=45.7
+TATAELXSI,Waste Recycled Percentage,31.312910284463893,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TATAELXSI,Total Employees,11973.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TATAELXSI,Female Employee Percentage,35.06,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.04
+TATAELXSI,Employee Turnover Rate,13.3,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=13.0"
+TATAELXSI,Health and Safety Incidents,1.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=1.0"
+TATAELXSI,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TATAELXSI,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+OFSS,Total Energy Consumption,11.8325,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1471 kWh/employee); previous=7327.0
+OFSS,Renewable Energy Percentage,17.20074183627955,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+OFSS,Total Water Consumption,32149.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+OFSS,Total Waste Generated,112.3,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=112.3
+OFSS,Waste Recycled Percentage,68.03205699020482,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+OFSS,Total Employees,8045.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+OFSS,Female Employee Percentage,32.190000000000005,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+OFSS,Employee Turnover Rate,11.55,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=12.19"
+OFSS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+OFSS,Board Size,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+OFSS,Female Directors Percentage,30.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+KPITTECH,Total Energy Consumption,7.212777777777778,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 766 kWh/employee); previous=11418.0
+KPITTECH,Renewable Energy Percentage,43.97288762227528,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+KPITTECH,Total Water Consumption,2.87,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=741.0
+KPITTECH,Total Waste Generated,68.457,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=68.457
+KPITTECH,Waste Recycled Percentage,76.66126181398543,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+KPITTECH,Total Employees,9418.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+KPITTECH,Female Employee Percentage,32.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+KPITTECH,Employee Turnover Rate,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=27.0"
+KPITTECH,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+KPITTECH,Board Size,14.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+KPITTECH,Female Directors Percentage,7.1499999999999995,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+CYIENT,Total Energy Consumption,19.966666666666665,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1680 kWh/employee); previous=16954.0
+CYIENT,Renewable Energy Percentage,23.586533110740124,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+CYIENT,Total Water Consumption,81961.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+CYIENT,Total Waste Generated,200.58,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=200.58
+CYIENT,Waste Recycled Percentage,68.83039186359557,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+CYIENT,Total Employees,11884.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+CYIENT,Female Employee Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+CYIENT,Employee Turnover Rate,27.6,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=27.500000000000004"
+CYIENT,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+CYIENT,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+CYIENT,Female Directors Percentage,22.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+BSOFT,Total Energy Consumption,8.178055555555556,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 752 kWh/employee); previous=2636.0
+BSOFT,Renewable Energy Percentage,8.953500220780544,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+BSOFT,Total Water Consumption,35038.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+BSOFT,Total Waste Generated,102.1,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=102.1
+BSOFT,Waste Recycled Percentage,70.45053868756122,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=1.0
+BSOFT,Total Employees,10882.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+BSOFT,Female Employee Percentage,24.91,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.2
+BSOFT,Employee Turnover Rate,15.299999999999999,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=15.299999999999999"
+BSOFT,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+BSOFT,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+BSOFT,Female Directors Percentage,42.86,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+ZENSARTECH,Total Energy Consumption,5.878647222222223,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 589 kWh/employee); previous=11275.72
+ZENSARTECH,Renewable Energy Percentage,53.28002048846272,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+ZENSARTECH,Total Water Consumption,18791.27,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+ZENSARTECH,Total Waste Generated,151.12,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=151.12
+ZENSARTECH,Waste Recycled Percentage,100.00661725780836,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+ZENSARTECH,Total Employees,9975.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+ZENSARTECH,Female Employee Percentage,29.92,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.064
+ZENSARTECH,Employee Turnover Rate,24.9,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=24.4"
+ZENSARTECH,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+ZENSARTECH,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+ZENSARTECH,Female Directors Percentage,11.12,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TATATECH,Total Energy Consumption,14.477583333333333,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1214 kWh/employee); previous=91.3
+TATATECH,Renewable Energy Percentage,0.1751750311305025,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+TATATECH,Total Water Consumption,111468.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=14878.0
+TATATECH,Total Waste Generated,202.03,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=202.03
+TATATECH,Waste Recycled Percentage,8.587833490075733,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TATATECH,Total Employees,11921.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TATATECH,Female Employee Percentage,15.89,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=20.0
+TATATECH,Employee Turnover Rate,16.6,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=16.400000000000002"
+TATATECH,Health and Safety Incidents,4.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=4.0"
+TATATECH,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TATATECH,Female Directors Percentage,28.58,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+HAPPSTMNDS,Total Energy Consumption,4.931725,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1009 kWh/employee); previous=1752.18
+HAPPSTMNDS,Renewable Energy Percentage,9.869095836987396,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+HAPPSTMNDS,Total Water Consumption,71618.6,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+HAPPSTMNDS,Total Waste Generated,149.29,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=149.29
+HAPPSTMNDS,Waste Recycled Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+HAPPSTMNDS,Total Employees,4886.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+HAPPSTMNDS,Female Employee Percentage,27.450000000000003,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+HAPPSTMNDS,Employee Turnover Rate,16.63,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=16.46"
+HAPPSTMNDS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+HAPPSTMNDS,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+HAPPSTMNDS,Female Directors Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+SONATSOFTW,Total Energy Consumption,3.3280644444444443,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 519 kWh/employee); previous=9303665.0
+SONATSOFTW,Renewable Energy Percentage,77.65328562681412,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+SONATSOFTW,Total Water Consumption,7287.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+SONATSOFTW,Total Waste Generated,41.09,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=41.09
+SONATSOFTW,Waste Recycled Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+SONATSOFTW,Total Employees,6414.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+SONATSOFTW,Female Employee Percentage,30.380000000000003,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+SONATSOFTW,Employee Turnover Rate,19.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=20.0"
+SONATSOFTW,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+SONATSOFTW,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+SONATSOFTW,Female Directors Percentage,14.29,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+NEWGEN,Total Energy Consumption,3.805538888888889,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 942 kWh/employee); previous=898.61
+NEWGEN,Renewable Energy Percentage,6.55922580682835,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+NEWGEN,Total Water Consumption,24064.58,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+NEWGEN,Total Waste Generated,42.6,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=42.6
+NEWGEN,Waste Recycled Percentage,94.13145539906102,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+NEWGEN,Total Employees,4040.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+NEWGEN,Female Employee Percentage,25.05,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.18
+NEWGEN,Employee Turnover Rate,21.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=20.0"
+NEWGEN,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+NEWGEN,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+NEWGEN,Female Directors Percentage,28.58,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TANLA,Total Energy Consumption,1.8263027777777776,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1841 kWh/employee); previous=3.46
+TANLA,Renewable Energy Percentage,0.05262605537295295,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+TANLA,Total Water Consumption,8059.4,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+TANLA,Total Waste Generated,14.43,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=14.43
+TANLA,Waste Recycled Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TANLA,Total Employees,992.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TANLA,Female Employee Percentage,20.27,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+TANLA,Employee Turnover Rate,33.64,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=30.7"
+TANLA,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+TANLA,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TANLA,Female Directors Percentage,14.29,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+INTELLECT,Total Energy Consumption,6.354660916666666,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 1116 kWh/employee); previous=6553483.2
+INTELLECT,Renewable Energy Percentage,28.646878627709626,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+INTELLECT,Total Water Consumption,33209.71,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+INTELLECT,Total Waste Generated,111.945,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=111.945
+INTELLECT,Waste Recycled Percentage,75.20032158649339,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+INTELLECT,Total Employees,5694.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+INTELLECT,Female Employee Percentage,26.540000000000003,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.1
+INTELLECT,Employee Turnover Rate,15.86,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=14.979999999999999"
+INTELLECT,Health and Safety Incidents,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=8.0"
+INTELLECT,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+INTELLECT,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+ROUTE,Total Energy Consumption,0.3779,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 727 kWh/employee); previous=0.0
+ROUTE,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+ROUTE,Total Water Consumption,3722.18,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+ROUTE,Total Waste Generated,0.24913,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=0.24913
+ROUTE,Waste Recycled Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+ROUTE,Total Employees,520.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.7596
+ROUTE,Female Employee Percentage,21.16,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+ROUTE,Employee Turnover Rate,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=7.000000000000001"
+ROUTE,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+ROUTE,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+ROUTE,Independent Directors Percentage,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=1.0
+ROUTE,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+RATEGAIN,Total Energy Consumption,0.23279166666666665,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 353 kWh/employee); previous=0.0
+RATEGAIN,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+RATEGAIN,Total Water Consumption,26885.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+RATEGAIN,Total Waste Generated,2.42,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=2.42
+RATEGAIN,Waste Recycled Percentage,81.81818181818183,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+RATEGAIN,Total Employees,659.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.9014
+RATEGAIN,Female Employee Percentage,22.62,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+RATEGAIN,Employee Turnover Rate,16.1,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=15.0"
+RATEGAIN,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+RATEGAIN,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+RATEGAIN,Female Directors Percentage,33.339999999999996,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+ECLERX,Total Energy Consumption,13.122872222222222,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 1074 kWh/employee); previous=30274906.0
+ECLERX,Renewable Energy Percentage,64.08426424262642,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+ECLERX,Total Water Consumption,86722.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+ECLERX,Total Waste Generated,99.28,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=99.28
+ECLERX,Waste Recycled Percentage,42.697421434327154,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+ECLERX,Total Employees,12221.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.54
+ECLERX,Female Employee Percentage,36.17,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+ECLERX,Employee Turnover Rate,38.2,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=36.3"
+ECLERX,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+ECLERX,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+ECLERX,Independent Directors Percentage,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=3.0
+ECLERX,Female Directors Percentage,11.12,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+DATAMATICS,Total Energy Consumption,5.9557416666666665,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1200 kWh/employee); previous=0.0
+DATAMATICS,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+DATAMATICS,Total Water Consumption,226.43,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+DATAMATICS,Total Waste Generated,99.48,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=99.48
+DATAMATICS,Waste Recycled Percentage,10.122637716123844,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+DATAMATICS,Total Employees,4962.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.89
+DATAMATICS,Female Employee Percentage,39.989999999999995,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+DATAMATICS,Employee Turnover Rate,24.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=24.0"
+DATAMATICS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+DATAMATICS,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+DATAMATICS,Female Directors Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+MASTEK,Total Energy Consumption,,XBRL,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=0.0
+MASTEK,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+MASTEK,Total Water Consumption,17089.56,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+MASTEK,Total Waste Generated,42.35,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=42.35
+MASTEK,Waste Recycled Percentage,12.467532467532466,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+MASTEK,Total Employees,4332.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+MASTEK,Female Employee Percentage,30.570000000000004,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+MASTEK,Employee Turnover Rate,19.3,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=19.0"
+MASTEK,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+MASTEK,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+MASTEK,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+SONACOMS,Total Energy Consumption,0.392692,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as kWh (intensity 263 kWh/employee); previous=13639.0
+SONACOMS,Renewable Energy Percentage,3.4732054638240655,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+SONACOMS,Total Water Consumption,148640.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+SONACOMS,Total Waste Generated,21489.97,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=21489.97
+SONACOMS,Waste Recycled Percentage,96.8122338002333,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+SONACOMS,Total Employees,1495.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+SONACOMS,Female Employee Percentage,8.17,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+SONACOMS,Employee Turnover Rate,12.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=11.0"
+SONACOMS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+SONACOMS,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+SONACOMS,Female Directors Percentage,22.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+HGS,Total Energy Consumption,11.506525,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1726 kWh/employee); previous=0.0
+HGS,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+HGS,Total Water Consumption,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+HGS,Total Waste Generated,6.08,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=6.08
+HGS,Waste Recycled Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+HGS,Total Employees,6667.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+HGS,Female Employee Percentage,43.4,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+HGS,Employee Turnover Rate,36.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=32.0"
+HGS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+HGS,Board Size,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+HGS,Female Directors Percentage,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+NIITLTD,Total Energy Consumption,1.3205222222222222,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1432 kWh/employee); previous=296.5
+NIITLTD,Renewable Energy Percentage,6.237010610280445,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+NIITLTD,Total Water Consumption,7053.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+NIITLTD,Total Waste Generated,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=0.0
+NIITLTD,Total Employees,922.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+NIITLTD,Female Employee Percentage,34.39,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+NIITLTD,Employee Turnover Rate,30.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=31.0"
+NIITLTD,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+NIITLTD,Board Size,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+NIITLTD,Female Directors Percentage,20.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+AFFLE,Total Energy Consumption,,XBRL,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=0.0
+AFFLE,Total Water Consumption,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+AFFLE,Total Waste Generated,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=0.0
+AFFLE,Total Employees,617.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.954
+AFFLE,Female Employee Percentage,37.61,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+AFFLE,Employee Turnover Rate,33.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=30.5"
+AFFLE,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+AFFLE,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+AFFLE,Female Directors Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+MPSLTD,Total Energy Consumption,4.0900638888888885,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1513 kWh/employee); previous=0.0
+MPSLTD,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+MPSLTD,Total Water Consumption,260.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+MPSLTD,Total Waste Generated,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=0.0
+MPSLTD,Total Employees,2703.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+MPSLTD,Female Employee Percentage,34.300000000000004,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+MPSLTD,Employee Turnover Rate,19.400000000000002,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=18.0"
+MPSLTD,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+MPSLTD,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+MPSLTD,Female Directors Percentage,57.15,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+SUBEXLTD,Total Energy Consumption,1.0617083333333333,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 1680 kWh/employee); previous=1364.04
+SUBEXLTD,Renewable Energy Percentage,35.68776735606923,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+SUBEXLTD,Total Water Consumption,6500.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+SUBEXLTD,Total Waste Generated,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=0.0
+SUBEXLTD,Total Employees,632.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.989
+SUBEXLTD,Female Employee Percentage,34.02,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+SUBEXLTD,Employee Turnover Rate,24.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=24.0"
+SUBEXLTD,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+SUBEXLTD,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+SUBEXLTD,Female Directors Percentage,50.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+SIS,Total Energy Consumption,,XBRL,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=0.0
+SIS,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=12.61
+SIS,Total Water Consumption,1790701300000.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+SIS,Total Waste Generated,303720000.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=303720000.0
+SIS,Waste Recycled Percentage,3.687607006453313e-07,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=49.0
+SIS,Total Employees,27235.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+SIS,Female Employee Percentage,4.84,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=100.0
+SIS,Employee Turnover Rate,39.76,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=39.34"
+SIS,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+SIS,Board Size,11.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+SIS,Independent Directors Percentage,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=6.68
+SIS,Female Directors Percentage,27.279999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+ZOMATO,Total Energy Consumption,,XBRL,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=0.0
+ZOMATO,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+ZOMATO,Total Water Consumption,260.24,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+ZOMATO,Total Waste Generated,6.2,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=6.2
+ZOMATO,Waste Recycled Percentage,74.03225806451613,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+ZOMATO,Total Employees,6903.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.9958
+ZOMATO,Female Employee Percentage,29.080000000000002,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+ZOMATO,Employee Turnover Rate,44.330000000000005,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=38.75"
+ZOMATO,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+ZOMATO,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+ZOMATO,Female Directors Percentage,50.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+PAYTM,Total Energy Consumption,2.917291666666667,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 199 kWh/employee); previous=0.0
+PAYTM,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=1.9078e-07
+PAYTM,Total Water Consumption,37318.31,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+PAYTM,Total Waste Generated,327.16,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=327.16
+PAYTM,Waste Recycled Percentage,85.84790316664628,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+PAYTM,Total Employees,14656.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=0.9988
+PAYTM,Female Employee Percentage,7.08,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.15
+PAYTM,Employee Turnover Rate,97.47,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=99.85000000000001"
+PAYTM,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+PAYTM,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+PAYTM,Female Directors Percentage,12.5,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+POLICYBZR,Total Energy Consumption,13.729166666666666,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 615 kWh/employee); previous=407.0
+POLICYBZR,Renewable Energy Percentage,0.8234699038947901,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+POLICYBZR,Total Water Consumption,10343.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+POLICYBZR,Total Waste Generated,12.34,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=12.34
+POLICYBZR,Waste Recycled Percentage,100.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+POLICYBZR,Total Employees,22329.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+POLICYBZR,Female Employee Percentage,24.490000000000002,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+POLICYBZR,Employee Turnover Rate,89.57000000000001,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=86.83999999999999"
+POLICYBZR,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+POLICYBZR,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+POLICYBZR,Female Directors Percentage,33.339999999999996,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+DELHIVERY,Total Energy Consumption,207.56752777777777,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 10387 kWh/employee); previous=4773.49
+DELHIVERY,Renewable Energy Percentage,0.6388135266822805,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+DELHIVERY,Total Water Consumption,68766.3,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+DELHIVERY,Total Waste Generated,2479.92,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=2479.92
+DELHIVERY,Waste Recycled Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+DELHIVERY,Total Employees,19984.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+DELHIVERY,Female Employee Percentage,8.3,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+DELHIVERY,Employee Turnover Rate,39.489999999999995,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=39.31"
+DELHIVERY,Health and Safety Incidents,105.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=105.0"
+DELHIVERY,Board Size,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+DELHIVERY,Female Directors Percentage,22.23,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+NAZARA,Total Energy Consumption,0.23964722222222223,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 3804 kWh/employee); previous=0.0
+NAZARA,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+NAZARA,Total Water Consumption,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+NAZARA,Total Waste Generated,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=0.0
+NAZARA,Total Employees,63.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+NAZARA,Female Employee Percentage,15.879999999999999,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+NAZARA,Employee Turnover Rate,30.159999999999997,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=26.979999999999997"
+NAZARA,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+NAZARA,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+NAZARA,Female Directors Percentage,12.5,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TATACOMM,Total Energy Consumption,184.20527777777778,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 14119 kWh/employee); previous=224881.0
+TATACOMM,Renewable Energy Percentage,33.91159319539342,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+TATACOMM,Total Water Consumption,161174.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=2756.0
+TATACOMM,Total Waste Generated,547.8,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=547.8
+TATACOMM,Waste Recycled Percentage,94.16575392479008,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TATACOMM,Total Employees,13047.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TATACOMM,Female Employee Percentage,23.799999999999997,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.13
+TATACOMM,Employee Turnover Rate,11.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=10.4"
+TATACOMM,Health and Safety Incidents,1.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=1.0"
+TATACOMM,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TATACOMM,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+INDUSTOWER,Total Energy Consumption,9.995883888888889,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 2637 kWh/employee); previous=368736.0
+INDUSTOWER,Renewable Energy Percentage,1.024688439813921,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=100.0
+INDUSTOWER,Total Water Consumption,334772.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+INDUSTOWER,Total Waste Generated,65360.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=65360.0
+INDUSTOWER,Waste Recycled Percentage,100.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+INDUSTOWER,Total Employees,3791.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+INDUSTOWER,Female Employee Percentage,16.25,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+INDUSTOWER,Employee Turnover Rate,19.17,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=18.29"
+INDUSTOWER,Health and Safety Incidents,9.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=9.0"
+INDUSTOWER,Board Size,11.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+INDUSTOWER,Female Directors Percentage,9.1,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+BHARTIARTL,Total Energy Consumption,2.696106,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as kWh (intensity 198 kWh/employee); previous=21689.0
+BHARTIARTL,Renewable Energy Percentage,0.804456501339339,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+BHARTIARTL,Total Water Consumption,72712.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+BHARTIARTL,Total Waste Generated,8209.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=8209.0
+BHARTIARTL,Waste Recycled Percentage,98.36764526738945,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+BHARTIARTL,Total Employees,13593.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+BHARTIARTL,Female Employee Percentage,19.580000000000002,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.19
+BHARTIARTL,Employee Turnover Rate,18.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=18.0"
+BHARTIARTL,Health and Safety Incidents,15.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=15.0"
+BHARTIARTL,Board Size,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+BHARTIARTL,Independent Directors Percentage,,BRSR_PDF,QUARANTINED,quarantined,quarantined: no repair strategy produced a plausible value; removed value=3.0
+BHARTIARTL,Female Directors Percentage,30.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TEJASNET,Total Energy Consumption,13.547022777777777,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 5716 kWh/employee); previous=0.0
+TEJASNET,Renewable Energy Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=None
+TEJASNET,Total Water Consumption,29189.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+TEJASNET,Total Waste Generated,1736.612,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=1736.612
+TEJASNET,Waste Recycled Percentage,1.8369100294135938,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TEJASNET,Total Employees,2370.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TEJASNET,Female Employee Percentage,14.27,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=1.0
+TEJASNET,Employee Turnover Rate,10.299999999999999,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=9.5"
+TEJASNET,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+TEJASNET,Board Size,6.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TEJASNET,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+REDINGTON,Total Energy Consumption,9.785,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 2047 kWh/employee); previous=1221.0
+REDINGTON,Renewable Energy Percentage,3.4661897462101856,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+REDINGTON,Total Water Consumption,30526.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+REDINGTON,Total Waste Generated,585.57,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=585.57
+REDINGTON,Waste Recycled Percentage,99.61917447956691,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+REDINGTON,Total Employees,4780.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+REDINGTON,Female Employee Percentage,23.599999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.09
+REDINGTON,Employee Turnover Rate,21.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=21.0"
+REDINGTON,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+REDINGTON,Board Size,8.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+REDINGTON,Female Directors Percentage,25.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+MAZDOCK,Total Energy Consumption,15.973145863888888,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as MJ (intensity 16383 kWh/employee); previous=16399104.23
+MAZDOCK,Renewable Energy Percentage,28.518532099890944,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=0.0
+MAZDOCK,Total Water Consumption,77414.8,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=0.0
+MAZDOCK,Total Waste Generated,70372.46,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=70372.46
+MAZDOCK,Waste Recycled Percentage,0.9205305598241128,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+MAZDOCK,Total Employees,975.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+MAZDOCK,Female Employee Percentage,7.59,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=None
+MAZDOCK,Employee Turnover Rate,0.73,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=0.64"
+MAZDOCK,Health and Safety Incidents,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=0.0"
+MAZDOCK,Board Size,7.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+MAZDOCK,Female Directors Percentage,0.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None
+TITAN,Total Energy Consumption,66.16638888888889,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableAndNonRenewableSources; unit inferred as GJ (intensity 8753 kWh/employee); previous=73158.0
+TITAN,Renewable Energy Percentage,30.712975285370636,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalEnergyConsumedFromRenewableSources/Total; same unit cancels; previous=9.4795
+TITAN,Total Water Consumption,300118.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalVolumeOfWaterConsumption; KL; previous=5897.0
+TITAN,Total Waste Generated,3022.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteGenerated; MT; previous=3022.0
+TITAN,Waste Recycled Percentage,13.103904698874917,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalWasteRecovered/TotalWasteGenerated; recovered / generated; previous=0.0
+TITAN,Total Employees,7559.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=NumberOfEmployeesOrWorkersIncludingDifferentlyAbled; permanent employees (all genders); previous=1.0
+TITAN,Female Employee Percentage,25.82,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfEmployeesOrWorkersIncludingDifferentlyAbled; female share of permanent employees; previous=0.0
+TITAN,Employee Turnover Rate,10.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TurnoverRate; permanent employees, current year; previous=9.0"
+TITAN,Health and Safety Incidents,4.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,"concept=TotalRecordableWorkRelatedInjuries; employees, current year; previous=4.0"
+TITAN,Board Size,12.0,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=TotalNumberOfBoardOfDirectors; ; previous=0.0
+TITAN,Female Directors Percentage,16.669999999999998,XBRL_TAXONOMY_EXACT,VALID,taxonomy_exact,concept=PercentageOfFemaleBoardOfDirectors; ; previous=None

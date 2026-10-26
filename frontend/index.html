@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ESG Intelligence System</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<aside class="side">
+  <div class="brand">ESG<span>Intelligence</span></div>
+  <nav id="nav"></nav>
+  <div class="side-foot"><div id="llmInfo">LLM: …</div><div id="ctxInfo"></div></div>
+</aside>
+<main>
+  <header class="top">
+    <div id="ctxTitle"><h2>Analyze a company</h2><p class="muted">BRSR · XBRL · Market · News · Air quality · Agents</p></div>
+    <div class="top-actions"><input id="quick" placeholder="Search cohort company (e.g. INFY)…" list="codes"><datalist id="codes"></datalist>
+    <button id="quickBtn">Open</button></div>
+  </header>
+  <section id="view"></section>
+</main>
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,428 @@
+{
+  "run_id": "20261012_124223",
+  "finished": "2026-10-12T07:12:47+00:00",
+  "llm_mode": false,
+  "llm": "none (deterministic policies)",
+  "llm_problem": null,
+  "dynamic": false,
+  "companies": null,
+  "agents": [
+    {
+      "agent_id": "agent1",
+      "name": "Agent 1 - BRSR Extraction & Audit Agent",
+      "status": "completed",
+      "steps": 175,
+      "seconds": 8.05,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 175,
+        "guardrail": 0
+      },
+      "summary": "47 companies audited, 2 metrics repaired, output written",
+      "findings": [
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "TCS: 1 implausible metrics",
+          "company": "TCS"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "TECHM: 1 implausible metrics",
+          "company": "TECHM"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "MPHASIS: 1 implausible metrics",
+          "company": "MPHASIS"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "HEXAWARE: 4 implausible metrics",
+          "company": "HEXAWARE"
+        },
+        {
+          "kind": "no_source",
+          "severity": "high",
+          "message": "MINDTREE: neither BRSR PDF nor XBRL file found",
+          "company": "MINDTREE"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "ROUTE: 1 implausible metrics",
+          "company": "ROUTE"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "ECLERX: 1 implausible metrics",
+          "company": "ECLERX"
+        },
+        {
+          "kind": "energy_unit_unresolved",
+          "severity": "low",
+          "message": "MASTEK: no energy unit gives a plausible per-employee intensity",
+          "company": "MASTEK"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "MASTEK: 1 implausible metrics",
+          "company": "MASTEK"
+        },
+        {
+          "kind": "no_source",
+          "severity": "high",
+          "message": "E2E: neither BRSR PDF nor XBRL file found",
+          "company": "E2E"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "AFFLE: 1 implausible metrics",
+          "company": "AFFLE"
+        },
+        {
+          "kind": "energy_unit_unresolved",
+          "severity": "low",
+          "message": "SIS: no energy unit gives a plausible per-employee intensity",
+          "company": "SIS"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "SIS: 2 implausible metrics",
+          "company": "SIS"
+        },
+        {
+          "kind": "energy_unit_unresolved",
+          "severity": "low",
+          "message": "ZOMATO: no energy unit gives a plausible per-employee intensity",
+          "company": "ZOMATO"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "ZOMATO: 1 implausible metrics",
+          "company": "ZOMATO"
+        },
+        {
+          "kind": "audit_issues",
+          "severity": "medium",
+          "message": "BHARTIARTL: 1 implausible metrics",
+          "company": "BHARTIARTL"
+        },
+        {
+          "kind": "no_source",
+          "severity": "high",
+          "message": "HCL-INFO: neither BRSR PDF nor XBRL file found",
+          "company": "HCL-INFO"
+        }
+      ],
+      "artifacts": [
+        "processed-data\\brsr_extracted_metrics.csv",
+        "processed-data\\agent1_audit_report.csv",
+        "processed-data\\agent_traces\\agent1_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent2",
+      "name": "Agent 2 - Environmental Context Agent",
+      "status": "completed",
+      "steps": 53,
+      "seconds": 2.77,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 53,
+        "guardrail": 0
+      },
+      "summary": "50/50 companies have an environmental score",
+      "findings": [],
+      "artifacts": [
+        "processed-data\\company_location_environmental_risk.csv",
+        "processed-data\\agent_traces\\agent2_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent3",
+      "name": "Agent 3 - ESG News Sentiment Agent",
+      "status": "completed",
+      "steps": 6,
+      "seconds": 3.59,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 6,
+        "guardrail": 0
+      },
+      "summary": "news sentiment written with reliability and shrinkage",
+      "findings": [
+        {
+          "kind": "relaxed_attribution",
+          "severity": "low",
+          "message": "strict title attribution left <40% of companies with 5+ articles; relaxed to lead-text attribution"
+        }
+      ],
+      "artifacts": [
+        "processed-data\\esg_news_sentiment.csv",
+        "processed-data\\agent_traces\\agent3_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent4",
+      "name": "Agent 4 - Market Performance Agent",
+      "status": "completed",
+      "steps": 2,
+      "seconds": 8.44,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 2,
+        "guardrail": 0
+      },
+      "summary": "7/50 companies have market data",
+      "findings": [
+        {
+          "kind": "market_coverage_gap",
+          "severity": "high",
+          "message": "43/50 companies have no price history"
+        }
+      ],
+      "artifacts": [
+        "processed-data\\stock_esg_correlation.csv",
+        "processed-data\\agent_traces\\agent4_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent5",
+      "name": "Agent 5 - Disclosure-Consistency Agent",
+      "status": "completed",
+      "steps": 53,
+      "seconds": 0.76,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 53,
+        "guardrail": 0
+      },
+      "summary": "50 companies evaluated",
+      "findings": [],
+      "artifacts": [
+        "processed-data\\greenwashing_detection.csv",
+        "processed-data\\agent_traces\\agent5_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent6",
+      "name": "Agent 6 - Master ESG Scoring Agent",
+      "status": "completed",
+      "steps": 52,
+      "seconds": 0.42,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 52,
+        "guardrail": 0
+      },
+      "summary": "46/50 companies scored; rest withheld for insufficient evidence",
+      "findings": [],
+      "artifacts": [
+        "processed-data\\esg_master_scores.csv",
+        "processed-data\\agent_traces\\agent6_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent7",
+      "name": "Agent 7 - Explanation Agent",
+      "status": "completed",
+      "steps": 102,
+      "seconds": 0.5,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 102,
+        "guardrail": 0
+      },
+      "summary": "50 explanations (0 LLM-written, verified)",
+      "findings": [],
+      "artifacts": [
+        "processed-data\\multi_agent_explanations.csv",
+        "processed-data\\agent_traces\\agent7_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    },
+    {
+      "agent_id": "agent8",
+      "name": "Agent 8 - Validation & Research Agent",
+      "status": "completed",
+      "steps": 7,
+      "seconds": 14.46,
+      "decisions_by_source": {
+        "llm": 0,
+        "policy": 7,
+        "guardrail": 0
+      },
+      "summary": "validation_summary.json written",
+      "findings": [],
+      "artifacts": [
+        "processed-data\\agent_traces\\agent8_trace.json"
+      ],
+      "llm_mode": false,
+      "llm_errors": []
+    }
+  ],
+  "timing": {
+    "run_id": "20261012_124223",
+    "company": "all",
+    "started": "2026-10-12T07:12:23+00:00",
+    "total_seconds": 24.638,
+    "stages": {
+      "acquisition": {
+        "sum_seconds": 23.055,
+        "spans": 4,
+        "stage_wall_seconds": 8.442
+      },
+      "consistency": {
+        "sum_seconds": 0.757,
+        "spans": 1,
+        "stage_wall_seconds": 0.759
+      },
+      "scoring": {
+        "sum_seconds": 0.424,
+        "spans": 1,
+        "stage_wall_seconds": 0.426
+      },
+      "explanation": {
+        "sum_seconds": 0.5,
+        "spans": 1,
+        "stage_wall_seconds": 0.502
+      },
+      "validation": {
+        "sum_seconds": 14.464,
+        "spans": 1,
+        "stage_wall_seconds": 14.465
+      }
+    },
+    "fetches": {
+      "market:TCS.NS": 7.35,
+      "market:INFY.NS": 0.023,
+      "market:WIPRO.NS": 0.024,
+      "market:HCLTECH.NS": 0.022,
+      "market:TECHM.NS": 0.024,
+      "market:LTIM.NS": 0.017,
+      "market:MPHASIS.NS": 0.015,
+      "market:PERSISTENT.NS": 0.021,
+      "market:COFORGE.NS": 0.017,
+      "market:LTTS.NS": 0.016,
+      "market:TATAELXSI.NS": 0.016,
+      "market:OFSS.NS": 0.018,
+      "market:KPITTECH.NS": 0.074,
+      "market:CYIENT.NS": 0.017,
+      "market:BSOFT.NS": 0.015,
+      "market:ZENSARTECH.NS": 0.016,
+      "market:TATATECH.NS": 0.015,
+      "market:HAPPSTMNDS.NS": 0.015,
+      "market:SONATSOFTW.NS": 0.015,
+      "market:HEXAWARE.NS": 0.015,
+      "market:NEWGEN.NS": 0.047,
+      "market:TANLA.NS": 0.038,
+      "market:INTELLECT.NS": 0.027,
+      "market:ROUTE.NS": 0.016,
+      "market:RATEGAIN.NS": 0.015,
+      "market:ECLERX.NS": 0.017,
+      "market:DATAMATICS.NS": 0.016,
+      "market:MASTEK.NS": 0.02,
+      "market:SONACOMS.NS": 0.019,
+      "market:HGS.NS": 0.015,
+      "market:NIITLTD.NS": 0.015,
+      "market:E2E.NS": 0.014,
+      "market:AFFLE.NS": 0.014,
+      "market:MPSLTD.NS": 0.014,
+      "market:SUBEXLTD.NS": 0.015,
+      "market:SIS.NS": 0.016,
+      "market:ETERNAL.NS": 0.022,
+      "market:PAYTM.NS": 0.017,
+      "market:POLICYBZR.NS": 0.015,
+      "market:DELHIVERY.NS": 0.015,
+      "market:NAZARA.NS": 0.014,
+      "market:TATACOMM.NS": 0.015,
+      "market:INDUSTOWER.NS": 0.015,
+      "market:BHARTIARTL.NS": 0.02,
+      "market:TEJASNET.NS": 0.015,
+      "market:REDINGTON.NS": 0.015,
+      "market:HCL-INSYS.NS": 0.017,
+      "market:MAZDOCK.NS": 0.015,
+      "market:TITAN.NS": 0.021
+    },
+    "bottleneck": {
+      "name": "Agent 8 - Validation & Research Agent",
+      "seconds": 14.464
+    },
+    "fallbacks_used": [
+      "market:TCS.NS",
+      "market:INFY.NS",
+      "market:WIPRO.NS",
+      "market:HCLTECH.NS",
+      "market:TECHM.NS",
+      "market:BHARTIARTL.NS",
+      "market:TITAN.NS"
+    ],
+    "failures": [
+      "market:LTIM.NS",
+      "market:MPHASIS.NS",
+      "market:PERSISTENT.NS",
+      "market:COFORGE.NS",
+      "market:LTTS.NS",
+      "market:TATAELXSI.NS",
+      "market:OFSS.NS",
+      "market:KPITTECH.NS",
+      "market:CYIENT.NS",
+      "market:BSOFT.NS",
+      "market:ZENSARTECH.NS",
+      "market:TATATECH.NS",
+      "market:HAPPSTMNDS.NS",
+      "market:SONATSOFTW.NS",
+      "market:HEXAWARE.NS",
+      "market:LTIM.NS",
+      "market:NEWGEN.NS",
+      "market:TANLA.NS",
+      "market:INTELLECT.NS",
+      "market:ROUTE.NS",
+      "market:RATEGAIN.NS",
+      "market:ECLERX.NS",
+      "market:DATAMATICS.NS",
+      "market:MASTEK.NS",
+      "market:SONACOMS.NS",
+      "market:HGS.NS",
+      "market:NIITLTD.NS",
+      "market:E2E.NS",
+      "market:AFFLE.NS",
+      "market:MPSLTD.NS",
+      "market:SUBEXLTD.NS",
+      "market:SIS.NS",
+      "market:ETERNAL.NS",
+      "market:PAYTM.NS",
+      "market:POLICYBZR.NS",
+      "market:DELHIVERY.NS",
+      "market:NAZARA.NS",
+      "market:TATACOMM.NS",
+      "market:INDUSTOWER.NS",
+      "market:TEJASNET.NS",
+      "market:REDINGTON.NS",
+      "market:HCL-INSYS.NS",
+      "market:MAZDOCK.NS"
+    ]
+  }
+}

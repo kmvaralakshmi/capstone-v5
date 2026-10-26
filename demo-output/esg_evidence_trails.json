@@ -1,0 +1,2737 @@
+{
+ "TCS": [
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 79.2218337070129,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 6.0
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 4.72349209429931,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0871740635778538,
+   "score": 9.83,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 886.7844357197279,
+   "score": 9.73,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 13.3,
+   "score": 8.9,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 35.21,
+   "score": 8.8,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 22.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 25.0,
+   "score": 7.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 58.84703996794551,
+   "score": 7.36,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "INFY": [
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 68.87095294872971,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 161.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 96.6304726269208,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 6.043442384834568,
+   "score": 9.89,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0618088992453133,
+   "score": 9.88,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 730.0609641776222,
+   "score": 9.84,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 39.05,
+   "score": 9.76,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 159.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 14.099999999999998,
+   "score": 8.63,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 22.23,
+   "score": 6.74,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Independent Directors Percentage",
+   "value": 31.0,
+   "score": 2.75,
+   "source": "BRSR_PDF",
+   "page": 95.0
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 6.0,
+   "score": 1.2,
+   "source": "BRSR_PDF",
+   "page": 163.0
+  }
+ ],
+ "WIPRO": [
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 79.1353745264561,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 28.0
+  },
+  {
+   "metric": "Independent Directors Percentage",
+   "value": 92.2,
+   "score": 10.0,
+   "source": "BRSR_PDF",
+   "page": 14.0
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 5.803357389505828,
+   "score": 9.92,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 932.2821300438808,
+   "score": 9.7,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 37.14,
+   "score": 9.29,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 26.0
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.452717637346542,
+   "score": 9.09,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 14.81,
+   "score": 8.4,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 22.23,
+   "score": 6.74,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 11.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 37.74002954209749,
+   "score": 4.72,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 12.0
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 4.0,
+   "score": 0.8,
+   "source": "BRSR_PDF",
+   "page": 35.0
+  }
+ ],
+ "HCLTECH": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 92.0837932124614,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 67.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 50.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 3.7329383672007874,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.1298003759735028,
+   "score": 9.74,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1169.562271854703,
+   "score": 9.54,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 12.989999999999998,
+   "score": 9.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 28.81,
+   "score": 7.2,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 46.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 34.38365442446115,
+   "score": 5.73,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 3.0
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 6.0,
+   "score": 1.2,
+   "source": "BRSR_PDF",
+   "page": 49.0
+  }
+ ],
+ "TECHM": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 98.71628209294768,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 4.618333586926752,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 40.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1140.4877953940672,
+   "score": 9.56,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 11.8,
+   "score": 9.4,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 34.17,
+   "score": 8.54,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 32.0,
+   "score": 6.4,
+   "source": "BRSR_PDF",
+   "page": 33.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 22.647435410439947,
+   "score": 3.77,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 32.0
+  }
+ ],
+ "LTIM": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 97.21026111741656,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 89.0
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 4.2918500243158935,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 797.2944120891503,
+   "score": 9.79,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 56.76514465892232,
+   "score": 9.46,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 89.0
+  },
+  {
+   "metric": "Independent Directors Percentage",
+   "value": 55.0,
+   "score": 8.75,
+   "source": "BRSR_PDF",
+   "page": 89.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 14.35,
+   "score": 8.55,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 30.380000000000003,
+   "score": 7.6,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 89.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 9.1,
+   "score": 2.76,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "MPHASIS": [
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 100.0,
+   "score": 10.0,
+   "source": "BRSR_PDF",
+   "page": 246.0
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 6.356426766647648,
+   "score": 9.86,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 73.63961204696274,
+   "score": 9.2,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 55.163415489198215,
+   "score": 9.19,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 246.0
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 2095.042609648526,
+   "score": 8.9,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 25.0,
+   "score": 7.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 26.75,
+   "score": 6.69,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 273.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 26.93,
+   "score": 4.36,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "PERSISTENT": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 99.18978639823226,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 3.491727989191624,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 749.1804898796568,
+   "score": 9.83,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 56.9655785742684,
+   "score": 9.49,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 12.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 12.9,
+   "score": 9.03,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 30.28,
+   "score": 7.57,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 12.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 22.23,
+   "score": 6.74,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 5.0,
+   "score": 1.0,
+   "source": "BRSR_PDF",
+   "page": 12.0
+  }
+ ],
+ "COFORGE": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 97.40202242017462,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 5.102341920374707,
+   "score": 9.99,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 759.898950472721,
+   "score": 9.82,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 28.7,
+   "score": 7.17,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 30.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 19.0,
+   "score": 7.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 12.139198424814872,
+   "score": 2.02,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 36.0
+  }
+ ],
+ "LTTS": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1353.1825291146197,
+   "score": 9.41,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 10.67723987064866,
+   "score": 9.4,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 18.19,
+   "score": 5.51,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 24.4,
+   "score": 5.2,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 20.14,
+   "score": 5.04,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 25.672100901041617,
+   "score": 4.28,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 14.456311117119553,
+   "score": 1.81,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "TATAELXSI": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 6.155850663993986,
+   "score": 9.88,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0835212561596926,
+   "score": 9.83,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1162.1945674062936,
+   "score": 9.54,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 13.3,
+   "score": 8.9,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 35.06,
+   "score": 8.77,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 43.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 50.719190223788,
+   "score": 8.45,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 42.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 31.312910284463893,
+   "score": 3.91,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "OFSS": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 3.9961466749533874,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 11.55,
+   "score": 9.48,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1470.7893101305158,
+   "score": 9.33,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 30.0,
+   "score": 9.09,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 68.03205699020482,
+   "score": 8.5,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 32.190000000000005,
+   "score": 8.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 15.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 17.20074183627955,
+   "score": 2.87,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 16.0
+  },
+  {
+   "metric": "Independent Directors Percentage",
+   "value": 30.0,
+   "score": 2.5,
+   "source": "BRSR_PDF",
+   "page": 3.0
+  }
+ ],
+ "KPITTECH": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0003047356126566,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 765.8502630895921,
+   "score": 9.82,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 76.66126181398543,
+   "score": 9.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 54.0
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 32.23,
+   "score": 8.06,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 39.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 43.97288762227528,
+   "score": 7.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 41.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 25.0,
+   "score": 5.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 7.15,
+   "score": 2.17,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "CYIENT": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 6.896751935375295,
+   "score": 9.8,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1680.1301469763266,
+   "score": 9.19,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 68.83039186359557,
+   "score": 8.6,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 22.23,
+   "score": 6.74,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 25.0,
+   "score": 6.25,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 27.6,
+   "score": 4.13,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 23.586533110740124,
+   "score": 3.93,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "BSOFT": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 3.219812534460577,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 42.86,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 751.5213706630726,
+   "score": 9.83,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 70.45053868756122,
+   "score": 8.81,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 25.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 15.3,
+   "score": 8.23,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 24.91,
+   "score": 6.23,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 16.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 8.953500220780544,
+   "score": 1.49,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 17.0
+  }
+ ],
+ "ZENSARTECH": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 1.8838365914786968,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 100.00661725780836,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 589.338067390699,
+   "score": 9.94,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 53.28002048846272,
+   "score": 8.88,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 36.0
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 40.0,
+   "score": 8.0,
+   "source": "BRSR_PDF",
+   "page": 15.0
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 29.92,
+   "score": 7.48,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 32.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 24.9,
+   "score": 5.03,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 11.12,
+   "score": 3.37,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Independent Directors Percentage",
+   "value": 24.24,
+   "score": 1.06,
+   "source": "BRSR_PDF",
+   "page": 31.0
+  }
+ ],
+ "TATATECH": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 9.350557839107458,
+   "score": 9.54,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1214.4604759108574,
+   "score": 9.51,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.3355423202751447,
+   "score": 9.33,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 28.58,
+   "score": 8.66,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 16.6,
+   "score": 7.8,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 15.89,
+   "score": 3.97,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 15.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 8.587833490075733,
+   "score": 1.07,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.1751750311305025,
+   "score": 0.03,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 16.0
+  }
+ ],
+ "HAPPSTMNDS": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1009.3583708555057,
+   "score": 9.65,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 14.657920589439216,
+   "score": 8.98,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 16.63,
+   "score": 7.79,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 25.0,
+   "score": 7.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 27.450000000000003,
+   "score": 6.86,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 9.869095836987396,
+   "score": 1.64,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "SONATSOFTW": [
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 77.65328562681412,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 1.1361085126286248,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 518.875030315629,
+   "score": 9.99,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 30.380000000000003,
+   "score": 7.6,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 19.0,
+   "score": 7.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 14.29,
+   "score": 4.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "HEXAWARE": [],
+ "MINDTREE": [],
+ "NEWGEN": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 94.13145539906102,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 5.956579207920792,
+   "score": 9.9,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 941.9650715071508,
+   "score": 9.7,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 28.58,
+   "score": 8.66,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 21.0,
+   "score": 6.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 25.05,
+   "score": 6.26,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 22.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 6.55922580682835,
+   "score": 1.09,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 6.0
+  }
+ ],
+ "TANLA": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 8.124395161290321,
+   "score": 9.67,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1841.0310259856628,
+   "score": 9.08,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 20.27,
+   "score": 5.07,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 14.29,
+   "score": 4.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 33.64,
+   "score": 2.12,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0526260553729529,
+   "score": 0.01,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 6.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "INTELLECT": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 5.832404285212505,
+   "score": 9.91,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1116.0275582484485,
+   "score": 9.58,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 75.20032158649339,
+   "score": 9.4,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 8.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 15.86,
+   "score": 8.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 1.4049877063575693,
+   "score": 7.19,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 26.540000000000003,
+   "score": 6.64,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 24.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 28.646878627709626,
+   "score": 4.77,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 26.0
+  }
+ ],
+ "ROUTE": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 9.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 726.7307692307693,
+   "score": 9.84,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 7.158038461538461,
+   "score": 9.77,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 21.16,
+   "score": 5.29,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 23.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "RATEGAIN": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 81.81818181818183,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 353.2498735457763,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 33.34,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 16.1,
+   "score": 7.97,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 40.79666160849772,
+   "score": 6.23,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 22.62,
+   "score": 5.66,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "ECLERX": [
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 64.08426424262642,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 27.0
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 7.096145978234187,
+   "score": 9.78,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1073.7969251470602,
+   "score": 9.6,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 36.17,
+   "score": 9.04,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 23.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 42.697421434327154,
+   "score": 5.34,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 11.12,
+   "score": 3.37,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 38.2,
+   "score": 0.6,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "DATAMATICS": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0456328093510681,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 39.99,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1200.270388284294,
+   "score": 9.52,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 25.0,
+   "score": 7.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 24.0,
+   "score": 5.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 10.122637716123844,
+   "score": 1.27,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "MASTEK": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 3.944958448753463,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 30.570000000000004,
+   "score": 7.64,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 19.3,
+   "score": 6.9,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 12.467532467532466,
+   "score": 1.56,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "SONACOMS": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 96.8122338002333,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 262.67023411371235,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 12.0,
+   "score": 9.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 22.23,
+   "score": 6.74,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 8.17,
+   "score": 2.04,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 3.473205463824065,
+   "score": 0.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 99.4247491638796,
+   "score": 0.06,
+   "source": "derived",
+   "page": null
+  }
+ ],
+ "HGS": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 43.4,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1725.892455377231,
+   "score": 9.15,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 10.0,
+   "score": 3.03,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 36.0,
+   "score": 1.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "NIITLTD": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 7.649674620390455,
+   "score": 9.72,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1432.236683538202,
+   "score": 9.36,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 34.39,
+   "score": 8.6,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 20.0,
+   "score": 6.06,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 30.0,
+   "score": 3.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 6.237010610280445,
+   "score": 1.04,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL",
+   "page": null
+  }
+ ],
+ "E2E": [],
+ "AFFLE": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 37.61,
+   "score": 9.4,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Independent Directors Percentage",
+   "value": 55.6,
+   "score": 8.9,
+   "source": "BRSR_PDF",
+   "page": 9.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 25.0,
+   "score": 7.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 33.0,
+   "score": 2.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL",
+   "page": null
+  }
+ ],
+ "MPSLTD": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0961894191638919,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 57.15,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1513.157191597813,
+   "score": 9.3,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 34.300000000000004,
+   "score": 8.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 19.4,
+   "score": 6.87,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL",
+   "page": null
+  }
+ ],
+ "SUBEXLTD": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 50.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 10.28481012658228,
+   "score": 9.44,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 1679.9182489451475,
+   "score": 9.19,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 34.02,
+   "score": 8.51,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 35.68776735606923,
+   "score": 5.95,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 24.0,
+   "score": 5.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL",
+   "page": null
+  }
+ ],
+ "SIS": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 27.28,
+   "score": 8.27,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 4.84,
+   "score": 1.21,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 19.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 39.76,
+   "score": 0.08,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 65750001.83587296,
+   "score": 0.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 30.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 3.687607006453313e-07,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "ZOMATO": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0376995509198899,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 50.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 74.03225806451613,
+   "score": 9.25,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 29.08,
+   "score": 7.27,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 44.330000000000005,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "PAYTM": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 85.84790316664628,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 199.05101437409027,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 2.5462820687772925,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 12.5,
+   "score": 3.79,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 7.08,
+   "score": 1.77,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 32.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 34.0
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 97.47,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "POLICYBZR": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 100.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.4632092794124233,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 33.34,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 614.8581067968412,
+   "score": 9.92,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 24.49,
+   "score": 6.12,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.8234699038947901,
+   "score": 0.14,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 89.57000000000001,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "DELHIVERY": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 3.441067854283427,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 22.23,
+   "score": 6.74,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 10386.68573747887,
+   "score": 3.18,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 8.3,
+   "score": 2.08,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 39.49,
+   "score": 0.17,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.6388135266822805,
+   "score": 0.11,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 5.254203362690152,
+   "score": 0.0,
+   "source": "derived",
+   "page": null
+  }
+ ],
+ "NAZARA": [
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 3803.924162257496,
+   "score": 7.72,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 15.88,
+   "score": 3.97,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 12.5,
+   "score": 3.79,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 30.16,
+   "score": 3.28,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL",
+   "page": null
+  }
+ ],
+ "TATACOMM": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 94.16575392479008,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 40.0
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.076645972254158,
+   "score": 9.85,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 11.0,
+   "score": 9.67,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 12.35333793209167,
+   "score": 9.23,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 23.8,
+   "score": 5.95,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 56.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 33.91159319539342,
+   "score": 5.65,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 39.0
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 14118.59260962503,
+   "score": 0.61,
+   "source": "derived",
+   "page": null
+  }
+ ],
+ "INDUSTOWER": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 100.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 2636.740672352648,
+   "score": 8.53,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 19.17,
+   "score": 6.94,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 2.374043787918755,
+   "score": 5.25,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 16.25,
+   "score": 4.06,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 9.1,
+   "score": 2.76,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 88.30704299657083,
+   "score": 1.23,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 1.024688439813921,
+   "score": 0.17,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "BHARTIARTL": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 98.36764526738943,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 13.0
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 198.3451776649746,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 5.349223865224748,
+   "score": 9.96,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 30.0,
+   "score": 9.09,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 1.1035091591260209,
+   "score": 7.79,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 18.0,
+   "score": 7.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 19.58,
+   "score": 4.89,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 10.0
+  },
+  {
+   "metric": "Water Recycled Percentage",
+   "value": 4.0,
+   "score": 0.8,
+   "source": "BRSR_PDF",
+   "page": 12.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.804456501339339,
+   "score": 0.13,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 11.0
+  }
+ ],
+ "TEJASNET": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 10.3,
+   "score": 9.9,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 5.0
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 12.316033755274262,
+   "score": 9.23,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 5716.0433661509605,
+   "score": 6.4,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 14.27,
+   "score": 3.57,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 22.0
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 1.8369100294135936,
+   "score": 0.23,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "REDINGTON": [
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 99.61917447956692,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 5.0
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 6.386192468619247,
+   "score": 9.85,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 2047.071129707113,
+   "score": 8.93,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 25.0,
+   "score": 7.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 21.0,
+   "score": 6.33,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 23.6,
+   "score": 5.9,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 11.0
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 3.4661897462101856,
+   "score": 0.58,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": 7.0
+  }
+ ],
+ "HCL-INFO": [],
+ "MAZDOCK": [
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.0,
+   "score": 10.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 0.73,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 28.518532099890944,
+   "score": 4.75,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 79.39979487179488,
+   "score": 2.17,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 7.59,
+   "score": 1.9,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 0.9205305598241128,
+   "score": 0.12,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 16382.713706552706,
+   "score": 0.0,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 0.0,
+   "score": 0.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ],
+ "TITAN": [
+  {
+   "metric": "Employee Turnover Rate",
+   "value": 10.0,
+   "score": 10.0,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Safety Incidents per 1000 Employees",
+   "value": 0.5291705252017462,
+   "score": 8.94,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Female Employee Percentage",
+   "value": 25.82,
+   "score": 6.46,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Water Intensity (KL/employee)",
+   "value": 39.70339992062442,
+   "score": 6.35,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Renewable Energy Percentage",
+   "value": 30.71297528537064,
+   "score": 5.12,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Female Directors Percentage",
+   "value": 16.669999999999998,
+   "score": 5.05,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  },
+  {
+   "metric": "Energy Intensity (kWh/employee)",
+   "value": 8753.32568975908,
+   "score": 4.31,
+   "source": "derived",
+   "page": null
+  },
+  {
+   "metric": "Waste Recycled Percentage",
+   "value": 13.103904698874915,
+   "score": 1.64,
+   "source": "XBRL_TAXONOMY_EXACT",
+   "page": null
+  }
+ ]
+}

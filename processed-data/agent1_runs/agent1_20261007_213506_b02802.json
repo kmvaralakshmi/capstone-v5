@@ -1,0 +1,66 @@
+{
+  "run_id": "20261007_213506_b02802",
+  "created_at": "2026-10-07T16:05:23.907038+00:00",
+  "financial_year": "2024-25",
+  "target_end_date": "2025-03-31",
+  "source_priority": [
+    "NSE XBRL",
+    "BRSR PDF"
+  ],
+  "companies_processed": [
+    "INFY"
+  ],
+  "metrics_total": 18,
+  "rows": 18,
+  "columns": [
+    "Company_Code",
+    "Company_Name",
+    "Metric_Category",
+    "Metric_Name",
+    "Unit",
+    "Extraction_Date",
+    "Financial_Year",
+    "Run_ID",
+    "Retrieved_At",
+    "Metric_Value",
+    "Page_Number",
+    "Verified",
+    "Extraction_Method",
+    "Confidence_Score",
+    "Validation_Status",
+    "Needs_Manual_Review",
+    "Notes",
+    "Primary_Source",
+    "Evidence_Source",
+    "XBRL_URL",
+    "XBRL_Local_File",
+    "XBRL_Concept",
+    "XBRL_Context",
+    "XBRL_Unit",
+    "XBRL_Confidence",
+    "PDF_Evidence_Page",
+    "Discrepancy_Flag",
+    "Discrepancy_Note"
+  ],
+  "timing": [
+    {
+      "Company_Code": "INFY",
+      "Company_Name": "Infosys",
+      "XBRL_Status": "INVALID_XBRL",
+      "XBRL_URL": "https://nsearchives.nseindia.com/corporate/xbrl/BRSR_1477079_03072025095250_WEB.xml",
+      "XBRL_Discovery_Seconds": 12.819,
+      "XBRL_Download_Seconds": 1.134,
+      "XBRL_Parse_Seconds": 0.078,
+      "XBRL_Metrics": 0,
+      "PDF_Pages": 369,
+      "PDF_Text_Seconds": 0.238,
+      "PDF_Table_Seconds": 3.194,
+      "PDF_Metrics": 4,
+      "Final_Metrics": 4,
+      "Discrepancies": 0,
+      "Company_Total_Seconds": 17.836,
+      "Status": "INVALID_XBRL",
+      "XBRL_Note": "Valid XML structure but no target BRSR metrics matched."
+    }
+  ]
+}

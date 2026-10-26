@@ -1,0 +1,51 @@
+Company_Code,Rule_ID,Description
+TCS,CONTRADICTION,High environmental score but poor local air-quality context (context only)
+INFY,NONE,No contradiction detected
+WIPRO,NONE,No contradiction detected
+HCLTECH,NONE,No contradiction detected
+TECHM,NONE,No contradiction detected
+LTIM,CONTRADICTION,High environmental score but poor local air-quality context (context only)
+MPHASIS,CONTRADICTION,High environmental score but poor local air-quality context (context only)
+PERSISTENT,NONE,No contradiction detected
+COFORGE,NONE,No contradiction detected
+LTTS,NONE,No contradiction detected
+TATAELXSI,NONE,No contradiction detected
+OFSS,NONE,No contradiction detected
+KPITTECH,NONE,No contradiction detected
+CYIENT,NONE,No contradiction detected
+BSOFT,NONE,No contradiction detected
+ZENSARTECH,NONE,No contradiction detected
+TATATECH,NONE,No contradiction detected
+HAPPSTMNDS,NONE,No contradiction detected
+SONATSOFTW,NONE,No contradiction detected
+HEXAWARE,NONE,No contradiction detected
+MINDTREE,NONE,No contradiction detected
+NEWGEN,NONE,No contradiction detected
+TANLA,NONE,No contradiction detected
+INTELLECT,CONTRADICTION,High environmental score but poor local air-quality context (context only)
+ROUTE,NONE,No contradiction detected
+RATEGAIN,NONE,No contradiction detected
+ECLERX,CONTRADICTION,High environmental score but poor local air-quality context (context only)
+DATAMATICS,NONE,No contradiction detected
+MASTEK,NONE,No contradiction detected
+SONACOMS,NONE,No contradiction detected
+HGS,NONE,No contradiction detected
+NIITLTD,NONE,No contradiction detected
+E2E,NONE,No contradiction detected
+AFFLE,NONE,No contradiction detected
+MPSLTD,NONE,No contradiction detected
+SUBEXLTD,NONE,No contradiction detected
+SIS,NONE,No contradiction detected
+ZOMATO,NONE,No contradiction detected
+PAYTM,NONE,No contradiction detected
+POLICYBZR,NONE,No contradiction detected
+DELHIVERY,NONE,No contradiction detected
+NAZARA,NONE,No contradiction detected
+TATACOMM,NONE,No contradiction detected
+INDUSTOWER,NONE,No contradiction detected
+BHARTIARTL,NONE,No contradiction detected
+TEJASNET,NONE,No contradiction detected
+REDINGTON,NONE,No contradiction detected
+HCL-INFO,NONE,No contradiction detected
+MAZDOCK,NONE,No contradiction detected
+TITAN,NONE,No contradiction detected

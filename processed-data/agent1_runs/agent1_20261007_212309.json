@@ -1,0 +1,12 @@
+{
+  "run_id": "20261007_212309",
+  "agent": "Agent 1 - XBRL-first BRSR Extraction",
+  "financial_year": "2024-25",
+  "company_filter": "INFY",
+  "companies_processed": 1,
+  "metrics": 18,
+  "created_at": "2026-10-07T15:53:28.059575+00:00",
+  "xbrl_directory": "C:\\Users\\mahes\\Downloads\\capstone-v5\\raw-datasets\\xbrl",
+  "nse_brsr_page": "https://www.nseindia.com/companies-listing/corporate-filings-bussiness-sustainabilitiy-reports",
+  "nse_api_override_used": false
+}

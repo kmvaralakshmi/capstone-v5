@@ -1,0 +1,17 @@
+{
+  "companies": {
+    "INFY": {
+      "valid": {
+        "pdf": true,
+        "xbrl": true
+      },
+      "local": {
+        "pdf": true,
+        "xbrl": true
+      }
+    }
+  },
+  "queries": {
+    "Infosys": "INFY"
+  }
+}

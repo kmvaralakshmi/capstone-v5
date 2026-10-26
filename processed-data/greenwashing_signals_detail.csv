@@ -1,0 +1,27 @@
+Company_Code,signal,strength,evidence
+TCS,implausible_claims,0.25,quarantined: Training Hours per Employee
+TCS,claim_offset,0.5,"Improved Renewable Energy Percentage: BRSR: Renewable Energy Percentage +5.1pp vs prior year | total energy rose +13.6% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction, no corroboration)"
+TECHM,implausible_claims,0.25,quarantined: Independent Directors Percentage
+LTIM,claim_offset,0.5,"Improved Renewable Energy Percentage: BRSR: Renewable Energy Percentage +13.2pp vs prior year | total energy rose +21.8% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction, no corroboration)"
+MPHASIS,implausible_claims,0.25,quarantined: Independent Directors Percentage
+COFORGE,claim_offset,0.5,"Improved Renewable Energy Percentage: BRSR: Renewable Energy Percentage +11.1pp vs prior year | total energy rose +46.2% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction, no corroboration)"
+KPITTECH,intensity_outlier,0.7459881793785879,"water_kl_per_emp=0.000305, log-z=-2.98 vs 44 companies"
+KPITTECH,claim_offset,0.5,"Improved Renewable Energy Percentage: BRSR: Renewable Energy Percentage +7.4pp vs prior year | total energy rose +20.4% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction, no corroboration)"
+HEXAWARE,implausible_claims,0.5,"quarantined: Training Hours per Employee, Independent Directors Percentage"
+HEXAWARE,disclosure_gap,0.6111111111111112,61% of the 18 mandatory metrics have no trusted value
+MINDTREE,disclosure_gap,1.0,100% of the 18 mandatory metrics have no trusted value
+ROUTE,implausible_claims,0.25,quarantined: Independent Directors Percentage
+ECLERX,implausible_claims,0.25,quarantined: Independent Directors Percentage
+MASTEK,implausible_claims,0.25,quarantined: Total Energy Consumption
+NIITLTD,claim_offset,0.5,"Improved Renewable Energy Percentage: BRSR: Renewable Energy Percentage +1.1pp vs prior year | total energy rose +22.8% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction, no corroboration)"
+E2E,disclosure_gap,1.0,100% of the 18 mandatory metrics have no trusted value
+AFFLE,implausible_claims,0.25,quarantined: Total Energy Consumption
+SIS,implausible_claims,0.5,"quarantined: Total Energy Consumption, Independent Directors Percentage"
+SIS,intensity_outlier,1.0,"water_kl_per_emp=6.58e+07, log-z=4.95 vs 44 companies"
+ZOMATO,implausible_claims,0.25,quarantined: Total Energy Consumption
+DELHIVERY,intensity_outlier,0.5230944702891073,"energy_kwh_per_emp=1.04e+04, log-z=2.09 vs 43 companies"
+TATACOMM,intensity_outlier,0.5982853225445735,"energy_kwh_per_emp=1.41e+04, log-z=2.39 vs 43 companies"
+BHARTIARTL,implausible_claims,0.25,quarantined: Independent Directors Percentage
+HCL-INFO,disclosure_gap,1.0,100% of the 18 mandatory metrics have no trusted value
+MAZDOCK,intensity_outlier,0.634717321366185,"energy_kwh_per_emp=1.64e+04, log-z=2.54 vs 43 companies"
+TITAN,claim_offset,0.5,"Improved Renewable Energy Percentage: BRSR: Renewable Energy Percentage +1.2pp vs prior year | total energy rose +13.5% - renewable share improved while absolute use grew | external news: no environmental coverage found (no contradiction, no corroboration)"

@@ -1,0 +1,24 @@
+[
+  {
+    "run_id": "20261007_230403_f229f6",
+    "company_code": "INFY",
+    "company_name": "Infosys",
+    "financial_year": "2024-25",
+    "xbrl": {
+      "status": "SUCCESS",
+      "time_sec": 1.0722007000003941,
+      "metrics": 16,
+      "error": null
+    },
+    "pdf": {
+      "status": "SUCCESS",
+      "time_sec": 47.58086370001547,
+      "metrics": 8,
+      "error": null
+    },
+    "final_metrics": 16,
+    "pdf_fallback_metrics": 0,
+    "discrepancies": 7,
+    "company_total_time_sec": 48.6553679999779
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "generated": "2026-10-12T07:12:47+00:00",
+  "scored_companies": 46,
+  "analyses": {
+    "nse_top200": {
+      "status": "awaiting benchmark file",
+      "how": "copy data/benchmark/nse_top200_esg_template.csv to nse_top200_esg.csv, fill NSE_ESG_Score, and re-run: python run_agents.py --agents agent8"
+    },
+    "nse_cfa": {
+      "status": "awaiting reference file",
+      "our_disclosure_rates_written": true,
+      "companies": 50,
+      "how": "copy data/benchmark/nse_cfa_reference_template.csv to nse_cfa_reference.csv and fill Reference_Pct_Companies_Reporting"
+    },
+    "esg_stock": {
+      "status": "insufficient sample (n=7); run in --dynamic mode so more companies have prices",
+      "FY_Return_Pct": {
+        "n": 7,
+        "status": "insufficient sample (n=7, need >= 10)"
+      },
+      "Return_1Y_Pct": {
+        "n": 7,
+        "status": "insufficient sample (n=7, need >= 10)"
+      },
+      "Volatility_Pct": {
+        "n": 7,
+        "status": "insufficient sample (n=7, need >= 10)"
+      },
+      "Max_Drawdown_Pct": {
+        "n": 7,
+        "status": "insufficient sample (n=7, need >= 10)"
+      }
+    },
+    "esg_news": {
+      "Shrunk_Sentiment": {
+        "n": 5,
+        "status": "insufficient sample (n=5, need >= 10)"
+      },
+      "Negative_Share": {
+        "n": 5,
+        "status": "insufficient sample (n=5, need >= 10)"
+      },
+      "Negative_Events": {
+        "n": 5,
+        "status": "insufficient sample (n=5, need >= 10)"
+      },
+      "status": "insufficient sample (n=5); run in --dynamic mode (GDELT) for more articles"
+    },
+    "esg_air": {
+      "status": "ok",
+      "environmental_vs_hq_aqi": {
+        "n": 46,
+        "status": "ok",
+        "pearson_r": -0.15,
+        "pearson_p": 0.3181,
+        "spearman_rho": -0.261,
+        "spearman_p": 0.0803,
+        "reading": "weak negative association (not causation)"
+      },
+      "note": "air quality is local context, not evidence about the company"
+    }
+  },
+  "caveat": "All relationships are statistical associations, not causal claims."
+}

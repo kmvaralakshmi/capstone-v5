@@ -1,0 +1,12 @@
+{
+  "run_time": "2026-10-11T17:34:37+00:00",
+  "inputs": {
+    "brsr": "6f701e7bcb674758",
+    "stock": "eae12537fc716a8f"
+  },
+  "gate_counts": {
+    "Partial": 46,
+    "Insufficient": 4
+  },
+  "method": "esg_agents.agent6_master_scoring v1"
+}

@@ -1,0 +1,51 @@
+Company_Code,Company_Name,Usable_Metrics,Signal_Count,Inconsistency_Risk_Score,Trust_Score,Risk_Level,Signals
+TCS,Tata Consultancy Services,11,2,0.875,9.12,Low,implausible_claims | claim_offset
+INFY,Infosys,13,0,0.0,10.0,Low,
+WIPRO,Wipro,13,0,0.0,10.0,Low,
+HCLTECH,HCL Technologies,12,0,0.0,10.0,Low,
+TECHM,Tech Mahindra,12,1,0.375,9.62,Low,implausible_claims
+LTIM,LTIMindtree,12,1,0.5,9.5,Low,claim_offset
+MPHASIS,Mphasis,13,1,0.375,9.62,Low,implausible_claims
+PERSISTENT,Persistent Systems,12,0,0.0,10.0,Low,
+COFORGE,Coforge,11,1,0.5,9.5,Low,claim_offset
+LTTS,L&T Technology Services,11,0,0.0,10.0,Low,
+TATAELXSI,Tata Elxsi,11,0,0.0,10.0,Low,
+OFSS,Oracle Financial Services Software,12,0,0.0,10.0,Low,
+KPITTECH,KPIT Technologies,11,2,1.9919763587571757,8.01,Low,intensity_outlier | claim_offset
+CYIENT,Cyient,11,0,0.0,10.0,Low,
+BSOFT,Birlasoft,11,0,0.0,10.0,Low,
+ZENSARTECH,Zensar Technologies,13,0,0.0,10.0,Low,
+TATATECH,Tata Technologies,11,0,0.0,10.0,Low,
+HAPPSTMNDS,Happiest Minds Technologies,11,0,0.0,10.0,Low,
+SONATSOFTW,Sonata Software,11,0,0.0,10.0,Low,
+HEXAWARE,Hexaware Technologies,7,2,1.3611111111111112,8.64,Low,implausible_claims | disclosure_gap
+MINDTREE,Mindtree (legacy symbol),0,1,,,Insufficient evidence,disclosure_gap
+NEWGEN,Newgen Software Technologies,11,0,0.0,10.0,Low,
+TANLA,Tanla Platforms,11,0,0.0,10.0,Low,
+INTELLECT,Intellect Design Arena,11,0,0.0,10.0,Low,
+ROUTE,Route Mobile,11,1,0.375,9.62,Low,implausible_claims
+RATEGAIN,RateGain Travel Technologies,11,0,0.0,10.0,Low,
+ECLERX,eClerx Services,11,1,0.375,9.62,Low,implausible_claims
+DATAMATICS,Datamatics Global Services,11,0,0.0,10.0,Low,
+MASTEK,Mastek,10,1,0.375,9.62,Low,implausible_claims
+SONACOMS,Sona BLW Precision Forgings,11,0,0.0,10.0,Low,
+HGS,Hinduja Global Solutions,11,0,0.0,10.0,Low,
+NIITLTD,NIIT,11,1,0.5,9.5,Low,claim_offset
+E2E,E2E Networks,0,1,,,Insufficient evidence,disclosure_gap
+AFFLE,Affle India,10,1,0.375,9.62,Low,implausible_claims
+MPSLTD,MPS,11,0,0.0,10.0,Low,
+SUBEXLTD,Subex,11,0,0.0,10.0,Low,
+SIS,Security and Intelligence Services,10,2,2.75,7.25,Medium,implausible_claims | intensity_outlier
+ZOMATO,Eternal (formerly Zomato),10,1,0.375,9.62,Low,implausible_claims
+PAYTM,One 97 Communications,11,0,0.0,10.0,Low,
+POLICYBZR,PB Fintech,11,0,0.0,10.0,Low,
+DELHIVERY,Delhivery,11,1,1.0461889405782145,8.95,Low,intensity_outlier
+NAZARA,Nazara Technologies,11,0,0.0,10.0,Low,
+TATACOMM,Tata Communications,11,1,1.196570645089147,8.8,Low,intensity_outlier
+INDUSTOWER,Indus Towers,11,0,0.0,10.0,Low,
+BHARTIARTL,Bharti Airtel,12,1,0.375,9.62,Low,implausible_claims
+TEJASNET,Tejas Networks,11,0,0.0,10.0,Low,
+REDINGTON,Redington,11,0,0.0,10.0,Low,
+HCL-INFO,HCL Infosystems,0,1,,,Insufficient evidence,disclosure_gap
+MAZDOCK,Mazagon Dock Shipbuilders,11,1,1.26943464273237,8.73,Low,intensity_outlier
+TITAN,Titan Company,11,1,0.5,9.5,Low,claim_offset

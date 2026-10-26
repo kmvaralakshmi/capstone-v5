@@ -1,0 +1,155 @@
+{
+  "purpose": "BRSR XBRL extraction reference profile for the project's 18 metrics",
+  "research_basis": [
+    "NSE XBRL filing information: taxonomy + instance document; units, period and scale are part of XBRL.",
+    "NSE/SES Top-200 ESG methodology: industry-specific materiality, disclosure quality, performance and large indicator set.",
+    "CFA/NSE BRSR research: standardized units, reporting boundaries, consistency and sector-sensitive interpretation."
+  ],
+  "metric_strategy": {
+    "direct_preferred": true,
+    "derived_allowed": true,
+    "derived_confidence_cap": 0.78,
+    "pdf_used_for_evidence_and_fallback": true,
+    "do_not_invent_missing_values": true
+  },
+  "metrics": {
+    "Total Energy Consumption": {
+      "primary_brsr_concept_family": [
+        "TotalEnergyConsumedInGigajoules",
+        "TotalEnergyConsumption",
+        "EnergyConsumption"
+      ],
+      "normalization": "GJ -> GWh by dividing by 3600"
+    },
+    "Renewable Energy Percentage": {
+      "primary_brsr_concept_family": [
+        "RenewableEnergyConsumed",
+        "RenewableEnergyConsumption",
+        "PercentageOfEnergyFromRenewables"
+      ],
+      "fallback_formula": "renewable_energy / total_energy * 100"
+    },
+    "Total Water Consumption": {
+      "primary_brsr_concept_family": [
+        "TotalWaterWithdrawal",
+        "TotalWaterConsumption",
+        "WaterWithdrawal"
+      ],
+      "normalization": "KL"
+    },
+    "Water Recycled Percentage": {
+      "primary_brsr_concept_family": [
+        "WaterRecycled",
+        "WaterReused",
+        "PercentageOfWaterRecycled"
+      ],
+      "fallback_formula": "recycled_or_reused_water / total_water * 100"
+    },
+    "Total Waste Generated": {
+      "primary_brsr_concept_family": [
+        "TotalWasteGenerated",
+        "WasteGenerated"
+      ],
+      "normalization": "MT"
+    },
+    "Waste Recycled Percentage": {
+      "primary_brsr_concept_family": [
+        "WasteRecycled",
+        "WasteRecovered",
+        "WasteReused"
+      ],
+      "fallback_formula": "recycled_or_recovered_waste / total_waste * 100"
+    },
+    "Total Employees": {
+      "primary_brsr_concept_family": [
+        "TotalEmployees",
+        "TotalPermanentEmployees",
+        "NumberOfEmployees"
+      ]
+    },
+    "Female Employee Percentage": {
+      "primary_brsr_concept_family": [
+        "FemaleEmployees",
+        "WomenEmployees",
+        "PercentageOfFemaleEmployees"
+      ],
+      "fallback_formula": "female_employees / total_employees * 100"
+    },
+    "Employee Turnover Rate": {
+      "primary_brsr_concept_family": [
+        "EmployeeTurnoverRate",
+        "TurnoverRate",
+        "EmployeeTurnover"
+      ]
+    },
+    "Training Hours per Employee": {
+      "primary_brsr_concept_family": [
+        "TrainingHoursPerEmployee",
+        "AverageTrainingHoursPerEmployee",
+        "TrainingHours"
+      ],
+      "fallback_formula": "total_training_hours / total_employees"
+    },
+    "Health and Safety Incidents": {
+      "primary_brsr_concept_family": [
+        "WorkRelatedInjuries",
+        "WorkRelatedFatalities",
+        "HealthAndSafetyIncidents",
+        "LostTimeInjuries"
+      ]
+    },
+    "CSR Expenditure": {
+      "primary_brsr_concept_family": [
+        "CSRExpenditure",
+        "CSRSpent",
+        "CorporateSocialResponsibilityExpenditure"
+      ],
+      "normalization": "INR -> crore by dividing by 10,000,000"
+    },
+    "Board Size": {
+      "primary_brsr_concept_family": [
+        "BoardSize",
+        "NumberOfDirectors",
+        "NumberOfBoardMembers"
+      ]
+    },
+    "Independent Directors Percentage": {
+      "primary_brsr_concept_family": [
+        "IndependentDirectorsPercentage",
+        "PercentageOfIndependentDirectors",
+        "IndependentDirectors"
+      ],
+      "fallback_formula": "independent_director_count / board_size * 100"
+    },
+    "Female Directors Percentage": {
+      "primary_brsr_concept_family": [
+        "FemaleDirectorsPercentage",
+        "WomenDirectorsPercentage",
+        "FemaleDirectors"
+      ],
+      "fallback_formula": "female_director_count / board_size * 100"
+    },
+    "Board Meeting Frequency": {
+      "primary_brsr_concept_family": [
+        "NumberOfBoardMeetings",
+        "BoardMeetingsHeld",
+        "BoardMeetingsConducted"
+      ]
+    },
+    "Audit Committee Size": {
+      "primary_brsr_concept_family": [
+        "AuditCommitteeSize",
+        "NumberOfAuditCommitteeMembers",
+        "AuditCommitteeMembers"
+      ]
+    },
+    "Ethics Policy Violations": {
+      "primary_brsr_concept_family": [
+        "EthicsViolations",
+        "CodeOfConductViolations",
+        "EthicsComplaints",
+        "WhistleblowerComplaints"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+Analysis,n,status,pearson_r,pearson_p,spearman_rho,spearman_p,reading
+BRSR-only environmental score vs HQ AQI,46,ok,-0.15,0.3181,-0.261,0.0803,weak negative association (not causation)
